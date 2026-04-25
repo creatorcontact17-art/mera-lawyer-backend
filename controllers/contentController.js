@@ -3,15 +3,16 @@ const path = require("path");
 const vm = require("vm");
 const { isValidFilePath, isValidArticleKey } = require("../middleware/inputValidator");
 
-const projectRoot = path.resolve(__dirname, "..", "..");
-const frontendPublicDir = path.join(projectRoot, "frontend", "public");
-const assetsDir = path.join(frontendPublicDir, "assets");
-const booksDir = path.join(assetsDir, "books");
-const bookCoversDir = path.join(assetsDir, "book-covers");
-const mcqBundleFile = path.join(assetsDir, "js", "mcq-bundle.js");
-const bookManifestFile = path.join(assetsDir, "js", "book-manifest.js");
-const articleManifestFile = path.join(assetsDir, "data", "articles", "manifest.js");
-const articleBundlesDir = path.join(assetsDir, "data", "articles");
+// Content is served from backend/content/ (bundled with the backend deployment).
+// This directory mirrors the frontend's assets structure so the same manifest
+// and file-resolution logic works in both local dev and production.
+const contentDir = path.resolve(__dirname, "..", "content");
+const booksDir = path.join(contentDir, "books");
+const bookCoversDir = path.join(contentDir, "book-covers");
+const mcqBundleFile = path.join(contentDir, "js", "mcq-bundle.js");
+const bookManifestFile = path.join(contentDir, "js", "book-manifest.js");
+const articleManifestFile = path.join(contentDir, "data", "articles", "manifest.js");
+const articleBundlesDir = path.join(contentDir, "data", "articles");
 
 const cache = {
   mcqBundle: null,

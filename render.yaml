@@ -13,11 +13,19 @@ services:
         sync: false
       - key: JWT_SECRET
         generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 24h
       - key: AI_PROVIDER
-        value: groq
+        value: gemini
       - key: AI_MODEL
-        value: llama-3.3-70b-versatile
+        value: gemini-2.5-flash
+      - key: GEMINI_API_KEY
+        sync: false
       - key: GROQ_API_KEY
         sync: false
       - key: CLIENT_ORIGIN
         sync: false
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      # SKIP_EMAIL_VERIFICATION is intentionally omitted —
+      # email verification is always enforced in production.

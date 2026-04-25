@@ -5,15 +5,64 @@ const rateLimit = require("express-rate-limit");
 
 const authRoutes = require("./routes/auth");
 const aiRoutes = require("./routes/ai");
+const contentRoutes = require("./routes/content");
 const { env } = require("./config/env");
 const { getDatabaseStatus } = require("./config/db");
 const { requireDatabase } = require("./middleware/requireDatabase");
 const { sanitizeBody } = require("./middleware/sanitize");
+const { enforceHttps } = require("./middleware/enforceHttps");
+const {
+  requestLogger,
+  logApiError,
+  logRateLimitHit,
+  logSuspiciousActivity,
+} = require("./middleware/securityLogger");
+const { botGuard } = require("./middleware/botGuard");
 
 const app = express();
 
+// ── Trust proxy (required for x-forwarded-* headers on Render/Heroku) ──
+// This ensures req.ip, x-forwarded-proto, and rate limiter IP detection
+// all work correctly behind a reverse proxy.
+app.set("trust proxy", 1);
+
 app.disable("x-powered-by");
-app.use(helmet());
+
+// ── HTTPS enforcement (production only) ────────────────────────────
+app.use(enforceHttps);
+
+// ── Security headers ───────────────────────────────────────────────
+app.use(
+  helmet({
+    // HSTS: tell browsers to always use HTTPS for 1 year,
+    // including subdomains. Only active over HTTPS connections.
+    hsts: {
+      maxAge: 31536000, // 1 year in seconds
+      includeSubDomains: true,
+      preload: true,
+    },
+    // Prevent framing (clickjacking protection)
+    frameguard: { action: "deny" },
+    // Prevent MIME type sniffing
+    noSniff: true,
+    // Referrer-Policy: only send origin on cross-origin requests
+    referrerPolicy: { policy: "strict-origin-when-cross-origin" },
+    // Content-Security-Policy: restrict resource loading
+    contentSecurityPolicy: {
+      directives: {
+        defaultSrc: ["'self'"],
+        scriptSrc: ["'self'"],
+        styleSrc: ["'self'", "'unsafe-inline'"],
+        imgSrc: ["'self'", "data:"],
+        connectSrc: ["'self'"],
+        fontSrc: ["'self'"],
+        objectSrc: ["'none'"],
+        frameAncestors: ["'none'"],
+      },
+    },
+  })
+);
+
 app.use(
   cors({
     origin(origin, callback) {
@@ -28,30 +77,43 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
+
 app.use(express.json({ limit: "10kb" }));
 app.use(express.urlencoded({ extended: false }));
 app.use(sanitizeBody);
 
-const globalLimiter = rateLimit({
+// ── Structured request logging ─────────────────────────────────────
+app.use(requestLogger);
+
+// ── Rate limiters ──────────────────────────────────────────────────
+
+function createRateLimiter({ windowMs, max, message, route }) {
+  return rateLimit({
+    windowMs,
+    max,
+    standardHeaders: true,
+    legacyHeaders: false,
+    message: { success: false, message },
+    handler(req, res, next, options) {
+      // Log the rate limit hit for security monitoring
+      logRateLimitHit(req, { route: route || req.originalUrl });
+      res.status(options.statusCode).json(options.message);
+    },
+  });
+}
+
+const globalLimiter = createRateLimiter({
   windowMs: 15 * 60 * 1000,
   max: 100,
-  standardHeaders: true,
-  legacyHeaders: false,
-  message: {
-    success: false,
-    message: "Too many requests from this IP. Please try again later.",
-  },
+  message: "Too many requests from this IP. Please try again later.",
+  route: "global",
 });
 
-const authLimiter = rateLimit({
+const authLimiter = createRateLimiter({
   windowMs: 15 * 60 * 1000,
   max: 20,
-  standardHeaders: true,
-  legacyHeaders: false,
-  message: {
-    success: false,
-    message: "Too many authentication attempts. Please try again later.",
-  },
+  message: "Too many authentication attempts. Please try again later.",
+  route: "/api/auth",
 });
 
 app.use(globalLimiter);
@@ -72,10 +134,23 @@ app.get("/api", (req, res) => {
       { method: "GET", path: "/" },
       { method: "GET", path: "/api" },
       { method: "GET", path: "/health" },
+      { method: "GET", path: "/api/content/mcq/bundle" },
+      { method: "GET", path: "/api/content/test-series/config" },
+      { method: "POST", path: "/api/content/test-series/attempt" },
+      { method: "GET", path: "/api/content/test-series/attempt/:attemptId" },
+      { method: "POST", path: "/api/content/test-series/attempt/:attemptId/submit" },
+      { method: "GET", path: "/api/content/books/manifest" },
+      { method: "GET", path: "/api/content/books/file?path=..." },
+      { method: "GET", path: "/api/content/books/cover?path=..." },
+      { method: "GET", path: "/api/content/articles/manifest" },
+      { method: "GET", path: "/api/content/articles/article?item=..." },
       { method: "POST", path: "/api/auth/signup" },
       { method: "POST", path: "/api/auth/login" },
+      { method: "POST", path: "/api/auth/google" },
       { method: "POST", path: "/api/auth/forgot-password" },
       { method: "POST", path: "/api/auth/reset-password" },
+      { method: "POST", path: "/api/auth/verify-email" },
+      { method: "POST", path: "/api/auth/resend-verification" },
       { method: "GET", path: "/api/auth/me" },
       { method: "PUT", path: "/api/auth/profile" },
       { method: "POST", path: "/api/ai/generate" },
@@ -83,8 +158,12 @@ app.get("/api", (req, res) => {
   });
 });
 
-app.use("/api/auth", authLimiter, requireDatabase, authRoutes);
-app.use("/api/ai", requireDatabase, aiRoutes);
+// Bot guard on all API routes — blocks scrapers and automated scripts
+const apiBotGuard = botGuard({ blockMissingUA: true, blockKnownBots: true, speedCheck: false });
+
+app.use("/api/auth", apiBotGuard, authLimiter, requireDatabase, authRoutes);
+app.use("/api/ai", requireDatabase, aiRoutes); // AI routes have their own botGuard
+app.use("/api/content", contentRoutes); // Content routes have their own botGuard
 
 app.get("/health", (req, res) => {
   const database = getDatabaseStatus();
@@ -105,25 +184,60 @@ app.get("/health", (req, res) => {
   });
 });
 
+// ── 404 handler with suspicious activity logging ───────────────────
 app.use((req, res) => {
+  // Log probing attempts for non-existent routes (common attack pattern)
+  const suspiciousPatterns = [
+    /\.\.\//,          // path traversal
+    /\/\.(env|git|aws|ssh|config)/i, // sensitive file probing
+    /\/(wp-admin|phpmyadmin|admin|xmlrpc)/i, // CMS probing
+    /\.(php|asp|jsp|cgi)$/i, // wrong-tech probing
+  ];
+
+  const path = req.originalUrl;
+  const isSuspicious = suspiciousPatterns.some((pattern) => pattern.test(path));
+
+  if (isSuspicious) {
+    logSuspiciousActivity(req, {
+      reason: "Probe attempt on non-existent route",
+      details: `${req.method} ${path}`,
+    });
+  }
+
   res.status(404).json({
     success: false,
     message: `Route ${req.method} ${req.originalUrl} not found.`,
   });
 });
 
+// ── Global error handler with logging ──────────────────────────────
 app.use((err, req, res, next) => {
   if (err instanceof SyntaxError && "body" in err) {
+    logApiError(req, {
+      statusCode: 400,
+      message: "Invalid JSON payload",
+      error: err,
+    });
     return res.status(400).json({
       success: false,
       message: "Invalid JSON payload.",
     });
   }
 
-  console.error("Unhandled error:", err);
-  res.status(err.statusCode || 500).json({
+  const statusCode = err.statusCode || 500;
+  logApiError(req, {
+    statusCode,
+    message: err.message || "Internal server error",
+    error: err,
+  });
+
+  res.status(statusCode).json({
     success: false,
-    message: err.message || "Internal server error.",
+    // In production, never leak internal error messages to the client
+    message:
+      env.nodeEnv === "production" && statusCode === 500
+        ? "Internal server error."
+        : err.message || "Internal server error.",
   });
 });
 

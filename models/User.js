@@ -11,6 +11,12 @@ const mongoose = require("mongoose");
  *    without requiring a separate tokens collection.
  *  - `timestamps: true` adds createdAt / updatedAt automatically.
  *  - `course` and `semester` are optional profile fields for law students.
+ *
+ * Security notes (2026-04-25):
+ *  - Password minimum raised from 6 → 8 characters.
+ *  - `failedLoginAttempts` / `lockUntil` support per-account brute-force lockout.
+ *  - `isEmailVerified` / `emailVerificationToken` / `emailVerificationExpires`
+ *    scaffold future email-verification enforcement.
  */
 const userSchema = new mongoose.Schema(
   {
@@ -36,9 +42,14 @@ const userSchema = new mongoose.Schema(
 
     password: {
       type: String,
-      required: [true, "Password is required"],
-      minlength: [6, "Password must be at least 6 characters"],
+      minlength: [8, "Password must be at least 8 characters"],
       // Never return the password field by default
+      select: false,
+    },
+
+    googleId: {
+      type: String,
+      sparse: true,
       select: false,
     },
 
@@ -56,12 +67,43 @@ const userSchema = new mongoose.Schema(
       default: "",
     },
 
-    // Forgot-password fields (no separate collection needed)
+    // ── Forgot-password fields ────────────────────────────────────
     resetPasswordToken: {
       type: String,
       select: false,
     },
     resetPasswordExpires: {
+      type: Date,
+      select: false,
+    },
+
+    // ── Brute-force lockout ───────────────────────────────────────
+    failedLoginAttempts: {
+      type: Number,
+      default: 0,
+      select: false,
+    },
+    lockUntil: {
+      type: Date,
+      select: false,
+    },
+
+    // ── Email verification ─────────────────────────────────────
+    isEmailVerified: {
+      type: Boolean,
+      default: false,
+    },
+    emailVerificationToken: {
+      type: String,
+      select: false,
+    },
+    emailVerificationExpires: {
+      type: Date,
+      select: false,
+    },
+
+    // ── JWT invalidation on password change ──────────────────────
+    passwordChangedAt: {
       type: Date,
       select: false,
     },
@@ -71,8 +113,14 @@ const userSchema = new mongoose.Schema(
   }
 );
 
-// ── Compound index for fast password-reset token lookups ──────────────────────
+// ── Virtual: check if the account is currently locked ─────────────
+userSchema.virtual("isLocked").get(function () {
+  return Boolean(this.lockUntil && this.lockUntil > Date.now());
+});
+
+// ── Compound indexes for fast token lookups ───────────────────────
 userSchema.index({ resetPasswordToken: 1, resetPasswordExpires: 1 });
+userSchema.index({ emailVerificationToken: 1, emailVerificationExpires: 1 });
 
 const User = mongoose.model("User", userSchema);
 

@@ -161,6 +161,11 @@ app.get("/api", (req, res) => {
 // Bot guard on all API routes — blocks scrapers and automated scripts
 const apiBotGuard = botGuard({ blockMissingUA: true, blockKnownBots: true, speedCheck: false });
 
+// Auth config endpoint (no database needed — serves Google Client ID from env).
+// Registered BEFORE the requireDatabase gate so it works during cold starts.
+const { getAuthConfig } = require("./controllers/authController");
+app.get("/api/auth/config", apiBotGuard, getAuthConfig);
+
 app.use("/api/auth", apiBotGuard, authLimiter, requireDatabase, authRoutes);
 app.use("/api/ai", requireDatabase, aiRoutes); // AI routes have their own botGuard
 app.use("/api/content", contentRoutes); // Content routes have their own botGuard

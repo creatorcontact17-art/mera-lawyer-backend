@@ -70,12 +70,12 @@ function generateVerificationToken() {
 
 /**
  * Returns true if email verification should be skipped.
- * In development mode, the SKIP_EMAIL_VERIFICATION env var can be set
- * to "true" to allow testing without an email provider.
+ * When no email provider is configured, set SKIP_EMAIL_VERIFICATION=true
+ * so users can sign up and log in immediately. Once a production email
+ * provider (SendGrid / SES) is wired up, remove this env var.
  */
 function shouldSkipEmailVerification() {
   return (
-    env.nodeEnv !== "production" &&
     (process.env.SKIP_EMAIL_VERIFICATION || "").trim().toLowerCase() === "true"
   );
 }

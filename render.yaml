@@ -14,7 +14,7 @@ services:
       - key: JWT_SECRET
         generateValue: true
       - key: JWT_EXPIRES_IN
-        value: 24h
+        value: 7d
       - key: AI_PROVIDER
         value: gemini
       - key: AI_MODEL

@@ -24,7 +24,7 @@ const env = Object.freeze({
   port: parsePort(process.env.PORT, 4000),
   mongoUri: (process.env.MONGO_URI || "").trim(),
   jwtSecret: (process.env.JWT_SECRET || "").trim(),
-  jwtExpiresIn: process.env.JWT_EXPIRES_IN || "24h",
+  jwtExpiresIn: process.env.JWT_EXPIRES_IN || "7d",
   clientOrigins: parseOrigins(process.env.CLIENT_ORIGIN),
 
   // AI provider: "gemini" (Google), "groq" (cloud, free), or "ollama" (local)

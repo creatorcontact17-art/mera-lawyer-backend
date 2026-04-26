@@ -1,0 +1,807 @@
+{
+  "id": "contract-law",
+  "title": "Contract Law",
+  "totalCases": 80,
+  "cases": [
+    {
+      "id": "balfour-v-balfour",
+      "title": "Balfour v. Balfour",
+      "facts": "Mr. Balfour and his wife were living in Ceylon. While on leave in England, the wife became ill and could not\nreturn to Ceylon with her husband. Mr. Balfour promised to pay her \u00a330 per month as maintenance until she\ncould rejoin him. Later, the relationship soured, and the husband stopped paying. The wife sued for the arrears.",
+      "issues": "1. Does every agreement between domestic parties create a legally binding contract?\n2. What is the role of 'Intention to Create Legal Relations' in contract law?",
+      "arguments": "A. Plaintiff / Appellant\nThe wife argued that there was a clear offer, acceptance, and consideration (her staying back in England).\nTherefore, it was an enforceable contract.\nB. Defendant / Respondent\nThe husband argued that it was a purely domestic arrangement made in the heat of a personal discussion, with\nno intention that it should be litigated in a court of law.",
+      "judgment": "Ruling: The Court of Appeal ruled in favor of the husband, holding the agreement was not a contract.",
+      "reasoning": "The Court held that in family and social arrangements, there is a rebuttable presumption that the parties do not\nintend to be legally bound. Agreements between spouses are generally not contracts because the parties do not\nintend that they should be attended by legal consequences. To hold otherwise would clog the courts with trivial\ndomestic disputes. This established the 'Intention to Create Legal Relations' as a necessary element alongside\noffer, acceptance, and consideration.",
+      "legalPrinciples": "1. Intention to create legal relations is an essential element of a contract.\n2. Social and domestic agreements are presumed not to be legally binding.\n3. The law does not interfere in the private promises of family members unless there is clear evidence of\nlegal intent."
+    },
+    {
+      "id": "mohori-bibee-v-dharmodas-ghose",
+      "title": "Mohori Bibee v. Dharmodas Ghose",
+      "facts": "Dharmodas Ghose, a minor, mortgaged his house to a moneylender (Brahmo Dutt) to secure a loan. The\nmoneylender's agent was aware that Ghose was a minor. Ghose subsequently sued to cancel the mortgage,\nclaiming he was incompetent to contract. The moneylender argued that Ghose should at least repay the money\nhe received (Restitution).",
+      "issues": "1. Is a contract entered into by a minor void or voidable under the Indian Contract Act?\n2. Is a minor required to return benefits received under a void agreement?",
+      "arguments": "A. Plaintiff / Appellant\nThe minor argued that Section 11 of the ICA makes competency mandatory. A minor's contract is non-existent\nin law.\nB. Defendant / Respondent\nThe moneylender argued that under equity, a person cannot seek to cancel a contract while keeping the money\nthey received under it.",
+      "judgment": "Ruling: The Privy Council ruled in favor of the minor, declaring the contract 'void ab initio'.",
+      "reasoning": "The Court held that the Indian Contract Act is explicit: any person who by reason of infancy is incompetent to\ncontract cannot make a contract within the meaning of the Act. Therefore, the agreement was not just voidable,\nbut void from the very beginning (void ab initio). Because the contract never legally existed, the moneylender\ncould not enforce the mortgage or even demand the repayment of the loan money under the law of contract.\nThis established absolute protection for minors in India.",
+      "legalPrinciples": "1. A minor's agreement is void ab initio (Section 11 ICA).\n2. No specific performance or restitution can be claimed against a minor under a void contract.\n3. The rule of 'Estoppel' does not apply against a minor."
+    },
+    {
+      "id": "lalman-shukla-v-gauri-dutt",
+      "title": "Lalman Shukla v. Gauri Dutt",
+      "facts": "Gauri Dutt's nephew went missing. He sent his servant, Lalman Shukla, to find him. After the servant had left,\nGauri Dutt announced a reward of Rs. 500 to anyone who found the boy. Lalman Shukla eventually found the\nboy and brought him back. He was unaware of the reward at the time he found the boy. Later, when he learned\nof the reward, he sued to claim it.",
+      "issues": "1. Can an offer be accepted without the knowledge of the offeree?\n2. Is communication of an offer essential for a valid contract?",
+      "arguments": "A. Plaintiff / Appellant\nThe servant argued that he performed the act (finding the boy) which was the condition of the reward, and\ntherefore he was entitled to the money.\nB. Defendant / Respondent\nThe master argued that there was no 'acceptance' because the servant didn't even know the offer existed when\nhe found the boy. You cannot accept what you do not know.",
+      "judgment": "Ruling: The Court ruled in favor of the master, Gauri Dutt.",
+      "reasoning": "The Court held that for a valid contract, there must be a 'meeting of minds' (consensus ad idem). An acceptance\nof an offer, in ignorance of the offer, is no acceptance. Since the servant was already performing his duty of\nsearching for the boy and was unaware of the reward, his act did not constitute an acceptance of the offer.\nCommunication of the offer is a prerequisite for its legal acceptance.",
+      "legalPrinciples": "1. Knowledge of an offer is essential for its acceptance.\n2. Performance of an act in ignorance of an offer does not create a contract.\n3. Offer and Acceptance must be communicated."
+    },
+    {
+      "id": "carlill-v-carbolic-smoke-ball-co",
+      "title": "Carlill v. Carbolic Smoke Ball Co.",
+      "facts": "The company advertised that it would pay \u00a3100 to anyone who contracted influenza after using its 'smoke ball'\nas directed. To show their sincerity, they deposited \u00a31,000 in a bank. Mrs. Carlill used the ball as directed but\nstill got the flu. She sued for the \u00a3100. The company argued it was a 'puff' (marketing gimmick) and not a real\noffer.",
+      "issues": "1. Can an offer be made to the whole world (General Offer)?\n2. Does acceptance of a general offer require formal communication to the offeror?",
+      "arguments": "A. Plaintiff / Appellant\nMrs. Carlill argued that the advertisement was a definite offer. By using the product as directed, she accepted\nthe offer by 'conduct'.\nB. Defendant / Respondent\nThe company argued you cannot contract with the whole world. They also argued she never told them she was\naccepting the offer before getting sick.",
+      "judgment": "Ruling: The Court ruled in favor of Mrs. Carlill.",
+      "reasoning": "The Court held that an offer can be made to the entire world (Unilateral Contract). The advertisement was not a\nmere puff because the company specifically mentioned the bank deposit to prove sincerity. In the case of\ngeneral offers, acceptance is manifested by performing the conditions of the offer. Formal communication of\nacceptance is waived by the nature of the offer. Mrs. Carlill's performance of the condition (using the ball) was\nsufficient to create a binding contract.",
+      "legalPrinciples": "1. General offers (to the public) are valid and binding.\n2. In unilateral contracts, performance of the condition is sufficient acceptance.\n3. The intention to be bound is judged by the objective wording of the offer."
+    },
+    {
+      "id": "harvey-v-facey",
+      "title": "Harvey v. Facey",
+      "facts": "Harvey telegraphed Facey: 'Will you sell us Bumper Hall Pen? Telegraph lowest cash price.' Facey replied:\n'Lowest price for Bumper Hall Pen \u00a3900.' Harvey replied: 'We agree to buy Bumper Hall Pen for the \u00a3900\nasked by you.' Facey refused to sell, and Harvey sued, claiming a binding contract existed.",
+      "issues": "1. What is the distinction between an 'Offer' and an 'Invitation to Treat'?\n2. Does providing information about a price constitute a binding offer to sell?",
+      "arguments": "A. Plaintiff / Appellant\nHarvey argued that Facey's telegram was an offer and his reply was an acceptance, completing the sale.\nB. Defendant / Respondent\nFacey argued he merely answered a question about the price. He never said 'I will sell it to you at that price'.",
+      "judgment": "Ruling: The Court ruled in favor of Facey.",
+      "reasoning": "The Court held that Facey's telegram was merely an 'Invitation to Treat' or a statement of price. He answered\nthe second part of Harvey's question (the price) but remained silent on the first part (willingness to sell). An\noffer must show a definite intention to be bound upon acceptance. Merely stating a price is an invitation for the\nother party to make an offer. Since Facey never made an offer, there was nothing for Harvey to accept.",
+      "legalPrinciples": "1. An 'Invitation to Treat' is not an offer.\n2. Quotation of price or display of goods is generally an invitation to treat.\n3. A contract requires a clear, final expression of willingness to be bound."
+    },
+    {
+      "id": "chinnaya-v-ramaya",
+      "title": "Chinnaya v. Ramaya",
+      "facts": "An old lady gifted her estate to her daughter (Ramaya) with the condition that Ramaya must pay an annuity\n(fixed yearly sum) to the lady's brother (Chinnaya). Ramaya agreed in writing to pay her uncle. Later, she\nrefused to pay, arguing that her uncle was a 'stranger to the contract' and had provided no consideration himself.",
+      "issues": "1. Can consideration move from a person other than the promisee under Indian law?\n2. What is the difference between 'Privity of Contract' and 'Privity of Consideration'?",
+      "arguments": "A. Plaintiff / Appellant\nThe uncle argued that the mother had provided the consideration (the estate) for the daughter's promise to pay\nhim. Under Indian law, this is valid.\nB. Defendant / Respondent\nThe daughter argued that since the uncle gave her nothing, there was no contract between them.",
+      "judgment": "Ruling: The Madras High Court ruled in favor of the uncle, Chinnaya.",
+      "reasoning": "The Court interpreted Section 2(d) of the ICA. In English law, consideration must move from the promisee.\nHowever, the Indian Contract Act uses the phrase 'the promisee or any other person'. This means that as long\nas there is consideration for the promise, it doesn't matter who provides it. The mother provided the\nconsideration by gifting the land. Therefore, the daughter's promise to the uncle was supported by valid\nconsideration and was enforceable.",
+      "legalPrinciples": "1. Consideration may move from the promisee or any other person (Section 2(d) ICA).\n2. Stranger to consideration can sue in India, but a stranger to contract cannot.\n3. Privity of consideration is not required in Indian Law."
+    },
+    {
+      "id": "durga-prasad-v-baldeo",
+      "title": "Durga Prasad v. Baldeo",
+      "facts": "Durga Prasad built several shops in a market at the request of the District Collector. The shopkeepers (Baldeo\nand others) who occupied the shops promised to pay Durga Prasad a commission on all articles sold in the\nmarket. Later, they refused to pay. Durga Prasad sued for the commission.",
+      "issues": "1. Is a promise enforceable if the consideration for it was performed at the request of a third party and\nnot the promisor?\n2. What constitutes 'Past Consideration' at the desire of the promisor?",
+      "arguments": "A. Plaintiff / Appellant\nDurga Prasad argued that the shopkeepers were benefiting from the market he built, and their promise to pay\nwas a valid recognition of his effort.\nB. Defendant / Respondent\nThe shopkeepers argued that they never asked him to build the shops. He built them for the Collector.\nTherefore, there was no consideration moving from him to them at their request.",
+      "judgment": "Ruling: The Court ruled in favor of the shopkeepers.",
+      "reasoning": "The Court held that under Section 2(d), consideration must be move 'at the desire of the promisor'. Durga\nPrasad built the market at the desire of the Collector, not the shopkeepers. Since the act was not done at their\nrequest, it did not constitute valid consideration for their subsequent promise to pay commission. A promise\nmade without consideration is nudum pactum (a bare promise) and is not enforceable.",
+      "legalPrinciples": "1. Consideration must move 'at the desire of the promisor'.\n2. Acts done voluntarily or at the request of a third party do not constitute consideration for a later\npromise.\n3. 'At the desire of the promisor' is the mandatory starting point for consideration."
+    },
+    {
+      "id": "entores-ltd-v-miles-far-east-corporation",
+      "title": "Entores Ltd v. Miles Far East Corporation",
+      "facts": "A London company (Entores) sent an offer by Telex to a company in Amsterdam. The Amsterdam company\nsent an acceptance by Telex back to London. A dispute arose, and the Court had to decide where the contract\nwas made: in Holland (where the acceptance was sent) or in England (where it was received)?",
+      "issues": "1. In 'instantaneous' communications (like Telex or Phone), when and where is a contract completed?\n2. Does the 'Postal Rule' apply to instantaneous communication?",
+      "arguments": "A. Plaintiff / Appellant\nEntores argued that the contract was made in London because that is where they received the acceptance and\nwhere the 'meeting of minds' became known.\nB. Defendant / Respondent\nThe Amsterdam company argued the 'Postal Rule': a contract is complete the moment the acceptance is\ndispatched.",
+      "judgment": "Ruling: The Court ruled in favor of Entores, holding the contract was made in London.",
+      "reasoning": "The Court distinguished between non-instantaneous communication (post) and instantaneous communication.\nThe Postal Rule (acceptance on dispatch) is an exception born of necessity. For Phone and Telex, the general\nrule applies: the contract is only complete when the acceptance is received by the offeror. If a line goes dead\nand the offeror doesn't hear the words, there is no contract. Therefore, the contract is formed at the place where\nthe acceptance is heard or received.",
+      "legalPrinciples": "1. In instantaneous communication, acceptance is complete only when received by the offeror.\n2. The contract is formed at the place where the acceptance is received.\n3. The Postal Rule does not apply to Phone, Telex, or Email."
+    },
+    {
+      "id": "bhagwandas-goverdhandas-kedia-v-girdharilal-parshottamdas",
+      "title": "Bhagwandas Goverdhandas Kedia v. Girdharilal Parshottamdas",
+      "facts": "This is the Indian counterpart to the Entores case. Two parties in different Indian cities (Ahmedabad and\nKhamgaon) entered into an agreement over the telephone. A dispute arose regarding which court had\njurisdiction, which depended on where the contract was formed.",
+      "issues": "1. When is a contract concluded via telephone communication in India?\n2. How does Section 4 of the ICA apply to instantaneous communication?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued that according to the general principle (and Entores), the contract is made where the\nacceptance is heard (Ahmedabad).\nB. Defendant / Respondent\nThe defendant argued that under Section 4 of the ICA, communication of acceptance is complete as against the\nproposer when it is put in a course of transmission (Khamgaon).",
+      "judgment": "Ruling: The Supreme Court (majority) ruled that the contract was made in Ahmedabad.",
+      "reasoning": "The Court held that the Indian Contract Act was drafted when only postal communication existed. For modern,\ninstantaneous communication like telephone, the Court adopted the common law rule from Entores. It held\nthat a contract over the phone is only complete when the acceptance is actually heard by the proposer. The\nAhmedabad court had jurisdiction because that is where the acceptance was received. (Note: Justice\nHidayatullah dissented, arguing that the literal text of Section 4 should apply to all modes of communication).",
+      "legalPrinciples": "1. Contracts via telephone are concluded when and where the acceptance is received/heard.\n2. Section 4 ICA is primarily intended for non-instantaneous communications.\n3. Meeting of minds must be communicated effectively in real-time."
+    },
+    {
+      "id": "felthouse-v-bindley-1862-11-cb-ns-869",
+      "title": "Felthouse v. Bindley (1862 11 CB (NS) 869)",
+      "facts": "An uncle (Felthouse) wanted to buy a horse from his nephew. He wrote: 'If I hear no more about him, I\nconsider the horse mine at \u00a330.' The nephew did not reply, but he told his auctioneer (Bindley) not to sell that\nspecific horse as it was sold to his uncle. The auctioneer accidentally sold the horse to someone else. The uncle\nsued the auctioneer in 'conversion', which required him to prove he owned the horse.",
+      "issues": "1. Can silence constitute valid acceptance of an offer?\n2. Can an offeror impose a contract on an offeree by stipulating that silence will be deemed as\nacceptance?",
+      "arguments": "A. Plaintiff / Appellant\nThe uncle argued that the nephew intended to sell to him, as evidenced by his instructions to the auctioneer.\nThus, the contract was complete.\nB. Defendant / Respondent\nThe auctioneer argued that the nephew never communicated his acceptance to the uncle. Therefore, no legal\ntitle had passed to the uncle.",
+      "judgment": "Ruling: The Court ruled in favor of the auctioneer.",
+      "reasoning": "The Court held that 'Acceptance' must be communicated to the offeror. Silence does not amount to acceptance.\nAlthough the nephew mentally intended to sell the horse to his uncle, he never conveyed that intention to him.\nAn offeror cannot unilaterally say 'if you don't say no, it's a yes'. Without an outward manifestation of\nacceptance communicated to the offeror, there is no contract.",
+      "legalPrinciples": "1. Acceptance must be communicated.\n2. Silence is not acceptance.\n3. Mental acceptance (uncommunicated) has no legal effect."
+    },
+    {
+      "id": "derry-v-peek",
+      "title": "Derry v. Peek",
+      "facts": "A company's prospectus stated that the company had the right to use steam-powered trams instead of horse-\ndrawn ones. In reality, they still needed government permission, which they honestly believed they would get.\nThe permission was later refused, and the company went bust. Shareholders sued the directors for the tort of\n'Deceit' (Fraud), claiming they were misled by the prospectus.",
+      "issues": "1. What is the legal definition of 'Fraud' in contract law?\n2. Is a statement made 'carelessly' or without reasonable grounds sufficient to establish fraud?",
+      "arguments": "A. Plaintiff / Appellant\nThe shareholders argued that the statement was false and the directors had no right to state it as a fact until\npermission was granted. This was a fraudulent misrepresentation.\nB. Defendant / Respondent\nThe directors argued that they honestly believed the statement was true. There was no intent to deceive.",
+      "judgment": "Ruling: The House of Lords ruled in favor of the directors.",
+      "reasoning": "The Court established the strict definition of Fraud. To prove fraud, there must be proof that a false\nrepresentation has been made: (1) Knowingly, or (2) Without belief in its truth, or (3) Recklessly, careless\nwhether it be true or false. A statement made through 'negligence' or 'carelessness', however gross, is not fraud\nif it was made with an honest belief in its truth. Since the directors honestly expected the permission, they were\nnot guilty of fraud. (Note: This led to the development of the concept of 'Negligent Misrepresentation').",
+      "legalPrinciples": "1. Fraud (Section 17 ICA) requires 'intent to deceive'.\n2. Honest belief in a statement's truth is a defense against fraud.\n3. Distinction between fraud (intentional) and misrepresentation (unintentional)."
+    },
+    {
+      "id": "hadley-v-baxendale",
+      "title": "Hadley v. Baxendale",
+      "facts": "Hadley's mill stopped because a crankshaft broke. He hired Baxendale (a carrier) to transport the broken shaft\nto the engineer for repair. Baxendale was late in delivering the shaft. As a result, the mill remained closed for\nseveral extra days. Hadley sued for the 'lost profits' during those extra days. Baxendale didn't know the mill\nwas stopped because of the shaft.",
+      "issues": "1. What is the rule for 'Remoteness of Damages' for breach of contract?\n2. Are defendants liable for 'indirect' or 'special' losses they were unaware of?",
+      "arguments": "A. Plaintiff / Appellant\nThe mill owner argued that the delay was a direct breach and the lost profits were a natural consequence of the\nmill being unable to function.\nB. Defendant / Respondent\nThe carrier argued that he was never told that the mill was closed or that this was the only shaft. He couldn't\nhave foreseen such a massive loss for a simple delivery delay.",
+      "judgment": "Ruling: The Court ruled in favor of the carrier, Baxendale.",
+      "reasoning": "The Court established the 'Two-Limb Rule' for damages (codified in Section 73 of the ICA). Damages should\nbe such as may (1) fairly and reasonably be considered as arising 'naturally' (according to the usual course of\nthings), OR (2) such as may reasonably be supposed to have been in the 'contemplation' of both parties at the\ntime of the contract as the probable result of a breach. Since Baxendale didn't know the mill would stop, the\nlost profits were too 'remote' and didn't fall under either limb. He was only liable for normal damages, not\nspecial lost profits.",
+      "legalPrinciples": "1. Damages must be 'foreseeable' to be recoverable (Section 73 ICA).\n2. No liability for remote or indirect losses.\n3. Special damages require 'special notice' to the other party at the time of the contract."
+    },
+    {
+      "id": "satyabrata-ghose-v-mugneeram-bangur-co",
+      "title": "Satyabrata Ghose v. Mugneeram Bangur & Co.",
+      "facts": "A developer agreed to sell a plot of land to a buyer. After the agreement, the land was 'requisitioned' by the\ngovernment for military use during WWII. The developer refused to complete the sale, arguing the contract\nwas 'frustrated' (discharged) because the government's action made it impossible to develop the land as\nplanned.",
+      "issues": "1. What is the 'Doctrine of Frustration' under Section 56 of the ICA?\n2. Does a temporary government intervention or difficulty in performance discharge a contract?",
+      "arguments": "A. Plaintiff / Appellant\nThe buyer argued that the requisition was temporary. The land still existed, and the seller could still transfer the\ntitle. Hardship or delay is not frustration.\nB. Defendant / Respondent\nThe developer argued that the entire purpose of the contract (developing a residential colony) was destroyed by\nthe war-time requisition, making the contract 'impossible' and void.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the buyer, holding the contract was NOT frustrated.",
+      "reasoning": "The Court clarified Section 56. 'Impossible' does not just mean physical impossibility; it can mean\n'impracticability' in the context of the object. However, a contract is not frustrated merely because performance\nbecomes difficult, expensive, or delayed. The Court held that the requisition was temporary. Since no time limit\nwas essential in the contract, the delay caused by the war did not destroy the foundational basis of the\nagreement. The contract remained alive. The 'Doctrine of Frustration' is an exception and must be applied\nstrictly to prevent parties from escaping bad bargains.",
+      "legalPrinciples": "1. Doctrine of Frustration (Section 56 ICA): A contract becomes void if the act becomes impossible or\nunlawful after the contract is made.\n2. Mere 'difficulty' or 'commercial hardship' is not frustration.\n3. The 'fundamental basis' of the contract must be destroyed for frustration to apply."
+    },
+    {
+      "id": "powell-v-lee",
+      "title": "Powell v. Lee",
+      "facts": "Powell applied for the post of headmaster. The board of managers passed a resolution appointing him.\nHowever, they did not officially inform him. One manager, acting in his individual capacity and without\nauthority, told Powell he had been selected. Later, the board changed its mind and appointed someone else.\nPowell sued for breach of contract.",
+      "issues": "1. Can an acceptance be communicated by an unauthorized third party?\n2. Is communication of acceptance by the offeree (or their authorized agent) mandatory?",
+      "arguments": "A. Plaintiff / Appellant\nPowell argued that since the board had made the decision and he was informed of it, the contract was complete.\nB. Defendant / Respondent\nThe board argued that they never officially communicated the offer/acceptance. Information from an\nunauthorized person does not bind the board.",
+      "judgment": "Ruling: The Court ruled in favor of the board, Lee.",
+      "reasoning": "The Court held that for a valid acceptance, the communication must be made by the offeree themselves or by a\nperson authorized by them. Information received from a 'stranger' or an unauthorized source is not a legal\ncommunication of acceptance. Since the manager who spoke to Powell was not authorized to convey the\nboard's decision, no contract was formed. The 'meeting of minds' must be official.",
+      "legalPrinciples": "1. Acceptance must be communicated by the offeree or their authorized agent.\n2. Unauthorized communication of acceptance is invalid.\n3. Internal resolutions of a body do not create a contract until officially communicated to the other party."
+    },
+    {
+      "id": "krell-v-henry",
+      "title": "Krell v. Henry",
+      "facts": "Henry agreed to rent a flat from Krell for two days to watch the coronation procession of King Edward VII.\nThe contract didn't explicitly mention the coronation, but the price was inflated and the flat had a perfect view\nof the route. The King fell ill, and the coronation was cancelled. Henry refused to pay the rent, and Krell sued.",
+      "issues": "1. Can a contract be discharged if the 'foundation' or 'purpose' of the contract ceases to exist?\n2. Does 'Frustration of Purpose' discharge a contract even if performance is still physically possible?",
+      "arguments": "A. Plaintiff / Appellant\nThe landlord argued that the flat was still available. Henry could still sit in the room. The cancellation of a\nparade is a risk the tenant takes.\nB. Defendant / Respondent\nThe tenant argued that the 'sole purpose' of the contract was to watch the coronation. Without the parade, the\nroom was useless to him, and the contract lost its meaning.",
+      "judgment": "Ruling: The Court ruled in favor of the tenant, Henry.",
+      "reasoning": "The Court established the 'Doctrine of Frustration of Purpose'. It held that even if the physical performance is\npossible (the room exists), a contract can be discharged if an unforeseen event destroys the very 'foundation' on\nwhich the parties base their agreement. Looking at the facts (inflated price, specific dates), it was clear that the\ncoronation was the 'basis' of the contract. Its cancellation made the contract radically different from what was\nintended. Therefore, the contract was frustrated.",
+      "legalPrinciples": "1. Frustration occurs if the 'commercial object' or 'foundation' of the contract is destroyed.\n2. Physical impossibility is not the only ground for frustration.\n3. The 'non-occurrence of an event' central to the contract discharges the parties."
+    },
+    {
+      "id": "standard-chartered-bank-v-custodian",
+      "title": "Standard Chartered Bank v. Custodian",
+      "facts": "During the 1992 securities scam, several shares were pledged with banks as security for loans. A dispute arose\nregarding the 'Accretions' (bonus shares and dividends) that were issued while the shares were in the possession\nof the bank (the pledgee). The borrower (pledgor) argued that the bank must return the original shares plus\nall the bonus shares and dividends.",
+      "issues": "1. What are the rights of a 'Pledgee' (Bailee) regarding accretions to the pledged goods?\n2. Is the pledgee a trustee of the goods and their fruits?",
+      "arguments": "A. Plaintiff / Appellant\nThe borrower argued that under Section 163 of the ICA, in the absence of a contract to the contrary, the bailee\nis bound to deliver to the bailor any increase or profit which may have accrued from the goods bailed.\nB. Defendant / Respondent\nThe banks argued that the accretions were part of the 'security'. They should be allowed to hold the bonus\nshares until the entire loan is paid off.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the borrower, but with conditions.",
+      "reasoning": "The Court upheld Section 163 of the ICA. It ruled that the 'pledge' extends only to the specific goods pledged.\nAny bonus shares or dividends issued are 'accretions'. Under the law, these belong to the bailor (borrower).\nHowever, the Court clarified that as long as the debt is unpaid, the pledgee has a right to 'hold' the accretions as\npart of the security. But once the debt is paid, the bank must return the original goods and all the accretions.\nThe pledgee cannot keep the profit generated by the pledged asset.",
+      "legalPrinciples": "1. Bailee/Pledgee must return any increase or profit accrued from the goods (Section 163 ICA).\n2. Accretions to pledged property form part of the security until redemption.\n3. The bailor remains the ultimate owner of all 'fruits' of the property."
+    },
+    {
+      "id": "dunlop-pneumatic-tyre-co-ltd-v-selfridge-co-ltd",
+      "title": "Dunlop Pneumatic Tyre Co Ltd v. Selfridge & Co Ltd",
+      "facts": "Dunlop (a manufacturer) sold tires to a wholesaler (Dew & Co.) with a condition that they must not sell below\na certain price. Dew & Co. sold tires to a retailer (Selfridge) with the same condition. Selfridge sold the tires\nbelow the price. Dunlop sued Selfridge for breach of contract.",
+      "issues": "1. Can a person who is not a party to a contract sue to enforce its terms (Doctrine of Privity)?\n2. Can a manufacturer enforce a price restriction on a sub-purchaser?",
+      "arguments": "A. Plaintiff / Appellant\nDunlop argued that they were the ultimate beneficiaries of the price-fixing agreement and that Selfridge's\npromise to the wholesaler was made for Dunlop's benefit.\nB. Defendant / Respondent\nSelfridge argued that they had no contract with Dunlop. Their contract was only with Dew & Co. Under the\nlaw, only parties to a contract can sue on it.",
+      "judgment": "Ruling: The House of Lords ruled in favor of Selfridge.",
+      "reasoning": "The Court strictly applied the 'Doctrine of Privity of Contract'. It held that only a person who is a party to a\ncontract can sue on it. Even though the agreement was intended to benefit Dunlop, Dunlop was a 'stranger to\nthe contract' between the wholesaler and the retailer. Furthermore, Dunlop provided no consideration to\nSelfridge. Without 'Privity' and 'Consideration', there is no right of action. This is the cornerstone of English\ncontract law (and largely followed in India, subject to exceptions like trusts or family settlements).",
+      "legalPrinciples": "1. Doctrine of Privity: Only parties to a contract can sue or be sued on it.\n2. A stranger to a contract cannot enforce it even if it is for their benefit.\n3. Contractual rights are 'in personam' (between specific persons)."
+    },
+    {
+      "id": "coates-v-railton",
+      "title": "Coates v. Railton",
+      "facts": "A seller in Manchester sold goods to a buyer in London. The goods were delivered to a shipping agent for\ntransport. While the goods were in the middle of the journey, the buyer became insolvent. The seller\nimmediately notified the carrier to stop the delivery and return the goods to him. The question was whether the\n'Right of Stoppage in Transit' was validly exercised.",
+      "issues": "1. What is the 'Right of Stoppage in Transit' under the Sale of Goods Act (formerly part of ICA)?\n2. When does 'transit' end?",
+      "arguments": "A. Plaintiff / Appellant\nThe seller argued that as long as the goods have not reached the buyer's physical possession, he has a right to\n'claw them back' if the buyer cannot pay due to insolvency.\nB. Defendant / Respondent\nThe buyer's creditors argued that once the goods were handed to the carrier, they belonged to the buyer and\nshould be seized for his debts.",
+      "judgment": "Ruling: The Court ruled in favor of the seller.",
+      "reasoning": "The Court established that the 'Right of Stoppage in Transit' is a powerful remedy for unpaid sellers. It exists\nafter the seller has parted with possession but before the buyer has acquired it. 'Transit' continues as long as the\ngoods are in the hands of a middleman (carrier or agent) for the purpose of transmission. If the buyer goes\nbankrupt during this window, the seller can stop the delivery and resume his lien on the goods. This prevents\nthe seller's goods from being used to pay off other people's debts when the seller hasn't been paid himself.",
+      "legalPrinciples": "1. Right of Stoppage in Transit: Unpaid seller can stop goods if the buyer is insolvent.\n2. Transit ends only when the buyer or their agent takes actual delivery.\n3. This right is an extension of the seller's lien."
+    },
+    {
+      "id": "gujarat-bottling-co-ltd-v-coca-cola-co",
+      "title": "Gujarat Bottling Co. Ltd. v. Coca Cola Co.",
+      "facts": "Gujarat Bottling had a contract to bottle Coca-Cola. The contract contained a 'Negative Covenant' stating that\nthe bottler would not manufacture or bottle any other rival drink (like Pepsi) during the term of the agreement.\nLater, the ownership of Gujarat Bottling changed, and they wanted to switch to Pepsi. Coca-Cola sued for an\ninjunction to enforce the negative covenant. The bottler argued this was a 'restraint of trade' under Section 27.",
+      "issues": "1. Is a 'negative covenant' in a commercial agreement valid under Section 27 of the ICA?\n2. Does a restriction during the 'subsistence' of a contract violate the law?",
+      "arguments": "A. Plaintiff / Appellant\nCoca-Cola argued that the restriction was necessary to protect their trade secrets and ensure the bottler's loyalty\nduring the contract period.\nB. Defendant / Respondent\nThe bottler argued that under Section 27, any agreement that restrains anyone from exercising a lawful\nprofession, trade, or business is void. The ban on bottling other drinks was a restraint.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of Coca-Cola, upholding the restriction.",
+      "reasoning": "The Court made a major distinction between 'Pre-termination' and 'Post-termination' restraints. It held that a\nnegative covenant which operates during the period of the contract is generally NOT a restraint of trade.\nSuch clauses are intended to promote the performance of the contract, not to stop the person from working.\nSection 27 is primarily aimed at 'Post-contractual' restrictions (e.g., 'you can't work for a rival for 2 years\nafter leaving us'). Since the bottling contract was still active, the restriction was a valid commercial term\nmeant to ensure exclusivity.",
+      "legalPrinciples": "1. Negative Covenants during the subsistence of a contract are valid (not a restraint of trade).\n2. Post-contractual restraints are generally void under Section 27 ICA.\n3. The law distinguishes between regulating a trade and restraining a trade."
+    },
+    {
+      "id": "nordenfelt-v-maxim-nordenfelt-guns-and-ammunition-co-ltd",
+      "title": "Nordenfelt v. Maxim Nordenfelt Guns and Ammunition Co Ltd",
+      "facts": "Nordenfelt, a world-famous inventor of guns, sold his business to a company. He promised that he would not\nmanufacture guns or ammunition anywhere in the world for 25 years. He later broke this promise, arguing it\nwas a 'restraint of trade' and void.",
+      "issues": "1. What is the 'Test of Reasonableness' for a restraint of trade?\n2. Can a global, 25-year ban on working be considered reasonable?",
+      "arguments": "A. Plaintiff / Appellant\nThe company argued that they paid a huge price for his 'goodwill'. If he started a new business immediately,\ntheir investment would be worthless. Given his global reputation, a worldwide ban was necessary.\nB. Defendant / Respondent\nNordenfelt argued that a person cannot be banned from his trade for a quarter-century across the entire planet.\nIt was oppressive and against the public interest.",
+      "judgment": "Ruling: The House of Lords ruled in favor of the company, upholding the 25-year global ban.",
+      "reasoning": "The Court established the modern 'Reasonableness Test'. A restraint of trade is valid if it is: (1) Reasonable in\nthe interest of the parties (protecting the buyer's goodwill), AND (2) Reasonable in the interest of the public.\nThe Court found that since Nordenfelt dealt with governments across the world, a smaller geographic limit\nwould be useless. Given the massive price paid, the 25-year term was reasonable. (Note: In India, Section 27\nis much stricter than English law and generally voids such restraints except for very narrow 'sale of goodwill'\nexceptions).",
+      "legalPrinciples": "1. Restraint of trade is valid if it is 'reasonable' and necessary to protect legitimate interests (English\nLaw).\n2. Goodwill is a protectable interest.\n3. Public interest is the ultimate boundary for private restrictions."
+    },
+    {
+      "id": "central-london-property-trust-ltd-v-high-trees-house-ltd",
+      "title": "Central London Property Trust Ltd v High Trees House Ltd",
+      "facts": "In 1937, the plaintiffs leased a block of flats to the defendants at \u00a32,500/year. When WWII broke out, vacancy\nrates soared. In 1940, the plaintiffs agreed in writing to reduce the rent to \u00a31,250. No consideration was\nprovided for this reduction. By 1945, the flats were full again. The plaintiffs sued for full rent for the last two\nquarters of 1945, and the judgment discussed if they could have claimed the arrears for the war years.",
+      "issues": "1. Can a party be bound by a promise to waive a legal right even without consideration?\n2. What is the 'Doctrine of Promissory Estoppel'?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiffs argued that the agreement to reduce rent was not a binding contract because there was no\nconsideration from the tenant. Under common law, they were entitled to the original rent.\nB. Defendant / Respondent\nThe defendants argued that they had relied on the promise to their detriment and that it would be inequitable to\nallow the landlord to go back on their word.",
+      "judgment": "Ruling: The Court ruled that the landlord could return to full rent from 1945 onwards, but would have been\n'estopped' from claiming the full rent for the war years.",
+      "reasoning": "Lord Denning established that a promise intended to be binding, intended to be acted on and in fact acted on, is\nbinding so far as its terms properly apply, even if it lacks consideration. This is 'Promissory Estoppel'. It doesn't\ncreate new causes of action (it's a shield, not a sword) but prevents a party from insisting on their strict legal\nrights when it would be unjust to do so given their previous promises.",
+      "legalPrinciples": "1. Promissory Estoppel: A promise made without consideration is binding if it was intended to be acted\nupon and was actually acted upon.\n2. Estoppel is a defense (shield) and generally suspends rather than extinguishes rights.\n3. Equity will not allow a party to go back on a promise that the other party relied upon."
+    },
+    {
+      "id": "tinn-v-hoffman-co",
+      "title": "Tinn v. Hoffman & Co.",
+      "facts": "The defendant wrote to the plaintiff offering to sell 800 tons of iron at a specific price. On the same day,\nwithout knowing about the defendant's letter, the plaintiff wrote to the defendant offering to buy 800 tons of\niron at the exact same price. The letters crossed in the post.",
+      "issues": "1. Do 'Cross-Offers' create a binding contract?\n2. Can two identical independent offers satisfy the requirement of 'Acceptance'?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued that since both parties were in total agreement on price and quantity at the same time, a\ncontract was formed.\nB. Defendant / Respondent\nThe defendant argued that a contract requires an offer and an acceptance of that offer. Two offers do not\nmake a contract.",
+      "judgment": "Ruling: The Court ruled that no contract existed.",
+      "reasoning": "The Court held that cross-offers are merely two independent offers. A contract is only formed when one party\naccepts the offer of the other. Consensus ad idem (meeting of minds) must be reached through the sequence of\noffer and acceptance. Even if the terms are identical, one offer cannot be treated as an acceptance of another\noffer made in ignorance of the first.",
+      "legalPrinciples": "1. Cross-offers do not constitute a contract.\n2. Acceptance must be made in response to a known offer.\n3. Mutual ignorance of each other's intent prevents the formation of a legal bond."
+    },
+    {
+      "id": "pharmaceutical-society-of-great-britain-v-boots-cash-chemists",
+      "title": "Pharmaceutical Society of Great Britain v Boots Cash Chemists",
+      "facts": "Boots introduced a self-service system where drugs were displayed on shelves. The Pharmacy and Poisons Act\nmade it illegal to sell certain drugs unless supervised by a pharmacist. The Society argued that the 'sale'\noccurred when the customer put the item in their basket, which was done without a pharmacist present.",
+      "issues": "1. Is the display of goods on a shelf an 'Offer' or an 'Invitation to Treat'?\n2. At what point is a contract concluded in a self-service shop?",
+      "arguments": "A. Plaintiff / Appellant\nThe Society argued that the display was an offer, and the customer accepted it by picking it up, completing the\nsale at the shelf.\nB. Defendant / Respondent\nBoots argued that the display is merely an invitation to the customer to make an offer to buy. The sale only\nhappens at the cash desk where the pharmacist supervises.",
+      "judgment": "Ruling: The Court ruled in favor of Boots.",
+      "reasoning": "The Court held that the display of goods on shelves is an 'Invitation to Treat'. If picking up an item was an\n'acceptance', a customer would be legally bound to buy everything they touched. Instead, the customer makes\nthe 'offer' at the cash desk, and the shop 'accepts' the offer by taking the money. This allows the shop to refuse a\nsale if necessary.",
+      "legalPrinciples": "1. Display of goods with price tags is an 'Invitation to Treat'.\n2. The offer is made by the customer at the checkout.\n3. Contractual acceptance occurs when the cashier accepts payment."
+    },
+    {
+      "id": "chappell-co-ltd-v-nestle-co-ltd",
+      "title": "Chappell & Co Ltd v Nestle Co Ltd",
+      "facts": "Nestle offered a popular music record for 1s 6d plus three chocolate bar wrappers. Chappell (the copyright\nholder) sued, arguing that the wrappers were part of the consideration and should be included in the 'retail price'\ncalculation for royalties. Nestle argued the wrappers were worthless junk and only the money was\nconsideration.",
+      "issues": "1. Does consideration have to possess intrinsic economic value?\n2. Can 'junk' or worthless items constitute valid consideration?",
+      "arguments": "A. Plaintiff / Appellant\nChappell argued that Nestle only wanted the wrappers to prove chocolate sales. Therefore, the wrappers were a\nvital part of the bargain for Nestle.\nB. Defendant / Respondent\nNestle argued that the wrappers were thrown away immediately. They were just a condition to enter the\ncontract, not consideration themselves.",
+      "judgment": "Ruling: The House of Lords ruled in favor of Chappell.",
+      "reasoning": "The Court established the principle that 'Consideration must be sufficient but need not be adequate.' This means\nthat as long as the parties agree to an exchange, the law does not care if the exchange is 'fair' or has a market\nvalue. Nestle specifically requested the wrappers; therefore, the wrappers were part of the price paid. Even a\npeppercorn can be valid consideration.",
+      "legalPrinciples": "1. Consideration must be sufficient (of some value in the eyes of the law) but need not be adequate (of\nequal market value).\n2. The courts will not rewrite a bad bargain.\n3. Anything requested by the promisor in exchange for the promise is valid consideration."
+    },
+    {
+      "id": "hyde-v-wrench",
+      "title": "Hyde v. Wrench",
+      "facts": "Wrench offered to sell his farm to Hyde for \u00a31,000. Hyde replied by offering \u00a3950. Wrench refused. Hyde then\nimmediately wrote back saying he would pay the original \u00a31,000. Wrench refused to sell, and Hyde sued for\nspecific performance.",
+      "issues": "1. Does a counter-offer destroy the original offer?\n2. Can a party accept an original offer after having rejected it with a lower bid?",
+      "arguments": "A. Plaintiff / Appellant\nHyde argued that the original offer remained open and his final letter was a valid acceptance that created a\nbinding contract.\nB. Defendant / Respondent\nWrench argued that by offering \u00a3950, Hyde had rejected the \u00a31,000 offer. A rejected offer is dead and cannot be\nrevived.",
+      "judgment": "Ruling: The Court ruled in favor of Wrench.",
+      "reasoning": "The Court held that a 'Counter-Offer' acts as a final rejection of the original offer. Once the original offer is\nrejected, it ceases to exist in law. The offeree cannot later change their mind and accept it. Hyde's letter for\n\u00a31,000 was actually a 'new offer' which Wrench was free to accept or reject.",
+      "legalPrinciples": "1. A counter-offer terminates the original offer.\n2. Acceptance must be 'absolute and unqualified' (Mirror Image Rule).\n3. You cannot go back to an offer once you have negotiated for a different price."
+    },
+    {
+      "id": "dickinson-v-dodds",
+      "title": "Dickinson v. Dodds",
+      "facts": "Dodds offered to sell his house to Dickinson and stated the offer would stay open until Friday at 9 AM. On\nThursday, Dickinson heard from a third party that Dodds had sold the house to someone else. Dickinson rushed\nto accept the offer before Friday morning. Dodds refused.",
+      "issues": "1. Is a promise to keep an offer open for a fixed time binding without consideration?\n2. Can an offer be revoked through a reliable third party?",
+      "arguments": "A. Plaintiff / Appellant\nDickinson argued that Dodds promised him until Friday morning. He accepted within the time limit, so a\ncontract existed.\nB. Defendant / Respondent\nDodds argued that since Dickinson paid nothing to keep the offer open (no 'Option Contract'), Dodds was free\nto withdraw it at any time.",
+      "judgment": "Ruling: The Court ruled in favor of Dodds.",
+      "reasoning": "The Court held that a promise to keep an offer open is a nudum pactum (bare promise) unless it is supported\nby separate consideration. More importantly, the Court ruled that revocation of an offer does not have to be\ncommunicated directly by the offeror. If the offeree receives reliable information from a third party that the\nproperty has been sold or the offer withdrawn, the offer is effectively revoked. There was no 'meeting of minds'\nwhen Dickinson tried to accept because he already knew the house was gone.",
+      "legalPrinciples": "1. An offer can be revoked at any time before acceptance, even if the offeror promised to keep it open.\n2. Revocation is effective if the offeree learns about it from a reliable source.\n3. An 'Option' to keep an offer open requires separate consideration."
+    },
+    {
+      "id": "tweddle-v-atkinson",
+      "title": "Tweddle v. Atkinson",
+      "facts": "The fathers of a bride and groom agreed in writing that they would each pay a sum of money to the groom. The\nagreement stated that the groom had the right to sue for the money. The bride's father died without paying. The\ngroom sued the executor (Atkinson) for the money.",
+      "issues": "1. Can a third-party beneficiary sue on a contract made for his benefit?\n2. What is the classic common law rule of 'Privity of Contract'?",
+      "arguments": "A. Plaintiff / Appellant\nThe groom argued that the contract was made specifically for his benefit and expressly gave him the right to\nsue.\nB. Defendant / Respondent\nThe executor argued that the groom was not a party to the contract and provided no consideration for the\npromise.",
+      "judgment": "Ruling: The Court ruled against the groom.",
+      "reasoning": "The Court established the strict English rule of Privity: 'No stranger to the consideration can take advantage of\na contract, although made for his benefit.' Since the groom was not a party to the agreement between the\nfathers, he had no standing to sue. (Note: This is the English position which differs from the Indian position in\nChinnaya v. Ramaya).",
+      "legalPrinciples": "1. Privity of Contract: Only parties to a contract can sue to enforce it.\n2. Consideration must move from the person seeking to enforce the promise.\n3. A third-party beneficiary has no rights under common law (subject to modern statutory changes)."
+    },
+    {
+      "id": "white-carter-councils-ltd-v-mcgregor",
+      "title": "White & Carter (Councils) Ltd v McGregor",
+      "facts": "McGregor's agent signed a contract for advertisements on litter bins for 3 years. Later that same day, McGregor\nrealized the mistake and wrote to the plaintiffs to cancel the contract. The plaintiffs refused the cancellation,\nprepared the ads, and displayed them for 3 years, then sued for the full price.",
+      "issues": "1. Does an 'Anticipatory Breach' by one party give the other party the right to ignore the breach and\nperform the contract anyway?\n2. Is there a duty to 'mitigate' losses before the contract period begins?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiffs argued that they were not obliged to accept the breach. They had a right to perform and sue for\nthe contract price rather than just damages.\nB. Defendant / Respondent\nMcGregor argued that the plaintiffs should have stopped work immediately to minimize costs and sued only for\nthe lost profit (damages).",
+      "judgment": "Ruling: The House of Lords (3-2) ruled in favor of the plaintiffs.",
+      "reasoning": "The Court held that when one party repudiates a contract, the other has an 'election': they can accept the breach\nand sue for damages, OR they can reject the breach and keep the contract alive. If they choose to keep it alive,\nthey can perform their part and sue for the full contract price (debt). The duty to mitigate damages only arises\nafter the breach is accepted. Since the plaintiffs didn't need McGregor's cooperation to do the ads, they were\nentitled to finish the job.",
+      "legalPrinciples": "1. In anticipatory breach, the innocent party has the option to perform and claim the contract price.\n2. Duty to mitigate applies to claims for 'Damages', not 'Debt'.\n3. Exception: If the innocent party has no 'legitimate interest' in performing other than claiming the\nmoney, they may be restricted."
+    },
+    {
+      "id": "l-estrange-v-graucob",
+      "title": "L'Estrange v. Graucob",
+      "facts": "The plaintiff bought a cigarette vending machine and signed a 'Sales Agreement' which contained a small-print\nclause excluding all warranties. The machine didn't work. The plaintiff sued, claiming she didn't read the clause\nand wasn't told about it.",
+      "issues": "1. Is a person bound by the terms of a document they have signed, even if they haven't read them?\n2. Does 'Small Print' invalidate an exclusion clause?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued she was unaware of the exclusion. She was just a consumer and the print was tiny and\ndifficult to read.\nB. Defendant / Respondent\nThe seller argued that a signature is a formal act of consent. If she signed it, she is bound by everything above\nthe signature line.",
+      "judgment": "Ruling: The Court ruled in favor of the seller.",
+      "reasoning": "The Court held that in the absence of fraud or misrepresentation, a party is bound by the terms of a signed\ndocument regardless of whether they read it or not. The signature is an objective manifestation of assent to all\nterms in the document. This is known as the 'Signature Rule'.",
+      "legalPrinciples": "1. Signature creates a binding presumption that the party has read and agreed to all terms.\n2. Ignorance of terms in a signed contract is not a defense.\n3. Only fraud or misrepresentation can void the effect of a signature."
+    },
+    {
+      "id": "olley-v-marlborough-court-ltd",
+      "title": "Olley v. Marlborough Court Ltd",
+      "facts": "Mrs. Olley booked a room at a hotel. After paying at the reception, she went to her room. On the back of the\ndoor, a notice stated the hotel was not liable for lost or stolen items. Her jewelry was stolen due to the hotel's\nnegligence. The hotel relied on the exclusion notice.",
+      "issues": "1. Can a term be incorporated into a contract after the contract is formed?\n2. What is the 'Timing' requirement for incorporating exclusion clauses?",
+      "arguments": "A. Plaintiff / Appellant\nThe guest argued that the contract was formed at the reception desk. The notice in the room was a 'post-\ncontractual' attempt to add new terms without her consent.\nB. Defendant / Respondent\nThe hotel argued the notice was clear and visible, and by staying in the room, she accepted the terms of the\nstay.",
+      "judgment": "Ruling: The Court ruled in favor of the guest, Mrs. Olley.",
+      "reasoning": "The Court held that for a term to be part of a contract, it must be brought to the notice of the other party at or\nbefore the time of contracting. Since the contract was completed at the desk when the booking was made, the\nhotel could not unilaterally add new exclusion terms later by putting them inside the room. The notice was not\npart of the contract.",
+      "legalPrinciples": "1. Incorporation of terms must occur before or at the time of the agreement.\n2. Post-contractual notices are not binding.\n3. Specific notice is required for unusual or onerous exclusion clauses."
+    },
+    {
+      "id": "parker-v-south-eastern-railway-co",
+      "title": "Parker v. South Eastern Railway Co.",
+      "facts": "Parker left a bag in a railway cloakroom. He received a ticket which said 'See Back'. On the back, there was a\nclause limiting liability for lost items to \u00a310. The bag was lost, and its value was \u00a324. Parker argued he didn't\nread the ticket and thought it was just a receipt.",
+      "issues": "1. What constitutes 'Reasonable Notice' of terms in a standard form contract?\n2. Is a party bound by terms on a ticket if they didn't read them?",
+      "arguments": "A. Plaintiff / Appellant\nThe passenger argued he wasn't told about the limit and didn't expect a simple receipt to contain a contract.\nB. Defendant / Respondent\nThe railway argued they did enough by printing 'See Back' on the front of the ticket.",
+      "judgment": "Ruling: The Court ordered a new trial, establishing the 'Parker Test'.",
+      "reasoning": "The Court held that the test is not whether the person read the terms, but whether the company gave\n'reasonable notice' of them. If a person knows there is writing on a ticket and knows (or believes) it contains\nconditions, they are bound. If they didn't know there were conditions, they are still bound if the company did\nwhat was reasonably sufficient to give them notice that there were conditions (like printing 'See Back' clearly).",
+      "legalPrinciples": "1. The 'Reasonable Notice' Test: Did the proferror do enough to alert the other party to the terms?\n2. Acceptance of a ticket often implies acceptance of its conditions.\n3. The more onerous the clause, the more prominent the notice must be."
+    },
+    {
+      "id": "thornton-v-shoe-lane-parking-ltd",
+      "title": "Thornton v. Shoe Lane Parking Ltd",
+      "facts": "Thornton drove into an automatic car park. He took a ticket from a machine. The ticket stated it was subject to\nconditions displayed on the premises. The displayed signs inside the garage excluded liability for personal\ninjury. Thornton was injured. The car park argued he accepted the terms when he took the ticket.",
+      "issues": "1. When is a contract formed in a transaction with an automatic machine?\n2. Can an exclusion clause for 'Personal Injury' be incorporated via a ticket machine?",
+      "arguments": "A. Plaintiff / Appellant\nThe driver argued that the contract was formed when he drove in and the machine gave the ticket. He had no\nchance to read signs inside the garage before the contract was complete.\nB. Defendant / Respondent\nThe garage argued the ticket referred to the terms, and the terms were there for him to see.",
+      "judgment": "Ruling: The Court ruled in favor of the driver.",
+      "reasoning": "Lord Denning ruled that in machine transactions, the 'offer' is the machine being ready, and the 'acceptance' is\nthe customer driving up and triggering the ticket. The contract is concluded the moment the customer is\ncommitted. Any terms printed on the ticket or displayed inside come too late. Furthermore, for very harsh terms\n(like excluding liability for injury), the notice must be 'exceptionally' clear-'red ink with a red hand pointing\nto it'.",
+      "legalPrinciples": "1. Contracts with machines are formed at the moment the customer commits (e.g., money in/triggering\nticket).\n2. Terms provided after the commitment are not part of the contract.\n3. 'Red Hand' Rule: Onerous or unusual clauses require higher levels of notice."
+    },
+    {
+      "id": "brogden-v-metropolitan-railway-co",
+      "title": "Brogden v. Metropolitan Railway Co.",
+      "facts": "Brogden had been supplying coal to the railway for years without a formal contract. They decided to draft one.\nThe railway sent a draft; Brogden made minor changes and sent it back marked 'approved'. The railway\nmanager put the draft in his desk and forgot about it. However, both parties continued to buy and sell coal\naccording to the terms of the draft for months. Later, a dispute arose, and Brogden argued no contract existed.",
+      "issues": "1. Can a contract be accepted by 'Conduct' without formal communication?\n2. Does a draft agreement become binding if parties perform its terms?",
+      "arguments": "A. Plaintiff / Appellant\nBrogden argued that the railway never 'communicated' their acceptance of his revised draft. Mental acceptance\nis not enough.\nB. Defendant / Respondent\nThe railway argued that by buying and selling coal exactly as the draft stated, both parties had accepted the\ncontract through their actions.",
+      "judgment": "Ruling: The Court ruled that a binding contract existed.",
+      "reasoning": "The Court held that while mental acceptance is insufficient, acceptance can be manifested through 'conduct'\nthat clearly indicates an intention to be bound. By placing orders and delivering coal according to the new\nterms, the parties showed they were acting under the draft agreement. Their 'course of dealing' completed the\ncontract.",
+      "legalPrinciples": "1. Acceptance can be by conduct (Section 8 ICA).\n2. Performance of the terms of a contract is evidence of its acceptance.\n3. A formal signature is not always required if conduct is unequivocal."
+    },
+    {
+      "id": "adams-v-lindsell",
+      "title": "Adams v. Lindsell",
+      "facts": "Lindsell offered to sell wool to Adams by letter. Due to a wrong address, the letter reached Adams late. Adams\nimmediately posted an acceptance. However, before the acceptance reached Lindsell, he had sold the wool to\nsomeone else. Adams sued for breach of contract.",
+      "issues": "1. When is an acceptance complete when using the post (non-instantaneous communication)?\n2. Does the contract form on 'Dispatch' or 'Receipt' of the letter?",
+      "arguments": "A. Plaintiff / Appellant\nAdams argued that he did everything he could by posting the letter immediately. The contract was formed the\nmoment he mailed his acceptance.\nB. Defendant / Respondent\nLindsell argued that there is no contract until the acceptance is actually received and the 'meeting of minds'\noccurs.",
+      "judgment": "Ruling: The Court ruled in favor of Adams, establishing the 'Postal Rule'.",
+      "reasoning": "The Court held that if acceptance is by post, the contract is complete the moment the letter is posted. This rule\nwas established for commercial certainty; if the rule were otherwise, no one could ever be sure a contract\nexisted without a continuous chain of letters confirming the receipt of previous ones. The offeror takes the 'risk'\nof the post when they invite acceptance by mail.",
+      "legalPrinciples": "1. The 'Postal Rule': Acceptance is complete upon posting (dispatch).\n2. The contract is formed at the place and time of posting.\n3. This rule only applies to non-instantaneous modes of communication like mail or telegram."
+    },
+    {
+      "id": "stevenson-jacques-co-v-mclean",
+      "title": "Stevenson, Jacques & Co v. McLean",
+      "facts": "McLean offered to sell iron. Stevenson replied by asking if he could have 'credit' (payment over time). McLean\ndidn't reply and sold the iron to someone else. Before the original offer expired, Stevenson sent a formal\nacceptance. McLean argued the 'credit' question was a counter-offer that killed the original offer.",
+      "issues": "1. What is the difference between a 'Counter-Offer' and a 'Mere Inquiry'?\n2. Does a request for information terminate an offer?",
+      "arguments": "A. Plaintiff / Appellant\nStevenson argued he was just asking a question about the terms. He never rejected the price. Therefore, the\noriginal offer was still alive when he accepted it.\nB. Defendant / Respondent\nMcLean argued that by asking for credit, Stevenson had proposed a different bargain, which is a counter-offer\naccording to Hyde v. Wrench.",
+      "judgment": "Ruling: The Court ruled in favor of Stevenson.",
+      "reasoning": "The Court held that a mere 'Inquiry' or 'Request for Information' (like asking about delivery times or credit) is\nnot a counter-offer. It does not manifest an intent to reject the offer. Since Stevenson was only exploring the\nterms, the original offer remained open until it was formally revoked. Since it wasn't revoked, the acceptance\nwas valid.",
+      "legalPrinciples": "1. A request for information is not a counter-offer.\n2. The original offer survives a mere inquiry.\n3. To kill an offer, the response must be a clear rejection or a new proposal on price/quantity."
+    },
+    {
+      "id": "balfour-v-balfour-1919-rose-and-frank-co-v-jr-crompton-bros-ltd",
+      "title": "Balfour v Balfour (1919) / Rose and Frank Co v JR Crompton & Bros Ltd",
+      "facts": "The parties entered into a massive commercial agreement for the distribution of paper. However, the contract\ncontained an 'Honour Clause' stating that the agreement was 'not a formal or legal agreement' and was 'binding\nin honor only'. The parties later fell out, and one tried to sue the other.",
+      "issues": "1. Can commercial parties explicitly exclude the 'Intention to Create Legal Relations'?\n2. Is an 'Honour Clause' valid in a business context?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued that in business, there is a strong presumption of legal intent. You cannot have a multi-\nmillion dollar deal that isn't a contract.\nB. Defendant / Respondent\nThe defendant argued that the parties are the masters of their own agreement. If they say it's not a contract, the\ncourt must respect that.",
+      "judgment": "Ruling: The House of Lords ruled in favor of the defendant.",
+      "reasoning": "The Court held that while there is a presumption of legal intent in commercial deals, that presumption can be\nrebutted by express words. If the parties explicitly state that their arrangement is not a legal contract, the court\nwill not force one upon them. The 'Honour Clause' effectively prevented the agreement from becoming a\nbinding contract.",
+      "legalPrinciples": "1. Intention to create legal relations can be excluded by express agreement ('Honour Clauses').\n2. Commercial presumptions are rebuttable.\n3. Respect for 'Party Autonomy' in defining the nature of their relationship."
+    },
+    {
+      "id": "cutter-v-powell",
+      "title": "Cutter v. Powell",
+      "facts": "A sailor was hired for a voyage from Jamaica to Liverpool. The contract said he would be paid 30 guineas\n'provided he proceeds, continues and does his duty... to the port of Liverpool'. The sailor died after performing\n2/3rds of the voyage. His widow sued for the proportion of the wages.",
+      "issues": "1. Is a party entitled to payment if they only partially perform an 'Entire' contract?\n2. What is the rule for 'Divisible' versus 'Indivisible' contracts?",
+      "arguments": "A. Plaintiff / Appellant\nThe widow argued that it was unjust for the employer to get the benefit of 2/3rds of the work for free. The\ncontract should be treated as divisible.\nB. Defendant / Respondent\nThe employer argued that the contract was 'entire'. Payment was only due upon completion of the whole\njourney. Failure to reach Liverpool was a total breach.",
+      "judgment": "Ruling: The Court ruled in favor of the employer, Powell.",
+      "reasoning": "The Court held that in an 'Entire Contract', full performance is a condition precedent to payment. Since the\nsailor agreed to work until the end and failed to do so, no wages were due. This harsh rule was established to\nensure completion of high-risk tasks. (Note: Modern law has since developed the 'Doctrine of Substantial\nPerformance' to mitigate this harshness in many cases).",
+      "legalPrinciples": "1. In an 'Entire' contract, part performance does not entitle the party to any payment.\n2. Completion is the condition for payment.\n3. The law respects the 'all-or-nothing' risk taken by parties in specific contracts."
+    },
+    {
+      "id": "hochster-v-de-la-tour",
+      "title": "Hochster v. De La Tour",
+      "facts": "De La Tour hired Hochster as a courier for a trip starting on June 1st. On May 11th, De La Tour wrote to\nHochster saying he no longer needed him. Hochster immediately sued for breach of contract on May 22nd,\nbefore the actual date of performance (June 1st) had arrived.",
+      "issues": "1. Can a party sue for breach of contract before the date of performance has arrived?\n2. What is the 'Doctrine of Anticipatory Breach'?",
+      "arguments": "A. Plaintiff / Appellant\nHochster argued that once the employer said 'I will not perform', the contract was broken. He shouldn't have to\nwait until June 1st to seek a remedy.\nB. Defendant / Respondent\nDe La Tour argued that there could be no breach until the day he was actually required to provide the job. He\nmight have changed his mind before June 1st.",
+      "judgment": "Ruling: The Court ruled in favor of Hochster.",
+      "reasoning": "The Court established the 'Doctrine of Anticipatory Breach' (Section 39 ICA). When one party clearly\ncommunicates that they will not perform their future obligations, the other party has an immediate right to treat\nthe contract as ended and sue for damages. They do not have to wait in suspense or remain 'ready and willing'\nuntil the performance date. This allows the innocent party to find another job or mitigate their losses\nimmediately.",
+      "legalPrinciples": "1. Anticipatory Breach allows for an immediate cause of action.\n2. Repudiation of a contract before the due date discharges the innocent party.\n3. Section 39 ICA: 'Effect of refusal of party to perform promise wholly'."
+    },
+    {
+      "id": "victoria-laundry-windsor-ltd-v-newman-industries-ltd",
+      "title": "Victoria Laundry (Windsor) Ltd v Newman Industries Ltd",
+      "facts": "A laundry ordered a large boiler from an engineering firm. The delivery was delayed by 20 weeks. The laundry\nsued for (1) the loss of 'normal' profits they would have made from the boiler, and (2) the loss of 'exceptionally\nlucrative' dyeing contracts they were planning to take from the government. The engineers knew the laundry\nneeded the boiler for immediate use but didn't know about the specific government contracts.",
+      "issues": "1. What is the extent of knowledge required for 'contemplation' under the second limb of Hadley v.\nBaxendale?\n2. Are defendants liable for 'extraordinary' profits lost during a delay?",
+      "arguments": "A. Plaintiff / Appellant\nThe laundry argued that as engineers, the defendants must have known that a delay would result in lost profit.\nAll profit lost should be compensated.\nB. Defendant / Respondent\nThe engineers argued they were not 'prophets'. They couldn't have known about the secret, high-value\ngovernment deals.",
+      "judgment": "Ruling: The Court allowed the claim for normal profits but rejected the claim for extraordinary profits.",
+      "reasoning": "The Court refined the rules for remoteness. A defendant is only liable for losses that are a 'serious possibility' or\na 'real danger' based on their knowledge. They are expected to know the 'normal' course of business (First\nLimb). However, they are only liable for 'special' lucrative losses if they have 'actual knowledge' of those\nspecific contracts at the time of the agreement (Second Limb). Since the engineers had no hint of the special\ngovernment deals, those losses were too remote.",
+      "legalPrinciples": "1. Distinction between 'Natural' losses and 'Special' losses.\n2. Liability for special losses requires actual notice of the circumstances.\n3. The defendant is not an insurer of the plaintiff's extraordinary business deals."
+    },
+    {
+      "id": "kundan-lal-v-state-of-u-p",
+      "title": "Kundan Lal v. State of U.P.",
+      "facts": "A contractor agreed to supply stone to the government. The stone was to be delivered from a specific quarry.\nLater, the government changed the source to a different quarry much further away. The contractor refused to\nsupply, arguing that the contract was 'materially altered' without his consent.",
+      "issues": "1. Does a 'Material Alteration' of a contract discharge the other party from their obligations?\n2. What is the 'Doctrine of Novation' under Section 62 of the ICA?",
+      "arguments": "A. Plaintiff / Appellant\nThe contractor argued that the increased transport distance made it a completely different bargain. You cannot\nchange the 'subject matter' or the 'cost' of a contract unilaterally.\nB. Defendant / Respondent\nThe State argued that the object (supplying stone) was the same. The change of source was a minor\nadministrative adjustment.",
+      "judgment": "Ruling: The Court ruled in favor of the contractor.",
+      "reasoning": "The Court held that any 'Material Alteration' in the terms of a written contract made without the consent of the\nother party renders the contract void. Changing the location of supply in a transport-heavy contract is a\nfundamental change that affects the 'consideration'. Under Section 62, if the parties want to change the terms,\nthey must agree to a 'Novation' (a new contract). Since the State tried to force the change unilaterally, the\ncontractor was discharged from his duties.",
+      "legalPrinciples": "1. Material alteration without consent discharges the contract.\n2. Section 62 ICA: Novation, Rescission, and Alteration require mutual consent.\n3. One party cannot unilaterally increase the burden on the other party."
+    },
+    {
+      "id": "taylor-v-caldwell",
+      "title": "Taylor v. Caldwell",
+      "facts": "Caldwell agreed to let Taylor use the Surrey Gardens and Music Hall for four concerts. Shortly before the first\nconcert, the music hall was accidentally destroyed by fire through no fault of either party. Taylor sued for\nbreach of contract to recover the advertising and organizational expenses he had incurred.",
+      "issues": "1. Is a party liable for breach if performance becomes impossible due to the destruction of the subject\nmatter?\n2. Does the law imply a condition of 'continued existence' in contracts?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued that the contract was absolute. Since the defendant failed to provide the hall as promised,\nhe was liable for all resulting damages.\nB. Defendant / Respondent\nThe defendant argued that the contract was based on the existence of the specific music hall. Its destruction\nmade the contract impossible to perform.",
+      "judgment": "Ruling: The Court ruled in favor of the defendant (Caldwell).",
+      "reasoning": "The Court established the foundational principle for the Doctrine of Frustration (Section 56 ICA). It held that in\ncontracts where performance depends on the continued existence of a specific person or thing, a condition is\nimplied that the impossibility of performance arising from the perishing of that person or thing shall excuse the\nperformance. Since the hall no longer existed, both parties were discharged from their obligations.",
+      "legalPrinciples": "1. Destruction of the subject matter frustrates the contract.\n2. Implied condition of continued existence in specific contracts.\n3. Neither party is liable for damages if the impossibility is through no fault of their own."
+    },
+    {
+      "id": "scammell-v-ouston",
+      "title": "Scammell v. Ouston",
+      "facts": "Ouston agreed to buy a new motor van from Scammell on 'hire-purchase terms' over two years. The specific\ndetails of the hire-purchase terms were never discussed or agreed upon. Later, Scammell refused to deliver the\nvan, and Ouston sued for breach.",
+      "issues": "1. Can a contract be enforced if its core terms are vague or uncertain?\n2. What is the requirement of 'Certainty' under Section 29 of the ICA?",
+      "arguments": "A. Plaintiff / Appellant\nOuston argued that there was a clear intent to buy and sell, and the standard industry hire-purchase terms\nshould be implied by the court.\nB. Defendant / Respondent\nScammell argued that because 'hire-purchase terms' can vary wildly (regarding interest, repossession, etc.),\nthere was no definite agreement on a crucial part of the deal.",
+      "judgment": "Ruling: The House of Lords ruled that no contract existed.",
+      "reasoning": "The Court held that for a contract to be binding, its terms must be 'ascertainable' with reasonable certainty.\nBecause the phrase 'hire-purchase terms' was too vague and had no single standard meaning, the court could\nnot determine what the parties had actually agreed to. Agreements which are not certain, or capable of being\nmade certain, are void (Section 29 ICA).",
+      "legalPrinciples": "1. Vague or uncertain terms render an agreement void (Section 29 ICA).\n2. The court will not create a contract for the parties if they haven't specified the details.\n3. Intention to contract is insufficient if the terms are incomplete."
+    },
+    {
+      "id": "handicrafts-and-handlooms-export-corp-v-ashok-metal-corp",
+      "title": "Handicrafts and Handlooms Export Corp v. Ashok Metal Corp",
+      "facts": "A government corporation (HHEC) entered into a contract with Ashok Metal for the supply of silver at a\nspecific price. The contract contained a clause: 'Subject to the approval of the Central Government'. The\ngovernment subsequently refused to approve the specific price. Ashok Metal sued, arguing that the corporation\nwas bound by its initial signature.",
+      "issues": "1. What is the effect of a 'Conditional Acceptance' or a 'Subject to Approval' clause?\n2. Does a contract exist before the specified condition is fulfilled?",
+      "arguments": "A. Plaintiff / Appellant\nThe supplier argued that the 'approval' was a mere formality and that the HHEC had already manifested its\nintent to be bound by signing the deal.\nB. Defendant / Respondent\nThe Corporation argued that the approval was a 'Condition Precedent'. Since the condition was never met, the\noffer was never legally accepted.",
+      "judgment": "Ruling: The Court ruled that no binding contract had been formed.",
+      "reasoning": "The Court held that an acceptance that is 'subject to approval' or 'subject to contract' is not an absolute and\nunqualified acceptance (Section 7 ICA). It is merely a stage in the negotiations. Until the third party (the\nGovernment) gave its approval, there was no 'meeting of minds'. Either party was free to withdraw before the\ncondition was satisfied.",
+      "legalPrinciples": "1. Acceptance must be absolute and unqualified (Section 7 ICA).\n2. 'Subject to approval' clauses create a conditional acceptance, which is no acceptance in law.\n3. A contract only crystallizes when the condition is fulfilled."
+    },
+    {
+      "id": "nordenfelt-v-maxim-nordenfelt",
+      "title": "Nordenfelt v. Maxim Nordenfelt",
+      "facts": "Nordenfelt sold his worldwide armaments business and promised not to compete with the buyer for 25 years.\nHe later argued that this global ban was void as it was against the 'public interest' by restricting competition.",
+      "issues": "1. Can a restraint of trade be justified by the nature of the business sold?\n2. How does 'Public Policy' define the limits of private contracts?",
+      "arguments": "A. Plaintiff / Appellant\nThe buyer argued that they paid for Nordenfelt's specific expertise and 'goodwill'. A restricted geographic limit\nwould be useless for an international arms dealer.\nB. Defendant / Respondent\nNordenfelt argued that a 25-year total ban on his profession was injurious to the public by depriving society of\nhis inventions.",
+      "judgment": "Ruling: The Court upheld the global 25-year restraint.",
+      "reasoning": "The Court established that while restraints of trade are generally void, they are valid if they are (a) reasonable\nbetween the parties and (b) consistent with the interest of the public. Given the global nature of the arms trade\nand the massive price paid for the goodwill, the restraint was not wider than necessary to protect the buyer.\nPublic policy did not require Nordenfelt to be able to sell guns to the buyer's rivals.",
+      "legalPrinciples": "1. Reasonableness of a restraint is judged by the scope of the business involved.\n2. Goodwill protection is a legitimate ground for restraint of trade.\n3. The 'Public Policy' test balances individual freedom with commercial stability."
+    },
+    {
+      "id": "leslie-ltd-v-sheill",
+      "title": "Leslie Ltd v. Sheill",
+      "facts": "Sheill, a minor, obtained a loan from Leslie Ltd by fraudulently misrepresenting that he was of full age. When\nthe lender discovered the truth and sued for the money, the minor pleaded his minority as a defense. The lender\nargued that since the minor committed fraud, he should be forced to repay the money (Restitution).",
+      "issues": "1. Can a minor be held liable in 'tort' for a wrong connected to a contract?\n2. Can the 'Doctrine of Restitution' force a minor to return money obtained by fraud?",
+      "arguments": "A. Plaintiff / Appellant\nThe lender argued that although the contract was void, the minor should not be allowed to profit from his own\nfraud. They sued for 'deceit' and 'restitution'.\nB. Defendant / Respondent\nThe minor argued that allowing a tort claim would be an indirect way of enforcing a void contract, which the\nlaw prohibits.",
+      "judgment": "Ruling: The Court ruled in favor of the minor.",
+      "reasoning": "The Court held that 'Restitution' is only possible if the minor has the specific goods in his possession\n(Doctrine of Equitable Restitution). However, you cannot have restitution of money which has been spent, as\nmoney has no ear-mark. To force the minor to repay the loan would be to enforce a void contract by a backdoor\nmethod (suing in tort). The law protects minors even from their own fraudulent acts to prevent the total\nbypassing of the capacity rules.",
+      "legalPrinciples": "1. No restitution of money from a minor if the money has been spent.\n2. You cannot sue a minor in tort to indirectly enforce a void contract.\n3. The protection of minors is almost absolute in contract law."
+    },
+    {
+      "id": "fitch-v-smedaker",
+      "title": "Fitch v. Smedaker",
+      "facts": "A reward was offered for information leading to the arrest of a criminal. Fitch provided the information first,\nand only after providing it, he learned that a reward had been offered. He then sued to claim the reward.",
+      "issues": "1. Can there be an acceptance of a general offer without prior knowledge of that offer?\n2. Is the 'meeting of minds' required for rewards?",
+      "arguments": "A. Plaintiff / Appellant\nThe informant argued that the condition (giving info) was met, so the contract was fulfilled.\nB. Defendant / Respondent\nThe offeror argued that Fitch performed the act for other reasons (public duty) and not as an acceptance of the\noffer he didn't know about.",
+      "judgment": "Ruling: The Court ruled against the informant.",
+      "reasoning": "The Court held that a contract is a consensual relationship. One cannot 'accept' an offer of which one is\nignorant. Therefore, the act performed without knowledge of the reward cannot be converted into an\nacceptance later. This follows the logic of Lalman Shukla v. Gauri Dutt.",
+      "legalPrinciples": "1. Knowledge of an offer is a mandatory prerequisite for its acceptance.\n2. General offers (rewards) are subject to the same rules of communication as specific offers."
+    },
+    {
+      "id": "weeks-v-tybald",
+      "title": "Weeks v. Tybald",
+      "facts": "The defendant told the plaintiff that he would give \u00a3100 to any man who would marry his daughter with his\nconsent. The plaintiff married the daughter with consent and sued for the money. The defendant argued he was\njust 'joking' during a social conversation.",
+      "issues": "1. Do boastful or social statements constitute a binding legal offer?\n2. How do courts distinguish between 'mere puff' and a serious offer?",
+      "arguments": "A. Plaintiff / Appellant\nThe husband argued the statement was clear and he performed the act requested.\nB. Defendant / Respondent\nThe father argued the statement was 'general talk' and not intended to be a legal contract.",
+      "judgment": "Ruling: The Court ruled in favor of the father.",
+      "reasoning": "The Court held that vague, boastful, or social statements ('mere puff') made without a serious intention to create\nlegal relations do not constitute an offer. For a contract to form, the words must be spoken with the intent that\nthey should be legally binding. In this context, it was merely an exaggerated social promise.",
+      "legalPrinciples": "1. Intention to Create Legal Relations is assessed objectively.\n2. 'Mere Puffs' or social boasts are not legal offers.\n3. Context (social vs. business) is crucial in determining intent."
+    },
+    {
+      "id": "white-v-bluett",
+      "title": "White v. Bluett",
+      "facts": "A son owed his father money. The father promised to waive the debt if the son 'stopped complaining' that the\nfather favored his other children. After the father's death, the executors sued the son for the debt. The son\nclaimed the debt was discharged by his promise to stop complaining.",
+      "issues": "1. Can a promise to refrain from doing something one has no legal right to do constitute 'Consideration'?\n2. What is 'Illusory Consideration'?",
+      "arguments": "A. Plaintiff / Appellant\nThe son argued that his silence was a benefit to the father (peace of mind) and a detriment to him (giving up his\nright to complain).\nB. Defendant / Respondent\nThe executors argued that the son had no 'right' to complain anyway. A promise to behave properly is not a\nvalid price for a debt.",
+      "judgment": "Ruling: The Court ruled in favor of the executors.",
+      "reasoning": "The Court held that the son's promise was too vague and lacked any legal value. 'Complaining' is not a legal\nright. Since the son was not giving up anything of value in the eyes of the law, there was no consideration for\nthe father's promise to waive the debt. This is 'illusory' or 'insufficient' consideration.",
+      "legalPrinciples": "1. Consideration must be 'real' and have some value in the eyes of the law.\n2. A promise to refrain from an act that one has no legal right to do is not consideration.\n3. Vague promises of behavior are not sufficient consideration."
+    },
+    {
+      "id": "dutton-v-poole",
+      "title": "Dutton v. Poole",
+      "facts": "A father intended to cut down some trees on his land to raise a portion for his daughter's marriage. The son (the\nheir) promised the father that if he didn't cut the trees, the son would pay the daughter \u00a31,000. The father died,\nand the son refused to pay. The daughter sued.",
+      "issues": "1. Can a child sue on a promise made to their parent for their benefit (Privity exception)?\n2. Is 'natural love and affection' sufficient to overcome lack of privity?",
+      "arguments": "A. Plaintiff / Appellant\nThe daughter argued that she was the intended beneficiary and the consideration (saving the trees) moved from\nher father for her sake.\nB. Defendant / Respondent\nThe son argued the classic rule: the daughter was not a party to the contract and provided no consideration.",
+      "judgment": "Ruling: The Court ruled in favor of the daughter.",
+      "reasoning": "In this ancient case, the court allowed an exception to the privity rule based on 'blood relationship'. It held that\nthe father's consideration (not cutting trees) was essentially the same as the daughter's interest. This was a\nprecursor to the modern 'beneficiary' exceptions. (Note: While later overturned in English law by Tweddle v.\nAtkinson, it remains an important historical marker for the Indian position in Chinnaya v. Ramaya).",
+      "legalPrinciples": "1. Early recognition of 'third-party beneficiaries' in close family relations.\n2. The concept that consideration can move from a third party (now law in India).\n3. Equity often intervenes to prevent family members from profiting through breached promises."
+    },
+    {
+      "id": "tweddle-v-atkinson-2",
+      "title": "Tweddle v. Atkinson",
+      "facts": "Following a marriage, the fathers of the couple agreed to each pay the groom a sum. The groom sued for the\nmoney after one father died. This case directly addressed whether the 'relationship' exception in Dutton v.\nPoole was still good law.",
+      "issues": "1. Does the 'Doctrine of Privity' admit an exception for close family members in English law?\n2. Can a beneficiary sue without provided consideration?",
+      "arguments": "A. Plaintiff / Appellant\nThe groom relied on Dutton v. Poole, arguing that the relationship between father and child created an\nexception.\nB. Defendant / Respondent\nThe defendant argued that only parties who provided consideration could sue.",
+      "judgment": "Ruling: The Court ruled against the groom.",
+      "reasoning": "The Court definitively established the 'Privity of Contract' and 'Privity of Consideration' as absolute rules in\nEngland. It held that the groom was a 'stranger' to the agreement and the consideration. The Court rejected the\n'blood relationship' exception, stating that only the parties who made the exchange could enforce the bond.",
+      "legalPrinciples": "1. Refutation of the family-benefit exception to privity in English law.\n2. Consideration must move from the promisee.\n3. Strangers to a contract cannot sue even if the contract was made for their specific benefit."
+    },
+    {
+      "id": "smith-v-hughes",
+      "title": "Smith v. Hughes",
+      "facts": "A farmer (Hughes) sold oats to a racehorse owner (Smith). Smith wanted 'old' oats for his horses. Hughes\nshowed Smith a sample. Smith examined it and bought the whole batch. When the oats were delivered, they\nwere 'new' oats. Smith refused to pay. Hughes sued, arguing that he never promised they were 'old'-he just\nshowed the sample.",
+      "issues": "1. Does a 'Mistake' regarding a quality of an item void a contract?\n2. What is the rule of 'Caveat Emptor' (Buyer Beware) in contracts?",
+      "arguments": "A. Plaintiff / Appellant\nThe buyer (Smith) argued that the seller knew he only bought old oats. Selling new oats was a breach based on\na fundamental mistake of the subject matter.\nB. Defendant / Respondent\nThe seller (Hughes) argued he made no misrepresentation. Smith looked at the sample and formed his own\nconclusion. Silence about a quality is not a lie.",
+      "judgment": "Ruling: The Court ruled in favor of the seller, Hughes.",
+      "reasoning": "The Court held that unless there is a 'warranty' or a 'fraud', a mistake as to the quality of the goods does not\nvoid the contract. Hughes was silent, and silence is not fraud. Smith had the chance to inspect the sample. If he\nmade a wrong inference, he must suffer the loss. The contract was for the 'specific oats' shown, and the price\nwas agreed. Mistake as to quality is not a 'mistake as to substance'.",
+      "legalPrinciples": "1. Caveat Emptor: The buyer must look after their own interests.\n2. Mistake of quality (unless induced by fraud) does not void a contract.\n3. Subjective intent is irrelevant if the objective conduct shows agreement on the item."
+    },
+    {
+      "id": "cundy-v-lindsay",
+      "title": "Cundy v. Lindsay",
+      "facts": "A rogue named Blenkarn ordered linen from Lindsay. He signed the order such that it looked like it was from\n'Blenkiron & Co.', a reputable firm in the same street. Lindsay, thinking they were dealing with the reputable\nfirm, sent the goods. Blenkarn didn't pay and sold the goods to Cundy. Lindsay sued Cundy for the return of the\ngoods.",
+      "issues": "1. Does a 'Mistake as to Identity' make a contract void or voidable?\n2. Can a third party get good title from a person who committed 'identity fraud'?",
+      "arguments": "A. Plaintiff / Appellant\nLindsay argued they never intended to sell to Blenkarn. They intended to sell to Blenkiron & Co. Therefore,\nthere was no contract at all, and the title never left them.\nB. Defendant / Respondent\nCundy argued they were innocent buyers. The contract was at most 'voidable' for fraud, and since Lindsay\ndidn't cancel it before Cundy bought, Cundy got good title.",
+      "judgment": "Ruling: The Court ruled in favor of Lindsay.",
+      "reasoning": "The Court held that where a party intends to deal with a 'specific' person and deals with someone else by\nmistake, the contract is 'V oid' (not just voidable). Since Lindsay only intended to contract with Blenkiron &\nCo., there was never a 'meeting of minds' with the rogue. Because the contract was void, the rogue never got\nthe 'title' to the goods and could not pass it to Cundy. Lindsay could take their goods back from the innocent\nbuyer.",
+      "legalPrinciples": "1. Mistake as to identity of the person renders a contract void ab initio.\n2. No title passes under a void contract.\n3. Distinguished from 'Mistake of Attribute' where the contract is only voidable."
+    },
+    {
+      "id": "phillips-v-brooks-ltd",
+      "title": "Phillips v. Brooks Ltd",
+      "facts": "A rogue entered a jewelry shop and selected a ring. He claimed to be 'Sir George Bullough' and gave a fake\naddress. The jeweler checked the directory, saw Sir George existed at that address, and allowed the rogue to\npay by cheque and take the ring. The cheque bounced. The rogue sold the ring to Brooks (a pawnbroker). The\njeweler sued Brooks.",
+      "issues": "1. What is the difference between identity fraud 'by post' and 'face-to-face'?\n2. Does a face-to-face deal with a rogue create a void or voidable contract?",
+      "arguments": "A. Plaintiff / Appellant\nThe jeweler argued Cundy v. Lindsay: he only intended to sell to Sir George. Therefore, the contract was\nvoid and no title passed.\nB. Defendant / Respondent\nThe pawnbroker argued that the jeweler intended to sell to the person standing in front of him. The identity was\njust an 'attribute' (creditworthiness). The contract was voidable for fraud, but valid until cancelled.",
+      "judgment": "Ruling: The Court ruled in favor of the pawnbroker.",
+      "reasoning": "The Court established the 'Face-to-Face' rule. When parties are physically present, there is a strong presumption\nthat the seller intends to contract with the person in front of them, regardless of what name they use. The\n'identity' was a mistake, but the 'individual' was certain. Therefore, the contract was only 'voidable' for fraud.\nSince the jeweler didn't cancel the contract before the rogue sold the ring, the innocent buyer (Brooks) got a\nvalid title.",
+      "legalPrinciples": "1. Face-to-face identity fraud generally makes a contract voidable, not void.\n2. The seller is presumed to contract with the person physically present.\n3. Title passes to innocent third parties under voidable contracts before rescission."
+    },
+    {
+      "id": "ingram-v-little",
+      "title": "Ingram v. Little",
+      "facts": "Three ladies sold a car to a rogue who claimed to be a respectable businessman. They were suspicious and\nrefused his cheque. The rogue then gave them a name and address. The ladies went to a nearby post office,\nchecked the phone book, and confirmed the person existed. Only then did they accept the cheque. The cheque\nbounced and the rogue sold the car to Little.",
+      "issues": "1. Can a face-to-face contract be void for identity mistake if the seller takes extraordinary steps to verify\nthe person?\n2. Does verification override the 'face-to-face' presumption?",
+      "arguments": "A. Plaintiff / Appellant\nThe ladies argued that they made it clear they would not sell to him as a person. They only agreed to sell\nbecause they believed he was the person in the phone book. Identity was paramount.\nB. Defendant / Respondent\nLittle argued the standard Phillips v. Brooks rule: they sold to the man in front of them.",
+      "judgment": "Ruling: The Court ruled in favor of the ladies, holding the contract void.",
+      "reasoning": "The Court held that the ladies had rebutted the 'face-to-face' presumption. By checking the phone book and\nrefusing the cheque until the identity was 'confirmed', they showed that the identity of the buyer was the sole\nreason for the contract. Since the buyer was not that person, there was no contract. (Note: This case is often\ncriticized as being inconsistent with other identity cases).",
+      "legalPrinciples": "1. Presumptions in face-to-face deals can be rebutted by evidence of extreme caution regarding identity.\n2. If identity is proven to be 'fundamental' to the deal, the contract is void.\n3. This case represents the 'narrow' exception to the Phillips v. Brooks rule."
+    },
+    {
+      "id": "raffles-v-wichelhaus",
+      "title": "Raffles v. Wichelhaus",
+      "facts": "The defendant agreed to buy a cargo of cotton from the plaintiff to arrive from Bombay on a ship named\n'Peerless'. Unknown to both parties, there were two ships named 'Peerless' leaving Bombay: one in October and\none in December. The buyer meant the October ship; the seller meant the December ship. When the cotton\narrived on the December ship, the buyer refused to take it.",
+      "issues": "1. What happens if there is a 'Mutual Mistake' regarding the subject matter?\n2. Is a contract valid if there is an 'ambiguity' that prevents a meeting of minds?",
+      "arguments": "A. Plaintiff / Appellant\nThe seller argued the contract was for 'cotton on the Peerless'. The cotton arrived on a ship called Peerless, so\nthe buyer must pay.\nB. Defendant / Respondent\nThe buyer argued that the timing was everything. Since they were talking about different ships, they were\ntalking about different contracts.",
+      "judgment": "Ruling: The Court ruled in favor of the buyer.",
+      "reasoning": "The Court held that since both ships fit the description perfectly, the ambiguity was 'latent'. There was no\nconsensus ad idem (meeting of minds) because the parties were referring to different ships. Since the contract\nwas incapable of a single certain meaning, no binding agreement ever existed. Both parties were under a\ngenuine mutual mistake.",
+      "legalPrinciples": "1. Mutual mistake as to the identity of the subject matter makes the contract void (Section 20 ICA).\n2. Latent ambiguity prevents the formation of a contract.\n3. Subjective intent matters if the objective description is ambiguous."
+    },
+    {
+      "id": "bell-v-lever-brothers-ltd",
+      "title": "Bell v. Lever Brothers Ltd",
+      "facts": "Lever Brothers fired two senior executives and gave them a massive 'Golden Handshake' (compensation) to\nleave. Later, the company discovered that the executives had secretly committed breaches of their duties which\nwould have allowed the company to fire them without paying any compensation. The company sued to get the\nmoney back, claiming the compensation agreement was void for 'Common Mistake'.",
+      "issues": "1. Does a 'Common Mistake' regarding a background fact (which makes the contract unnecessary) void\na contract?\n2. What is the 'High Threshold' for mistake in property/commercial law?",
+      "arguments": "A. Plaintiff / Appellant\nThe company argued both parties believed the executives' employment could not be terminated without pay.\nThis mistake was fundamental to the payout.\nB. Defendant / Respondent\nThe executives argued that the contract was to end the relationship. The fact that the company could have\nended it differently is a mistake of 'value' or 'motive', not substance.",
+      "judgment": "Ruling: The House of Lords ruled in favor of the executives.",
+      "reasoning": "The Court established that Common Mistake only voids a contract if the mistake is as to the 'existence' of the\nsubject matter or a quality that makes the contract 'radically different' from what was intended. The 'subject\nmatter' was the termination of the contracts. That was achieved. The mistake about the necessity of the\npayout was not fundamental enough. The law favors the finality of settlements. A mistake as to quality or\nbackground motive is insufficient.",
+      "legalPrinciples": "1. Common mistake must be 'fundamental' and 'radical' to void a contract.\n2. Mistakes of 'quality' or 'commercial necessity' are generally not enough.\n3. Narrow interpretation of the doctrine of mistake to protect commercial certainty."
+    },
+    {
+      "id": "foster-v-mackinnon",
+      "title": "Foster v. Mackinnon",
+      "facts": "An elderly gentleman with poor eyesight was asked to sign a document. He was told it was a mere 'guarantee'\nof a minor nature. In reality, it was a 'Bill of Exchange' for a large sum. The bill was later sold to Foster. When\nMackinnon was sued, he claimed the document was not his act (Non est factum).",
+      "issues": "1. Can a person be excused from a contract if they were totally mistaken about the 'nature' of the\ndocument they signed?\n2. What is the doctrine of 'Non est factum'?",
+      "arguments": "A. Plaintiff / Appellant\nThe plaintiff argued the signature was genuine. The signer's negligence in not reading it shouldn't affect a third\nparty.\nB. Defendant / Respondent\nThe signer argued that he never intended to sign a bill of exchange. His mind did not follow his pen. Therefore,\nthe deed was void.",
+      "judgment": "Ruling: The Court ruled in favor of the defendant, Mackinnon.",
+      "reasoning": "The Court held that if a person is induced by fraud to sign a document which is 'fundamentally different' in\ncharacter from what he thought it was, the signature is a nullity. This applies particularly to the blind, illiterate,\nor elderly. Since Mackinnon thought he was signing a guarantee (a promise) but signed a bill of exchange (a\nnegotiable debt), the mistake was as to the 'class' of the document. The document was 'not his deed'.",
+      "legalPrinciples": "1. Non est factum: A signature is void if the signer is mistaken as to the fundamental nature of the\ndocument.\n2. Mistake of 'Character' (nature) vs. Mistake of 'Content' (terms).\n3. Requires absence of negligence on the part of the signer."
+    },
+    {
+      "id": "merritt-v-merritt",
+      "title": "Merritt v. Merritt",
+      "facts": "A husband left his wife for another woman. He signed an agreement promising to pay his wife \u00a340 a month and\ntransfer the house to her if she paid off the remaining mortgage. She paid the mortgage, but he refused to\ntransfer the house, claiming it was a domestic agreement with no legal intent (relying on Balfour v. Balfour).",
+      "issues": "1. Does the presumption against legal intent in domestic agreements apply when the couple has\n'separated'?\n2. When do spouses intend to create legal relations?",
+      "arguments": "A. Plaintiff / Appellant\nThe wife argued that the agreement was made in writing after he left the house. They were not living in amity;\nthey were negotiating a settlement.\nB. Defendant / Respondent\nThe husband argued Balfour v. Balfour: arrangements between husband and wife are not contracts.",
+      "judgment": "Ruling: The Court ruled in favor of the wife.",
+      "reasoning": "The Court held that the presumption in Balfour v. Balfour only applies when the spouses are living together\nin harmony. When a couple is 'separated' or about to separate, they do not rely on 'love and affection'; they\nbargain at arm's length to settle their affairs. In such cases, there is a strong presumption that they do intend\ntheir agreements to be legally binding.",
+      "legalPrinciples": "1. Separated spouses are presumed to intend to create legal relations.\n2. Context determines the presumption of legal intent.\n3. Written settlements between family members in conflict are generally binding contracts."
+    },
+    {
+      "id": "brogden-v-metropolitan-railway-co-2",
+      "title": "Brogden v. Metropolitan Railway Co.",
+      "facts": "This case (revisited for performance aspects) dealt with whether supplier Brogden could be bound to a price\ndraft he never formally signed, but which both parties followed for months.",
+      "issues": "1. Can the 'last shot' (the final version of a document) become the contract through performance?\n2. Does 'silence' combined with 'action' constitute acceptance?",
+      "arguments": "A. Plaintiff / Appellant\nThe railway argued that by acting on the price, Brogden accepted the terms.\nB. Defendant / Respondent\nBrogden argued he was just doing his job and there was no new contract.",
+      "judgment": "Ruling: The Court held a contract existed.",
+      "reasoning": "The Court ruled that while 'silence' alone is not acceptance, 'silence' followed by the active performance of the\nspecific terms is the strongest possible acceptance. By delivering coal at the new price, Brogden manifested his\nconsent.",
+      "legalPrinciples": "1. Course of conduct is a valid mode of acceptance.\n2. Executed consideration (doing the act) creates a binding bond.\n3. Commercial consistency is protected by the law."
+    },
+    {
+      "id": "central-inland-water-transport-corp-v-brojo-nath-ganguly",
+      "title": "Central Inland Water Transport Corp v. Brojo Nath Ganguly",
+      "facts": "A government corporation's employment rules contained a clause: 'The services of a permanent employee can\nbe terminated by the management at any time by giving 3 months' notice without giving any reason'. A senior\nmanager was fired using this clause. He challenged it as 'unconscionable' and against public policy.",
+      "issues": "1. Can the Court strike down an 'Unconscionable' clause in a commercial or employment contract?\n2. Does 'Inequality of Bargaining Power' make a contract void under Section 23 of the ICA?",
+      "arguments": "A. Plaintiff / Appellant\nThe employee argued that he had no choice but to sign. The rule was 'take it or leave it'. It gave the employer\ndictatorial powers, which is against public policy.\nB. Defendant / Respondent\nThe Corporation argued 'freedom of contract'. The employee was highly educated and joined voluntarily.",
+      "judgment": "Ruling: The Supreme Court struck down the clause as void.",
+      "reasoning": "The Court held that in cases of 'gross inequality of bargaining power', the principle of freedom of contract is a\nmyth. Where one party (the State or a large employer) dictates terms to a weaker party who has no choice but\nto accept, the court will strike down terms that are 'unreasonable, unfair, and unconscionable'. The 'hire and fire'\nrule was found to be 'oppressive' and against the public policy of India (Section 23). This established the\n'Doctrine of Unconscionability' in Indian contract law.",
+      "legalPrinciples": "1. Unconscionable contracts are void under Section 23 ICA as being against public policy.\n2. Courts will protect the weaker party in cases of 'take-it-or-leave-it' (Adhesion) contracts.\n3. Public Sector employers must act fairly and reasonably."
+    },
+    {
+      "id": "kundan-lal-v-state-of-u-p-2",
+      "title": "Kundan Lal v. State of U.P.",
+      "facts": "A government official threatened a contractor that his existing contracts would be cancelled and his security\ndeposit forfeited unless he agreed to sign a new contract at a much lower rate. Fearing financial ruin, the\ncontractor signed the new agreement. Later, he sued to set aside the contract, claiming it was obtained through\n'coercion'.",
+      "issues": "1. Does a threat to cause economic loss or cancel existing legal rights constitute 'Coercion' under Section\n15 of the ICA?\n2. What is the scope of 'Economic Duress' in Indian Law?",
+      "arguments": "A. Plaintiff / Appellant\nThe contractor argued that his consent was not free. The threat of financial ruin was an unlawful pressure that\nforced him to sign an unfavorable deal.\nB. Defendant / Respondent\nThe State argued that they were merely exercising their administrative discretion. There was no 'criminal' act or\nthreat to life/limb, so Section 15 was not triggered.",
+      "judgment": "Ruling: The Court ruled in favor of the contractor, setting aside the agreement.",
+      "reasoning": "The Court held that although Section 15 of the ICA defines coercion as the 'committing or threatening to\ncommit any act forbidden by the IPC', Indian courts also recognize the broader doctrine of 'Economic Duress'.\nWhere one party has no choice but to submit to the demands of a powerful party to save their business or\nproperty, the consent is vitiated. The threat to illegally cancel contracts and seize deposits was an unlawful\nexercise of power designed to obtain an unfair advantage, making the contract voidable.",
+      "legalPrinciples": "1. Consent obtained through economic duress is voidable.\n2. Pressure that leaves a party with no 'reasonable alternative' vitiates free consent.\n3. Inequality of bargaining power is a factor in determining coercion."
+    },
+    {
+      "id": "chikham-ammiraju-v-chikham-seshamma",
+      "title": "Chikham Ammiraju v. Chikham Seshamma",
+      "facts": "A Hindu man threatened to commit suicide unless his wife and son executed a release deed in favor of his\nbrother regarding certain family properties. Fearing for his life, the wife and son signed the deed. Later, they\nsued to set aside the deed, claiming it was obtained by 'Coercion'.",
+      "issues": "1. Does a threat to commit suicide constitute 'Coercion' under Section 15 of the ICA?\n2. Is suicide an act 'forbidden by the Indian Penal Code'?",
+      "arguments": "A. Plaintiff / Appellant\nThe wife argued that the threat to kill himself was the ultimate form of psychological pressure, forcing her to\nsign away her rights against her will.\nB. Defendant / Respondent\nThe brother argued that Section 15 requires a threat to commit an act 'forbidden by the IPC'. While 'attempt' to\nsuicide is a crime, 'committing' suicide is not (as the person is dead). Therefore, the threat didn't fit the literal\ndefinition.",
+      "judgment": "Ruling: The High Court ruled in favor of the wife, holding the deed was voidable.",
+      "reasoning": "The Court held that the IPC forbids the attempt to commit suicide. Logically, the threat to commit suicide\nincludes the threat to 'attempt' it. Therefore, a threat to commit suicide is a threat to do an act forbidden by the\nIPC. It is a highly effective form of coercion. Since the wife's consent was obtained through this unlawful\nthreat, the release deed was voidable at her option under Section 19.",
+      "legalPrinciples": "1. Threat of suicide constitutes 'Coercion' under Section 15 ICA.\n2. Consent is not free if obtained through self-harm threats.\n3. Section 15 is interpreted to include acts that are criminally punishable or forbidden in principle."
+    },
+    {
+      "id": "ranganayakamma-v-alwar-setti",
+      "title": "Ranganayakamma v. Alwar Setti",
+      "facts": "A young widow was forced to adopt a boy and sign a property settlement by her relatives. They refused to\nallow her to remove the dead body of her husband for cremation until she signed the documents. She signed,\nand later sued to set them aside.",
+      "issues": "1. Does the 'unlawful detaining of property' under Section 15 include the detention of a dead body?\n2. Can the obstruction of a religious/civil duty constitute coercion?",
+      "arguments": "A. Plaintiff / Appellant\nThe widow argued that the dead body was her 'property' or at least a sacred charge. Using it as a hostage to\nforce a contract was a gross and illegal pressure.\nB. Defendant / Respondent\nThe relatives argued that a dead body is not 'property' in the commercial sense defined by the TPA or ICA, so\nSection 15 did not apply.",
+      "judgment": "Ruling: The Court ruled in favor of the widow, setting aside the adoption and settlement.",
+      "reasoning": "The Court held that the relatives' act of preventing the funeral was a 'wrongful act' designed to compel the\nwidow's consent. Section 15 defines coercion to include the 'unlawful detaining, or threatening to detain, any\nproperty'. The Court gave a broad meaning to 'property' and 'detention' to include any act that unlawfully\nrestricts a person's rights or duties to force a contract. Obstructing the cremation of a loved one is a form of\nillegal detention that destroys free consent.",
+      "legalPrinciples": "1. Unlawful pressure via the detention of a body or sacred object is Coercion.\n2. Consent must be given in an atmosphere of freedom.\n3. Section 15 is designed to prevent the exploitation of emotional or religious vulnerabilities."
+    },
+    {
+      "id": "mannu-singh-v-umadat-pande",
+      "title": "Mannu Singh v. Umadat Pande",
+      "facts": "An elderly devotee, Mannu Singh, executed a gift deed of his entire property in favor of his 'Guru' (spiritual\nadvisor), Umadat Pande. He did this after the Guru told him that gifting the property would secure 'spiritual\nbenefit' for the devotee in the afterlife. Later, Mannu Singh sued to cancel the gift, claiming 'Undue Influence'.",
+      "issues": "1. Does a spiritual or religious relationship create a presumption of 'Undue Influence' under Section 16\nof the ICA?\n2. On whom does the burden of proof lie when a gift is made to a person in a fiduciary position?",
+      "arguments": "A. Plaintiff / Appellant\nThe devotee argued that as his Guru, Pande was in a position to dominate his mind. The promise of 'spiritual\nsalvation' was an unfair advantage used to strip him of his worldly goods.\nB. Defendant / Respondent\nThe Guru argued that the gift was voluntary and motivated by the devotee's own religious faith. There was no\n'domination', only spiritual guidance.",
+      "judgment": "Ruling: The Court ruled in favor of the devotee, setting aside the gift.",
+      "reasoning": "The Court held that a 'Guru-Chela' (spiritual) relationship is one of the highest forms of trust and confidence.\nUnder Section 16(2), a person is deemed to be in a position to dominate the will of another where he stands in a\n'fiduciary' relation. In such cases, the law presumes the existence of undue influence if the transaction appears\n'unconscionable' (like gifting everything). The burden of proof shifted to the Guru to prove the gift was free and\nindependent. Since the Guru failed to prove this, the gift was voidable.",
+      "legalPrinciples": "1. Spiritual advisors stand in a fiduciary relationship, giving rise to a presumption of undue influence\n(Section 16 ICA).\n2. Gifting away one's entire livelihood is an 'unconscionable' act requiring strict proof of voluntariness.\n3. The law protects the vulnerable from 'pious' fraud."
+    },
+    {
+      "id": "takri-devi-v-rama-dogra",
+      "title": "Takri Devi v. Rama Dogra",
+      "facts": "Takri Devi, an illiterate and old woman, signed a document she believed was a 'Lease' allowing someone to\nfarm her land. In reality, the document was a 'Sale Deed' transferring the ownership. The purchaser paid a price\nfar below the market rate. She sued to cancel the deed.",
+      "issues": "1. What is the scope of 'Undue Influence' in transactions with illiterate or elderly persons?\n2. Can 'unconscionable price' trigger a presumption of fraud?",
+      "arguments": "A. Plaintiff / Appellant\nThe woman argued that she was deceived. Her illiteracy made her dependent on the purchaser's explanation of\nthe document. The tiny price proved she didn't understand she was 'selling' the land.\nB. Defendant / Respondent\nThe purchaser argued that she signed in front of a registrar and the contract was sacred. Illiteracy is not a\nground to cancel a registered deed.",
+      "judgment": "Ruling: The Court ruled in favor of Takri Devi.",
+      "reasoning": "The Court held that in a transaction between an educated, powerful person and an illiterate, vulnerable person,\nthe 'Unconscionableness' of the deal (the low price) combined with the 'dominating position' of the purchaser\ncreates a presumption of undue influence under Section 16(3). The purchaser failed to prove that the\ntransaction was 'fair, just, and reasonable'. The Court treated the illiterate woman similar to a 'Pardanashin' lady,\nrequiring the highest standard of protection and clarity.",
+      "legalPrinciples": "1. Illiteracy and age are factors creating a 'position of domination' (Section 16).\n2. If a transaction appears unconscionable on its face, the burden of proof is on the dominant party.\n3. Fairness of price is evidence of free consent."
+    },
+    {
+      "id": "mercantile-bank-of-india-v-central-bank-of-india",
+      "title": "Mercantile Bank of India v. Central Bank of India",
+      "facts": "A merchant pledged 'Railway Receipts' (RR) for a cargo of groundnuts to Central Bank to get a loan. Central\nBank later gave the RRs back to the merchant for the 'limited purpose' of clearing the goods. Instead, the rogue\nmerchant used those same RRs to pledge the goods again to Mercantile Bank and got a second loan. Mercantile\nBank argued they had the superior right because Central Bank's 'negligence' allowed the fraud.",
+      "issues": "1. Can a prior pledgee's right be defeated by the 'Estoppel by Negligence' if they return documents to the\npledgor?\n2. Who has the priority in 'double pledge' scenarios?",
+      "arguments": "A. Plaintiff / Appellant\nMercantile Bank argued that by giving the receipts back, Central Bank allowed the merchant to 'appear' as the\nowner. They were 'estopped' from claiming their prior right.\nB. Defendant / Respondent\nCentral Bank argued that they were only following standard business practice. Returning documents for\nclearing isn't 'negligence'. The first pledge remains a valid 'right in rem'.",
+      "judgment": "Ruling: The Privy Council ruled in favor of Central Bank (the first pledgee).",
+      "reasoning": "The Court held that for 'estoppel' to apply, there must be a 'duty of care' owed by the first bank to the second\nbank, and a clear breach of it. Central Bank followed a normal trade practice. They did not 'represent' to\nMercantile Bank that the merchant was the owner. The merchant's fraud was an independent act. Since the first\npledge was never legally terminated, it took priority. The second bank took the receipts at their own risk.",
+      "legalPrinciples": "1. Estoppel by Negligence requires a breach of a specific duty.\n2. Prior legal interests (pledges) are not easily defeated by subsequent innocent parties.\n3. Standard commercial practices are not considered 'negligence' in property/contract law."
+    },
+    {
+      "id": "shive-sahai-v-inayat-singh",
+      "title": "Shive Sahai v. Inayat Singh",
+      "facts": "A borrower was in urgent need of money to pay a fine to stay out of jail. The lender agreed to the loan only if\nthe borrower agreed to an exorbitant interest rate (75% per annum) and a clause allowing the lender to seize all\nthe borrower's lands on a single default. The borrower sued to reduce the interest rate.",
+      "issues": "1. Does 'Urgent Need' of the borrower allow the lender to dominate his will?\n2. Can an 'unconscionable interest rate' be struck down as being obtained through undue influence?",
+      "arguments": "A. Plaintiff / Appellant\nThe borrower argued that the lender took advantage of his desperate situation (fear of jail). The terms were so\nharsh that no sane person would agree to them unless forced.\nB. Defendant / Respondent\nThe lender argued 'freedom of contract'. The borrower was a competent adult. High risk justifies high interest.",
+      "judgment": "Ruling: The Court ruled in favor of the borrower, reducing the interest rate.",
+      "reasoning": "The Court held that while 'urgent need' alone is not undue influence, if a lender uses that need to extract\n'unconscionable' terms, Section 16 is triggered. The 75% rate was 'shocks the conscience' of the court. The\nCourt ruled that the lender was in a position to dominate the will of the desperate borrower and used that\nposition to gain an 'unfair advantage'. The Court used its equitable power to 're-open' the contract and fix a fair\ninterest rate.",
+      "legalPrinciples": "1. Unconscionable interest rates are evidence of undue influence.\n2. Exploitation of 'urgent need' vitiates free consent.\n3. Courts can modify 'unfair' terms in money-lending contracts."
+    },
+    {
+      "id": "couturier-v-hastie",
+      "title": "Couturier v. Hastie",
+      "facts": "A seller sold a cargo of corn that was supposed to be in transit from Greece to England. Unknown to both the\nseller and the buyer, the corn had fermented during the voyage and had already been sold by the ship's captain\nat an intermediate port before the contract was signed. The buyer refused to pay.",
+      "issues": "1. Is a contract valid if the subject matter has already ceased to exist at the time of the agreement?\n2. What is the effect of 'Mutual Mistake as to Existence' (Section 20 ICA)?",
+      "arguments": "A. Plaintiff / Appellant\nThe seller argued that the buyer bought the 'risk' of the voyage. The buyer should pay the price and claim from\ninsurance.\nB. Defendant / Respondent\nThe buyer argued that the contract was for the 'sale of goods'. Since there were no goods to sell at the time of\nthe deal, there was no contract.",
+      "judgment": "Ruling: The Court ruled in favor of the buyer.",
+      "reasoning": "The Court held that the foundation of the contract was the existence of the specific cargo of corn. Since the\ncorn did not exist as 'commercial corn' at the moment of the sale, there was a fundamental 'mutual mistake' that\nwent to the heart of the deal. Therefore, the contract was void from the beginning. You cannot buy or sell\nsomething that isn't there.",
+      "legalPrinciples": "1. Mutual mistake regarding the 'existence' of the subject matter makes a contract void (Section 20 ICA).\n2. No liability arises under a void agreement.\n3. The 'risk' only passes if the goods actually exist at the time of the contract."
+    },
+    {
+      "id": "boulton-v-jones",
+      "title": "Boulton v. Jones",
+      "facts": "Jones used to deal with a shopkeeper named Brocklehurst. He sent an order for goods to Brocklehurst.\nHowever, on that very day, Brocklehurst had sold his business to Boulton. Boulton supplied the goods without\ntelling Jones about the change in ownership. Jones consumed the goods and then refused to pay Boulton,\nclaiming he only wanted to deal with Brocklehurst (to whom he owed money and wanted to set off the debt).",
+      "issues": "1. Can an offer be accepted by a person to whom it was NOT made?\n2. Does a mistake of 'Identity' prevent the formation of a contract?",
+      "arguments": "A. Plaintiff / Appellant\nBoulton argued that Jones got the goods he wanted at the right price. Who supplied them is irrelevant. Jones\nshould pay for what he consumed.\nB. Defendant / Respondent\nJones argued that he had a specific reason to deal with Brocklehurst (the set-off). He never made an offer to\nBoulton, so there was no contract with him.",
+      "judgment": "Ruling: The Court ruled in favor of Jones.",
+      "reasoning": "The Court held that 'where a contract is made with a specific person, no other person can step in and accept the\noffer'. Jones had a right to choose his contracting party. Since Boulton knew the offer was meant for\nBrocklehurst and concealed the truth, there was no 'meeting of minds'. Jones was not liable to pay Boulton.",
+      "legalPrinciples": "1. An offer can only be accepted by the person to whom it is addressed.\n2. Identity of the party is fundamental if there is a specific motive for the choice.\n3. One cannot be forced into a contract with a stranger."
+    },
+    {
+      "id": "l-estrange-v-graucob-2",
+      "title": "L'Estrange v Graucob",
+      "facts": "A woman signed an order form for an automatic cigarette machine. The form had a small clause excluding all\nimplied warranties. The machine didn't work. She sued, claiming she hadn't read the small print.",
+      "issues": "1. Is the signer bound if they don't read the terms?\n2. Does the lack of 'reasonable notice' apply to signed documents?",
+      "arguments": "A. Plaintiff / Appellant\nThe woman argued that the clause was tiny and she wasn't given 'notice' of its harsh nature, relying on the\n'ticket cases'.\nB. Defendant / Respondent\nThe seller argued that a signature is different from a ticket; it's a formal declaration of consent to all terms.",
+      "judgment": "Ruling: The Court ruled in favor of the seller.",
+      "reasoning": "The Court held that the 'reasonable notice' rule only applies to unsigned documents (like tickets or wall signs).\nWhen a person signs a document, they are bound by its contents in the absence of fraud. The signature is an\nabsolute barrier that prevents the party from claiming ignorance.",
+      "legalPrinciples": "1. Signature rule is absolute in the absence of fraud.\n2. No 'notice' requirement for terms in a signed contract.\n3. Parties are responsible for what they sign."
+    },
+    {
+      "id": "gherulal-parakh-v-mahadeodas-maiya",
+      "title": "Gherulal Parakh v. Mahadeodas Maiya",
+      "facts": "Two partners entered into an agreement to carry on 'wagering' (gambling) transactions on the price of wheat.\nWhile wagering itself was not illegal under criminal law, Section 30 of the ICA makes wagering agreements\n'void'. One partner suffered a loss and the other partner sued him to recover his share of the loss under their\npartnership contract.",
+      "issues": "1. Is a partnership or a collateral agreement to a 'void' contract also void?\n2. What is the distinction between 'void' and 'illegal' under Section 23 of the ICA?",
+      "arguments": "A. Plaintiff / Appellant\nThe defendant argued that since the main business (wagering) was void, the partnership to do that business was\n'opposed to public policy' and thus illegal under Section 23.\nB. Defendant / Respondent\nThe plaintiff argued that wagering is only 'void' (unenforceable), not 'forbidden by law' (illegal). Therefore, a\nsecondary contract to share the results of a void act is still valid.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the plaintiff, allowing the recovery.",
+      "reasoning": "The Court delivered a landmark ruling on 'Public Policy'. It held that judges should not invent new heads of\npublic policy. Wagering is merely 'void' under Section 30. It is not 'illegal' or 'immoral' in the eyes of the law. A\n'void' contract is like a blank space, but an 'illegal' contract is a 'forbidden' space. Since the partnership was a\ncollateral agreement and the underlying act wasn't 'forbidden', the partner could recover the money. This\nestablished that 'void' acts don't necessarily taint secondary contracts.",
+      "legalPrinciples": "1. Section 23 ICA: 'Public Policy' is a narrow doctrine.\n2. Agreements collateral to a 'void' contract (like wagering) are enforceable.\n3. Difference between 'void' (not enforceable) and 'illegal' (prohibited)."
+    },
+    {
+      "id": "hadley-v-baxendale-2",
+      "title": "Hadley v Baxendale",
+      "facts": "This case (revisited) established the rules for 'general' damages. The carrier failed to deliver a mill shaft,\ncausing the mill to stay closed.",
+      "issues": "1. What are 'Natural' damages?",
+      "arguments": "A. Plaintiff / Appellant\nThe owner argued the carrier should pay for all the days the mill didn't work.\nB. Defendant / Respondent\nThe carrier argued he only agreed to 'deliver a shaft', not to 'run a mill'.",
+      "judgment": "Ruling: The Court ruled for the carrier.",
+      "reasoning": "The Court held that damages must arise 'naturally in the usual course of things'. In 1854, a carrier wouldn't\nnaturally assume that a mill only had one shaft. Most mills had spares. Therefore, the total shutdown was an\nunusual (special) circumstance. Since the carrier wasn't told about the lack of a spare, he wasn't liable for the\nshutdown, only for the cost of the delay itself.",
+      "legalPrinciples": "1. First Limb: Damages must be natural and probable.\n2. General damages require no special notice.\n3. Objective foreseeability is the test for liability."
+    },
+    {
+      "id": "philips-v-brooks",
+      "title": "Philips v Brooks",
+      "facts": "A rogue in a shop claimed to be 'Sir George Bullough' and paid for a ring with a bad cheque. The jeweler let\nhim take it after checking the directory.",
+      "issues": "1. Was the mistake about 'Identity' or 'Attribute'?",
+      "arguments": "A. Plaintiff / Appellant\nThe jeweler argued he only intended to sell to the 'Real' Sir George. Thus, no contract with the rogue.\nB. Defendant / Respondent\nThe buyer argued the jeweler intended to sell to the 'man in the shop'. His name was just a reason to trust his\ncredit (an attribute).",
+      "judgment": "Ruling: The Court ruled it was a 'Mistake of Attribute'.",
+      "reasoning": "The Court held that in face-to-face deals, you are presumed to contract with the physical person. The mistake\nabout his name and wealth was a mistake about his 'qualities' (attributes), not his 'identity' as a human being. A\ncontract vitiated by attribute-fraud is 'voidable' (valid until cancelled). Since it wasn't cancelled in time, the\nrogue could pass a good title to a third party.",
+      "legalPrinciples": "1. Mistake of Attribute: Makes a contract voidable for fraud.\n2. Mistake of Identity: Makes a contract void ab initio.\n3. Face-to-face transactions favor the 'voidable' interpretation."
+    },
+    {
+      "id": "auckland-corp-v-elias",
+      "title": "Auckland Corp v. Elias",
+      "facts": "A city council agreed to lease land to a person with a clause: 'The rent shall be a fair and reasonable amount to\nbe agreed upon by the parties'. Later, they couldn't agree on the amount, and the council claimed the lease was\nvoid for uncertainty.",
+      "issues": "1. Does 'Agreement to Agree' create a binding contract?\n2. Can the court fix a 'reasonable price' under Section 29?",
+      "arguments": "A. Plaintiff / Appellant\nThe tenant argued that 'fair and reasonable' is a clear standard that a court or valuer can determine. The intent\nwas to have a lease.\nB. Defendant / Respondent\nThe council argued that since the parties themselves had to agree and hadn't, there was no consensus on the\nmost vital term: the rent.",
+      "judgment": "Ruling: The Court ruled the lease was void.",
+      "reasoning": "The Court held that an 'agreement to agree' on a fundamental term like price or rent is too uncertain to be a\ncontract. Under Section 29, the terms must be 'certain' or 'capable of being made certain'. If the certainty\ndepends on the 'future whim' of the parties, the court will not step in to perform their negotiations for them. The\nagreement was a nullity.",
+      "legalPrinciples": "1. Agreement to agree is not a contract.\n2. Fundamental terms (price/rent) must be fixed or have a clear formula for calculation.\n3. The court will not rewrite a contract to make it certain."
+    },
+    {
+      "id": "balfour-v-balfour-2",
+      "title": "Balfour v Balfour",
+      "facts": "This case (revisited) established the 'Presumption' against legal intent in families.",
+      "issues": "1. Is the presumption 'rebuttable'?",
+      "arguments": "A. Plaintiff / Appellant\nThe wife argued the promise was a solemn financial arrangement for her survival.\nB. Defendant / Respondent\nThe husband argued it was just 'husband-wife talk'.",
+      "judgment": "Ruling: The Court ruled for the husband.",
+      "reasoning": "The Court held that the law of contract is 'not for the breakfast table'. In domestic settings, there is a strong\nstarting presumption that no legal bond is intended. This can only be overcome by clear evidence, such as a\nformal written document or where the parties are already in a state of conflict (like Merritt v. Merritt).\nWithout such evidence, the promise remains a moral one only.",
+      "legalPrinciples": "1. Presumption of lack of legal intent in social/domestic cases.\n2. Policy reason: To prevent the 'floodgates' of litigation between relatives.\n3. Objectivity is the key to determining intent."
+    },
+    {
+      "id": "derry-v-peek-2",
+      "title": "Derry v Peek",
+      "facts": "This case (revisited) defined the boundary between 'Carelessness' and 'Fraud'. Directors thought they had a\ntram license; they didn't.",
+      "issues": "1. Is 'negligence' the same as 'fraud'?",
+      "arguments": "A. Plaintiff / Appellant\nPlaintiffs argued the directors had 'no business' stating it as a fact without checking.\nB. Defendant / Respondent\nDefendants argued they 'honestly believed' it was a certainty.",
+      "judgment": "Ruling: The Court ruled it was not fraud.",
+      "reasoning": "The Court held that 'fraud' is a serious allegation. It requires a 'wicked mind'. If a person is simply stupid,\noptimistic, or careless, but honestly thinks they are telling the truth, they are not a 'fraudster'. For fraud, you\nmust prove the person 'knew it was a lie' or was 'reckless' to the point of not caring about the truth at all.\nNegligence is a separate legal field.",
+      "legalPrinciples": "1. Fraud requires a 'guilty mind' (Mens Rea).\n2. Honest belief is a complete defense to a charge of fraud (Section 17 ICA).\n3. Negligence does not equal deceit."
+    },
+    {
+      "id": "daimler-co-ltd-v-continental-tyre-and-rubber-co-great-britain-ltd",
+      "title": "Daimler Co Ltd v Continental Tyre and Rubber Co (Great Britain) Ltd",
+      "facts": "A company (Continental Tyre) was incorporated in England. However, all its directors and all but one of its\nshareholders were German. During WWI, the company sued another company (Daimler) to recover a debt.\nDaimler argued that although 'Continental' was an English company on paper, it was actually an 'alien enemy'\nbecause it was controlled by Germans.",
+      "issues": "1. Can the 'Corporate Veil' be lifted in contracts to determine the 'enemy' status of a party during war?\n2. Is a contract with a company controlled by enemies void under Section 56 (Unlawful)?",
+      "arguments": "A. Plaintiff / Appellant\nDaimler argued that looking at the 'nationality' of the company was a sham. The money would go to Germany\nand help the war effort against England.\nB. Defendant / Respondent\nContinental argued that a company is a 'distinct legal person' from its shareholders. Since it was registered in\nLondon, it was a 'loyal' English entity.",
+      "judgment": "Ruling: The House of Lords ruled in favor of Daimler, lifting the corporate veil.",
+      "reasoning": "The Court held that during wartime, the court must look at the 'economic reality'. A company is just a shell. If\nthe 'brain and heart' of the company (the directors and controllers) are based in an enemy country, the company\nacquires 'enemy character'. Contracts with such entities become unlawful and are frustrated under the principle\nof 'Trading with the Enemy'. The corporate veil was lifted to protect national security.",
+      "legalPrinciples": "1. Lifting the Corporate Veil: Courts look behind the legal facade to the actual controllers in times of war\nor fraud.\n2. Enemy Character: Companies can take the nationality of their controllers during hostilities.\n3. Contracts with enemies are void for being 'unlawful' (Section 56/23 ICA)."
+    },
+    {
+      "id": "m-c-chacko-v-state-bank-of-travancore",
+      "title": "M.C. Chacko v. State Bank of Travancore",
+      "facts": "A father executed a deed in favor of his son, where the father promised to pay a debt to the Bank. The deed\nstated that if the father didn't pay, the Bank could seize a specific property. The Bank was not a party to this\ndeed. When the father defaulted, the Bank sued the son to seize the property based on the father's promise in\nthe deed.",
+      "issues": "1. Can a 'Stranger to a Contract' sue to enforce a promise made for its benefit in India?\n2. What are the exceptions to the 'Doctrine of Privity'?",
+      "arguments": "A. Plaintiff / Appellant\nThe Bank argued that although they didn't sign the deed, they were the 'sole beneficiary' of the promise. Under\nIndian law, they should be allowed to sue.\nB. Defendant / Respondent\nThe son argued that the Bank was a 'stranger to the contract'. No one can sue on a contract unless they are a\nparty to it.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the son, upholding the Privity rule.",
+      "reasoning": "The Court clarified the Indian position on Privity. It held that while 'Privity of Consideration' is not required (a\nstranger to consideration can sue), 'Privity of Contract' IS generally required. A person who is not a party to a\ncontract cannot sue on it, even if the contract is for their benefit. The Court listed narrow exceptions: (1) Trust,\n(2) Family Settlement, (3) Acknowledgment of debt. Since the Bank didn't fit these, they couldn't enforce the\nprivate deed between father and son.",
+      "legalPrinciples": "1. Doctrine of Privity of Contract: Only parties to a contract can sue (General Rule in India).\n2. Exceptions: Trust, marriage settlements, and family arrangements.\n3. Beneficiaries have no automatic rights unless a 'Trust' is created."
+    },
+    {
+      "id": "arundel-v-bryant",
+      "title": "Arundel v. Bryant",
+      "facts": "Bryant's horse was injured. Arundel, a passerby, voluntarily helped treat the horse and stayed with it for hours.\nAfter the horse was better, Bryant thanked Arundel and promised to pay him \u00a310 for his trouble. Later, Bryant\nrefused to pay.",
+      "issues": "1. Can a promise be enforced if it is based on a 'past' voluntary act?\n2. What is the status of 'Past Consideration' in English vs. Indian law?",
+      "arguments": "A. Plaintiff / Appellant\nArundel argued that the promise was a valid recognition of his labor and should be binding as a contract.\nB. Defendant / Respondent\nBryant argued that the work was already done before the promise was made. Therefore, there was no 'new'\nexchange, and the promise was a mere gift.",
+      "judgment": "Ruling: The Court ruled in favor of Bryant.",
+      "reasoning": "The Court held that 'Past Consideration is no consideration'. A promise made after the act is completed is not\npart of a bargain. Since Arundel did the work voluntarily without any prior request, Bryant's later promise was\na nudum pactum (bare promise) and not enforceable. (Note: In India, Section 2(d) allows 'Past\nConsideration' if it was done at the 'desire of the promisor', but voluntary acts are governed by Section 25(2)\nwhich makes them enforceable as 'Past V oluntary Services').",
+      "legalPrinciples": "1. Past Consideration: Generally invalid in English Law.\n2. Contracts require an exchange of promises or acts (Simultaneous or Future).\n3. Moral obligation is not legal consideration."
+    },
+    {
+      "id": "harvey-v-facey-2",
+      "title": "Harvey v. Facey",
+      "facts": "This case (revisited) defined the 'Offer' as a final expression of will.",
+      "issues": "1. Is silence on 'willingness' fatal to an offer?",
+      "arguments": "A. Plaintiff / Appellant\nThe buyer argued that by giving the price, the seller 'implicitly' said he was willing to sell.\nB. Defendant / Respondent\nThe seller argued he was just a 'walking price list' and hadn't decided to sell yet.",
+      "judgment": "Ruling: The Court ruled for the seller.",
+      "reasoning": "The Court held that an offer must be a 'final and definitive' expression of willingness to be bound. It is the 'last\nword' in a negotiation. Since Facey only provided data (the price) and didn't provide consent (the will to sell),\nhe never made an offer. The buyer's 'acceptance' was therefore actually the first offer, which the seller rejected.",
+      "legalPrinciples": "1. Offer vs. Information: Stating a fact is not making a promise.\n2. The 'Mirror Image' requirement: You cannot accept what wasn't offered.\n3. Intent must be manifest and unambiguous."
+    }
+  ]
+}

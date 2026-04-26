@@ -43,6 +43,22 @@ const articleLimiter = contentRateLimiter({
   route: "GET /api/content/articles/article",
 });
 
+// Case study title list limiter (prevents scripted category scraping)
+const caseStudyCategoryLimiter = contentRateLimiter({
+  windowMs: 15 * 60 * 1000,
+  max: 60,
+  message: "Too many case study title requests. Please try again later.",
+  route: "GET /api/content/case-studies/category/:categoryId",
+});
+
+// Case study detail limiter (full text content stays backend-served)
+const caseStudyItemLimiter = contentRateLimiter({
+  windowMs: 15 * 60 * 1000,
+  max: 120,
+  message: "Too many case study detail requests. Please try again later.",
+  route: "GET /api/content/case-studies/category/:categoryId/item/:caseStudyId",
+});
+
 // Test series creation limiter (each attempt generates 120 questions)
 const testCreateLimiter = contentRateLimiter({
   windowMs: 60 * 60 * 1000,  // 1 hour
@@ -69,6 +85,23 @@ router.get(
   contentController.getArticlesManifestHandler
 );
 router.get("/articles/article", protectRoute, articleLimiter, contentController.getArticleHandler);
+router.get(
+  "/case-studies/categories",
+  protectRoute,
+  contentController.getCaseStudyCategoriesHandler
+);
+router.get(
+  "/case-studies/category/:categoryId",
+  protectRoute,
+  caseStudyCategoryLimiter,
+  contentController.getCaseStudyCategoryHandler
+);
+router.get(
+  "/case-studies/category/:categoryId/item/:caseStudyId",
+  protectRoute,
+  caseStudyItemLimiter,
+  contentController.getCaseStudyItemHandler
+);
 
 // ── Test series routes ─────────────────────────────────────────────
 router.get("/test-series/config", protectRoute, testSeriesController.getConfigHandler);

@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "criminal-law",
+      "title": "Criminal Law",
+      "totalCases": 100
+    },
+    {
+      "id": "civil-law",
+      "title": "Civil Law",
+      "totalCases": 97
+    },
+    {
+      "id": "constitutional-law",
+      "title": "Constitutional Law",
+      "totalCases": 89
+    },
+    {
+      "id": "administrative-law",
+      "title": "Administrative Law",
+      "totalCases": 100
+    },
+    {
+      "id": "international-law",
+      "title": "International Law",
+      "totalCases": 100
+    },
+    {
+      "id": "corporate-law",
+      "title": "Corporate Law",
+      "totalCases": 100
+    },
+    {
+      "id": "family-law",
+      "title": "Family Law",
+      "totalCases": 109
+    },
+    {
+      "id": "labour-law",
+      "title": "Labour Law",
+      "totalCases": 100
+    },
+    {
+      "id": "environmental-law",
+      "title": "Environmental Law",
+      "totalCases": 98
+    },
+    {
+      "id": "tax-law",
+      "title": "Tax Law",
+      "totalCases": 99
+    },
+    {
+      "id": "intellectual-property-law",
+      "title": "Intellectual Property Law",
+      "totalCases": 80
+    },
+    {
+      "id": "property-law",
+      "title": "Property Law",
+      "totalCases": 100
+    },
+    {
+      "id": "contract-law",
+      "title": "Contract Law",
+      "totalCases": 80
+    },
+    {
+      "id": "human-rights-law",
+      "title": "Human Rights Law",
+      "totalCases": 100
+    }
+  ]
+}

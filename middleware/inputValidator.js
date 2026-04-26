@@ -119,6 +119,20 @@ function isValidArticleKey(value) {
   );
 }
 
+// —— Case study keys (categories and generated case ids) ————————————————
+const CASE_STUDY_KEY_REGEX = /^[a-z0-9\-]+$/;
+const CASE_STUDY_KEY_MAX_LENGTH = 160;
+
+function isValidCaseStudyKey(value) {
+  if (typeof value !== "string") return false;
+  const trimmed = value.trim();
+  return (
+    trimmed.length > 0 &&
+    trimmed.length <= CASE_STUDY_KEY_MAX_LENGTH &&
+    CASE_STUDY_KEY_REGEX.test(trimmed)
+  );
+}
+
 // ── Attempt ID (test series) ───────────────────────────────────────
 // Format: "ts_<32 hex chars>"
 const ATTEMPT_ID_REGEX = /^ts_[a-f0-9]{32}$/;
@@ -159,6 +173,7 @@ function enforceMaxLength(value, maxLen) {
 
 module.exports = {
   ARTICLE_KEY_MAX_LENGTH,
+  CASE_STUDY_KEY_MAX_LENGTH,
   ATTEMPT_ID_REGEX,
   EMAIL_MAX_LENGTH,
   GOOGLE_CREDENTIAL_MAX_LENGTH,
@@ -172,6 +187,7 @@ module.exports = {
   enforceMaxLength,
   isValidArticleKey,
   isValidAttemptId,
+  isValidCaseStudyKey,
   isValidEmail,
   isValidFilePath,
   isValidGoogleCredential,

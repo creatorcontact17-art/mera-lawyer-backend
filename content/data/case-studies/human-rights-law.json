@@ -1,0 +1,1007 @@
+{
+  "id": "human-rights-law",
+  "title": "Human Rights Law",
+  "totalCases": 100,
+  "cases": [
+    {
+      "id": "a-d-m-jabalpur-v-shivkant-shukla",
+      "title": "A.D.M. Jabalpur v. Shivkant Shukla",
+      "facts": "During the National Emergency declared in 1975, the Government suspended the enforcement of\nfundamental rights, including the right to life and liberty under Article 21. Hundreds of political\ndissidents were detained without trial under the Maintenance of Internal Security Act (MISA). The\nrespondents filed petitions for Habeas Corpus in various High Courts, challenging their detentions.\nThe State argued that during an emergency, the right to approach courts for liberty is completely\nextinguished.",
+      "issues": "1. Can the right to file a writ of Habeas Corpus be suspended during a National Emergency?\n2. Does Article 21 remain the sole repository of the right to life and liberty?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe detainees argued that even if Article 21 is suspended, the common law and statutory rights to\nliberty remain. The executive cannot act without the authority of law to deprive a person of life.\nB. Respondent / State\nThe State argued that under Article 359, the President's order had suspended the right to move any\ncourt. Liberty is a gift of the Constitution; if the Constitution suspends the right, no remedy exists.",
+      "judgment": "Ruling: In a 4:1 majority, the Supreme Court ruled that during an Emergency, no person has any\nlocus standi to move a writ for personal liberty.",
+      "reasoning": "The majority held that Article 21 is the 'sole repository' of the right to life and liberty. Once the\nenforcement of that right is suspended by a Presidential Order, the courts are powerless to intervene,\neven in cases of mala fide detention. Justice H.R. Khanna famously dissented, arguing that the right\nto life existed before the Constitution and the State has no power to deprive a person of life without\nthe authority of law, regardless of an emergency.",
+      "legalPrinciples": "1. (Historical standard): Fundamental rights were seen as creations of the Constitution rather\nthan inherent human rights.\n2. This judgment is now considered the 'darkest hour' of Indian legal history.\n3. The 44th Amendment later ensured that Articles 20 and 21 can never be suspended."
+    },
+    {
+      "id": "maneka-gandhi-v-union-of-india",
+      "title": "Maneka Gandhi v. Union of India",
+      "facts": "The government impounded Maneka Gandhi's passport under the Passports Act in 'public interest'\nwithout giving her any prior notice or a hearing. When she asked for the reasons, the government\nrefused to provide them. She challenged the action as a violation of her fundamental right to travel\nabroad and her right to liberty under Article 21.",
+      "issues": "1. Is the 'Procedure established by Law' in Article 21 required to be 'just, fair and reasonable'?\n2. Does the right to travel abroad fall within the ambit of 'Personal Liberty'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that any law depriving a person of liberty must satisfy the 'Golden Triangle'\ntest (Articles 14, 19, and 21). A law allowing the executive to seize a passport without a hearing is\narbitrary.\nB. Respondent / State\nThe State argued that Article 21 only requires a 'procedure' to be written in a statute. The Passports\nAct provided the procedure, so the action was constitutional.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of Maneka Gandhi, fundamentally expanding the scope of\nArticle 21.",
+      "reasoning": "The Court overruled the old A.K. Gopalan standard. It held that 'Procedure established by law' is\nnot merely any procedural formality, but must be 'Just, Fair and Reasonable'-essentially\nincorporating the American concept of 'Substantive Due Process'. The Court ruled that fundamental\nrights are not watertight compartments; they overlap. Any law affecting liberty under Art 21 must\nalso pass the test of non-arbitrariness under Art 14. This established the 'Principles of Natural Justice'\n(hearing before action) as an inseparable part of Article 21.",
+      "legalPrinciples": "1. The 'Just, Fair and Reasonable' test for Article 21.\n2. Right to travel abroad is a part of 'Personal Liberty'.\n3. Overruling of the watertight compartment theory of fundamental rights."
+    },
+    {
+      "id": "k-s-puttaswamy-v-union-of-india",
+      "title": "K.S. Puttaswamy v. Union of India",
+      "facts": "The government's ' Aadhaar' scheme, which involved the collection of biometric data of all citizens,\nwas challenged. The central question was whether the Indian Constitution contains an implicit\nfundamental 'Right to Privacy', given that it is not explicitly mentioned in Part III. The State relied on\nold judgments (Kharak Singh/M.P . Sharma) to argue that privacy is not a fundamental right.",
+      "issues": "1. Is the Right to Privacy a fundamental right under the Indian Constitution?\n2. Does Article 21 encompass a right to bodily and data informational privacy?",
+      "arguments": "A. Petitioner / Human Rights Activist\nPetitioners argued that liberty is meaningless without privacy. Privacy is a natural right inherent in\nthe dignity of a human being and is protected under Articles 14, 19, and 21.\nB. Respondent / State\nThe State argued that the Constitution-makers deliberately omitted privacy. It claimed that privacy is\nan 'elitist' concept and that for a developing nation, public welfare (Aadhaar) takes precedence over\nindividual privacy.",
+      "judgment": "Ruling: A 9-Judge Bench unanimously declared that the Right to Privacy is a Fundamental Right.",
+      "reasoning": "The Court held that privacy is an essential component of 'dignity', 'liberty', and 'autonomy'. It is the\n'inner sanctum' of the individual. The Court ruled that although not explicitly mentioned, privacy is\nthe core of all fundamental rights. It protects the individual from State intrusion into their homes,\nbodies, choices, and data. Any State restriction on privacy must meet a 3-fold test: (a) Legality\n(backed by a law), (b) Necessity (serving a legitimate state aim), and (c) Proportionality.",
+      "legalPrinciples": "1. Right to Privacy is a fundamental right under Article 21.\n2. Privacy includes bodily integrity, personal autonomy, and informational self-determination.\n3. Privacy is not a gift of the state but a natural right inherent in humans."
+    },
+    {
+      "id": "vishaka-v-state-of-rajasthan",
+      "title": "Vishaka v. State of Rajasthan",
+      "facts": "Bhanwari Devi, a social worker in Rajasthan, was gang-raped by local men as retaliation for her\nefforts to stop child marriages. Despite the horrific crime, the criminal justice system failed to provide\nher justice. A group of women's rights NGOs (Vishaka) filed a PIL in the Supreme Court highlighting\nthe total absence of laws to protect women from sexual harassment at the workplace.",
+      "issues": "1. Can the Supreme Court frame 'guidelines' to fill a legislative vacuum in human rights?\n2. Does sexual harassment at work violate the right to life and dignity under Article 21?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioners argued that working women are entitled to a safe environment. Sexual harassment is\na form of gender discrimination and a violation of the right to practice any profession (Art 19(1)(g))\nand the right to life with dignity (Art 21).\nB. Respondent / State\nThe State did not oppose the need for protection but acknowledged the lack of statutory laws\ngoverning private and public sector workplaces.",
+      "judgment": "Ruling: The Supreme Court issued the 'Vishaka Guidelines', which had the force of law until\nParliament passed the POSH Act in 2013.",
+      "reasoning": "The Court invoked Article 141 (binding nature of SC judgments) and international conventions like\nCEDAW. It held that sexual harassment is a clear violation of gender equality and dignity. Since no\ndomestic law existed, the Court exercised its power to 'frame law' by issuing mandatory guidelines.\nThese included the requirement to form Internal Complaints Committees (ICC), defining harassment,\nand mandating employer accountability.",
+      "legalPrinciples": "1. Right against sexual harassment is a fundamental human right.\n2. Judicial legislation: Courts can fill legislative gaps to protect fundamental rights.\n3. Integration of International Human Rights treaties into domestic law."
+    },
+    {
+      "id": "hussainara-khatoon-v-home-secretary-state-of-bihar",
+      "title": "Hussainara Khatoon v. Home Secretary, State of Bihar",
+      "facts": "This was the first major 'Public Interest Litigation' (PIL) in India. A newspaper report revealed that\nthousands of 'undertrial prisoners' in Bihar jails were languishing for periods longer than the\nmaximum sentence they would have received if convicted. Many had been forgotten by the system\nfor over a decade for minor offenses because they were too poor to afford bail or lawyers.",
+      "issues": "1. Does the Right to Life (Article 21) include the 'Right to a Speedy Trial'?\n2. Is the State obligated to provide 'Free Legal Aid' to the poor under Article 21?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that the 'procedure' of keeping people in jail indefinitely without trial is\nneither just nor reasonable. It is a form of state-sponsored torture against the poor.\nB. Respondent / State\nThe State admitted the delays, citing a shortage of judges and heavy backlogs in the criminal justice\nsystem.",
+      "judgment": "Ruling: The Supreme Court ordered the immediate release of thousands of prisoners and established\nthe Right to a Speedy Trial.",
+      "reasoning": "The Court held that 'speedy trial' is an integral part of the 'just, fair and reasonable' procedure\nguaranteed by Article 21. No person can be deprived of liberty through a procedure that is\nheartlessly slow. The Court also ruled that the right to 'Free Legal Services' for the poor is a\nmandatory constitutional obligation of the State, without which the right to a fair trial is a myth. The\nCourt used the PIL mechanism to monitor jail conditions.",
+      "legalPrinciples": "1. Right to Speedy Trial is a fundamental human right under Article 21.\n2. Right to Free Legal Aid is a mandatory facet of the right to life.\n3. The birth of PIL in India for the protection of marginalized groups."
+    },
+    {
+      "id": "d-k-basu-v-state-of-west-bengal",
+      "title": "D.K. Basu v. State of West Bengal",
+      "facts": "A letter was sent to the Chief Justice highlighting the alarming rise in deaths in police custody\n(custodial torture). The petitioner sought guidelines to make the police accountable and ensure that\nno person taken into custody is subjected to inhuman or degrading treatment.",
+      "issues": "1. What safeguards are necessary to prevent custodial violence and torture?\n2. Can the State be held liable to pay compensation for the violation of Article 21 by its officers?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that custodial torture is a 'naked violation of human dignity'. Police stations\nwere becoming 'torture chambers' because there were no transparent rules for arrest.\nB. Respondent / State\nThe State argued that existing laws (CrPC) already protected rights and that individual rogue officers\nshould be prosecuted, rather than the whole department.",
+      "judgment": "Ruling: The Supreme Court issued 11 mandatory guidelines (The D.K. Basu Guidelines) for arrest\nand detention and established the right to compensation.",
+      "reasoning": "The Court held that 'Custodial Torture' is a blow to the Rule of Law. To prevent 'third-degree'\nmethods, the Court mandated: (1) Arrest memos, (2) Right to inform a relative, (3) Mandatory\nmedical checkups, and (4) Transparent records. Most importantly, the Court established the 'Public\nLaw Remedy'-the State is liable to pay monetary compensation to the victims or their families for\nthe violation of fundamental rights by police officers, regardless of any sovereign immunity.",
+      "legalPrinciples": "1. Protection against custodial torture and inhuman treatment.\n2. Mandatory transparency and documentation during arrest.\n3. Sovereign Immunity is no defense against a claim for compensation for the violation of Article\n21."
+    },
+    {
+      "id": "navtej-singh-johar-v-union-of-india",
+      "title": "Navtej Singh Johar v. Union of India",
+      "facts": "Section 377 of the Indian Penal Code (IPC), a 150-year-old colonial law, criminalized 'carnal\nintercourse against the order of nature', effectively making same-sex relations between consenting\nadults a criminal offense. Members of the LGBTQ+ community challenged the law, arguing it\nviolated their right to equality, privacy, and dignity.",
+      "issues": "1. Does the criminalization of private, consensual same-sex acts violate Articles 14, 15, 19, and 21?\n2. Does 'Sex' in Article 15 include 'Sexual Orientation'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nPetitioners argued that sexual orientation is a core part of human identity. Criminalizing it forces an\nentire class of citizens to live as 'second-class' citizens in constant fear, violating their dignity.\nB. Respondent / State\nConservative groups argued that homosexuality is 'against the order of nature' and that the\nlegislature, not the court, should decide on social morality.",
+      "judgment": "Ruling: The Supreme Court struck down Section 377 to the extent it criminalized consensual acts\nbetween adults.",
+      "reasoning": "The Court ruled that 'Constitutional Morality' must prevail over 'Social Morality'. It held that sexual\norientation is an inherent part of 'Privacy' and 'Dignity' under Article 21. Discrimination based on\norientation violates the right to equality. The Court famously apologized to the LGBTQ+ community\nfor the historical injustice and delay in recognizing their rights. It ruled that Section 377 had a\n'chilling effect' on the freedom of expression and identity of millions of Indians.",
+      "legalPrinciples": "1. Decriminalization of consensual same-sex relations.\n2. Right to Sexual Orientation is a fundamental human right.\n3. The doctrine of Constitutional Morality."
+    },
+    {
+      "id": "justice-k-s-puttaswamy-retd-v-union-of-india",
+      "title": "Justice K.S. Puttaswamy (Retd.) v. Union of India",
+      "facts": "This followed the 2017 Privacy judgment. The Court had to decide if the Aadhaar Act itself was\nconstitutional. Critics argued that mandating Aadhaar for bank accounts, SIM cards, and school\nadmissions created a 'surveillance state' and violated the right to data privacy.",
+      "issues": "1. Can the State mandate biometric identification for social welfare schemes?\n2. Does the Aadhaar Act satisfy the test of 'Proportionality'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioners argued that Aadhaar was an overbroad measure that excluded the poor (due to\nbiometric failures) and allowed the government to track every movement of a citizen.\nB. Respondent / State\nThe State argued that Aadhaar was essential to plug leakages in the subsidy system and ensure that\nthe 'right to food' and other welfare reaches the truly needy.",
+      "judgment": "Ruling: The Supreme Court upheld Aadhaar for social welfare but struck down its mandatory use by\nprivate companies.",
+      "reasoning": "Applying the 3-fold test of Privacy, the Court found that Aadhaar for welfare schemes (subsidies) had\na 'legitimate state aim'-to protect the human rights of the poor to receive benefits. It was\nproportionate because it used minimal data for a massive public good. However, the Court struck\ndown Section 57 which allowed 'private corporations' (banks/telecoms) to use Aadhaar, as that was\nnot a 'necessary' or 'legitimate' state interest and posed a massive privacy risk.",
+      "legalPrinciples": "1. Proportionality Test for privacy violations.\n2. State can mandate identification for welfare, but not for private commercial services.\n3. Protection of 'Digital Human Rights' against private data mining."
+    },
+    {
+      "id": "national-legal-services-authority-nalsa-v-union-of-india",
+      "title": "National Legal Services Authority (NALSA) v. Union of India",
+      "facts": "The transgender community in India lived on the extreme margins of society, denied legal\nrecognition of their gender identity. They were forced to identify as either 'Male' or 'Female' in all\nofficial documents, leading to harassment and denial of basic rights to education, health, and\nemployment. A PIL was filed seeking legal recognition for a 'Third Gender'.",
+      "issues": "1. Does the Right to Life (Article 21) include the 'Right to Gender Identity'?\n2. Does discrimination against transgenders violate the equality guarantee of Article 14 and 15?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioners argued that 'Self-determination of Gender' is the highest form of personal liberty.\nForcing them to adopt a binary gender they do not identify with is a violation of their dignity and\nfreedom of expression (Art 19).\nB. Respondent / State\nThe State argued that legal systems were historically built on the binary and that recognizing a third\ngender required complex legislative changes in marriage, succession, and criminal laws.",
+      "judgment": "Ruling: The Supreme Court recognized Transgender persons as a 'Third Gender' and affirmed their\nfundamental rights.",
+      "reasoning": "The Court held that gender identity is not just about biological sex but about an individual's 'internal\nsense of being'. Discrimination on the ground of gender identity is discrimination on the ground of\n'sex' under Article 15. The Court ruled that every person has a right to choose their gender identity. It\ndirected the government to provide them with 'Third Gender' status in all documents and to treat\nthem as 'Socially and Educationally Backward Classes' (SEBC) for reservations in education and jobs.",
+      "legalPrinciples": "1. Recognition of the 'Third Gender'.\n2. Right to Gender Identity and Self-determination as a fundamental right under Article 21.\n3. Mandatory affirmative action for the transgender community."
+    },
+    {
+      "id": "shafin-jahan-v-asokan-k-m",
+      "title": "Shafin Jahan v. Asokan K.M.",
+      "facts": "Hadiya, a 24-year-old medical student, converted to Islam and married Shafin Jahan. Her father filed\na Habeas Corpus petition in the High Court, alleging she was 'brainwashed' or 'indoctrinated'. The\nKerala High Court annulled the marriage, calling it a 'sham', and handed her over to her father's\ncustody, essentially keeping her under house arrest. The husband appealed.",
+      "issues": "1. Does a court have the power to annul a marriage between two consenting adults?\n2. Does the right to life include the 'Right to Choose a Life Partner'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe father argued it was a case of 'Love Jihad' and his daughter's consent was not free due to\npsychological manipulation.\nB. Respondent / State\nHadiya appeared in court and categorically stated she had converted and married of her own free\nwill. She argued that as an adult, the court cannot dictate her choice of religion or husband.",
+      "judgment": "Ruling: The Supreme Court set aside the High Court's order, restoring the marriage and Hadiya's\nfreedom.",
+      "reasoning": "The Court issued a powerful defense of individual autonomy. It held that the right to choose a\npartner and the right to change one's religion are core components of 'Privacy' and 'Liberty' under\nArticle 21. A court cannot act as a 'super-parent' over consenting adults. The High Court's act of\nannulling a valid marriage was a 'patriarchal' overreach that crushed the human rights of a woman.\nThe Court ruled that no person, including parents or the State, can interfere in the private choices of\nan adult.",
+      "legalPrinciples": "1. Right to Choose a Life Partner is a fundamental human right.\n2. Right to Religion includes the right to convert.\n3. Individual autonomy and the limits of the Parens Patriae doctrine."
+    },
+    {
+      "id": "joseph-shine-v-union-of-india",
+      "title": "Joseph Shine v. Union of India",
+      "facts": "Section 497 of the IPC made ' Adultery' a criminal offense. However, the law was unique: it only\npunished the man who had relations with a married woman. It did not punish the woman, and more\nimportantly, it treated the woman as the 'property' of her husband (the crime only existed if the\nhusband didn't consent). A PIL was filed to strike down this discriminatory law.",
+      "issues": "1. Does criminalizing adultery violate the right to equality (Art 14) and the right against gender\ndiscrimination (Art 15)?\n2. Does the law violate the privacy and dignity of women by treating them as chattel?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that the law was based on Victorian-era patriarchy. It punished only men but\ninsulted women by assuming they have no agency or sexual autonomy independent of their\nhusbands.\nB. Respondent / State\nThe State argued that adultery is a 'social wrong' that destroys the sanctity of marriage and should\nremain a crime to protect the family unit.",
+      "judgment": "Ruling: The Supreme Court struck down Section 497 IPC as unconstitutional.",
+      "reasoning": "The Court held that the law was 'archaic and paternalistic'. It treated a married woman as the\n'property' of her husband. Criminalizing a private act of infidelity between adults is a violation of the\n'Right to Privacy'. The Court ruled that while adultery may be a ground for divorce, it cannot be a\n'crime' in a modern democracy. The law also violated Article 14 because it discriminated against men\n(who were punished) and women (who were treated as incapable of consent).",
+      "legalPrinciples": "1. Decriminalization of Adultery.\n2. Women are not the property of their husbands.\n3. Sexual Autonomy is a part of the Right to Life (Article 21)."
+    },
+    {
+      "id": "common-cause-v-union-of-india",
+      "title": "Common Cause v. Union of India",
+      "facts": "An NGO filed a PIL seeking the legal recognition of 'Living Wills'-documents where a person can\nstate in advance that if they fall into a permanent vegetative state (PVS), they should not be kept alive\non artificial life support. The petitioner sought the right to 'die with dignity'.",
+      "issues": "1. Does the Right to Life (Article 21) include the 'Right to Die with Dignity'?\n2. Is 'Passive Euthanasia' (withdrawing life support) legally permissible in India?",
+      "arguments": "A. Petitioner / Human Rights Activist\nPetitioners argued that forcing a person to stay alive in extreme pain or as a 'living vegetable' through\nmachines is inhuman treatment. Dignity is the core of life, and a person should have the right to\nrefuse treatment.\nB. Respondent / State\nThe State expressed concerns about potential misuse of living wills by relatives to inherit property\nsooner. They argued that the state has a duty to protect all lives.",
+      "judgment": "Ruling: The Supreme Court recognized the right to Passive Euthanasia and 'Living Wills'.",
+      "reasoning": "The Court held that the 'Right to Die with Dignity' is an inseparable part of the Right to Life under\nArticle 21. Life without dignity is not life. A person has the 'Right to Self-determination' regarding\ntheir own medical treatment. The Court legalized 'Passive Euthanasia' (allowing nature to take its\ncourse by removing machines) but strictly prohibited ' Active Euthanasia' (lethal injections). The\nCourt also laid down complex guidelines for executing 'Living Wills' to prevent any misuse.",
+      "legalPrinciples": "1. Right to Die with Dignity is a fundamental human right.\n2. Legal recognition of 'Passive Euthanasia'.\n3. Individual autonomy over medical decisions at the end of life."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-pucl-v-union-of-india",
+      "title": "People's Union for Civil Liberties (PUCL) v. Union of India",
+      "facts": "During a period of severe drought, millions of people were on the verge of starvation, while\ngovernment granaries (FCI) were overflowing with rotting food grains. The PUCL filed a PIL arguing\nthat the State's failure to distribute excess food while people starved was a violation of the right to\nlife.",
+      "issues": "1. Does the Right to Life (Article 21) include the 'Right to Food'?\n2. Can the Court issue mandatory directives to the State to implement social welfare schemes?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that 'Life' means more than survival. The State has a positive obligation to\nensure that no citizen dies of hunger when food is available.\nB. Respondent / State\nThe State argued that food security is a policy and economic issue and that the 'Directive Principles'\n(Art 47) are not enforceable in a court of law.",
+      "judgment": "Ruling: The Supreme Court recognized the Right to Food and converted several welfare schemes into\nlegal entitlements.",
+      "reasoning": "The Court held that Article 21 is a 'guarantee against starvation'. It issued a series of interim orders\n(Continuing Mandamus) that transformed the 'Mid-Day Meal Scheme' into a mandatory right for\nevery school-going child. It also mandated the proper functioning of the PDS (ration shops) and\nfood-for-work programs. This case established that the State's duty to protect life includes providing\nthe basic means of sustenance.",
+      "legalPrinciples": "1. Right to Food is a fundamental right under Article 21.\n2. Conversion of non-justiciable 'Directive Principles' into enforceable 'Fundamental Rights' via\njudicial interpretation.\n3. The State's accountability for starvation deaths."
+    },
+    {
+      "id": "prem-shankar-shukla-v-delhi-administration",
+      "title": "Prem Shankar Shukla v. Delhi Administration",
+      "facts": "A prisoner challenged the practice of the police to routinely 'handcuff' undertrial prisoners when\ntransporting them from jail to court. He argued that being paraded in public with handcuffs was\nhumiliating and unnecessary for most non-violent prisoners.",
+      "issues": "1. Does the routine use of handcuffs violate the human dignity of a prisoner?\n2. What are the limits of police power to use physical restraints on detainees?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe prisoner argued that handcuffs are an 'affront to human dignity'. Unless there is a proven risk of\nescape or violence, the police have no right to treat an undertrial as a dangerous animal.\nB. Respondent / State\nThe police argued that handcuffs were necessary for security and to prevent escapes in crowded\ncourt premises.",
+      "judgment": "Ruling: The Supreme Court banned the routine use of handcuffs.",
+      "reasoning": "The Court held that 'Human Dignity' is the signature of our Constitution. Handcuffs should be the\nlast resort, not the first. To handcuff is to 'hoist the flag of the police state' over the individual. The\nCourt ruled that handcuffs can only be used if there is 'clear and convincing' evidence that the\nprisoner is violent or has a history of escape. The police must record the reasons for handcuffing in\nwriting, and the Magistrate must approve them. Routine handcuffing was declared a violation of\nArticles 14, 19, and 21.",
+      "legalPrinciples": "1. Right against routine handcuffing.\n2. Human Dignity is a non-negotiable part of Article 21.\n3. Strict judicial oversight of police methods of restraint."
+    },
+    {
+      "id": "indian-young-lawyers-association-v-state-of-kerala",
+      "title": "Indian Young Lawyers Association v. State of Kerala",
+      "facts": "The Sabarimala Temple in Kerala followed a long-standing custom of prohibiting women of\n'menstruating age' (10-50 years) from entering the shrine, citing the 'celibate nature' of the deity, Lord\nAyyappa. A group of female lawyers challenged this custom as being discriminatory and against the\nhuman rights of women.",
+      "issues": "1. Does a religious custom prohibiting women violate the right to equality (Art 14) and freedom of\nreligion (Art 25)?\n2. Can 'Biological Attributes' (menstruation) be used to exclude a class of citizens from public\nworship?",
+      "arguments": "A. Petitioner / Human Rights Activist\nPetitioners argued that the ban was a form of 'Untouchability' (Art 17) based on patriarchal notions of\nimpurity. It violated women's right to worship and their dignity.\nB. Respondent / State\nThe temple authorities argued that the custom was an 'Essential Religious Practice' and that devotees\nhave a right to manage their own religious affairs (Art 26). They argued the exclusion was not about\nmisogyny but about the specific nature of the deity.",
+      "judgment": "Ruling: The Supreme Court (4:1 majority) struck down the ban and allowed women of all ages to\nenter.",
+      "reasoning": "The Court held that 'Patriarchy cannot be allowed to trump Liberty'. Religious practices that treat\nwomen as 'lesser' or 'impure' violate Constitutional Morality. The Court ruled that the right to\nreligion (Art 25) belongs to individuals, not just institutions, and it is subject to the guarantee of\nequality. Menstruation is a natural biological process and using it to bar entry is a form of\ndiscrimination. (Note: Justice Indu Malhotra dissented, arguing that religious sentiments should not\nbe judged by secular tests of logic).",
+      "legalPrinciples": "1. Gender equality prevails over exclusionary religious customs.\n2. Biological factors cannot be used for discrimination in public spaces/temples.\n3. Constitutional Morality over tradition."
+    },
+    {
+      "id": "mithu-v-state-of-punjab",
+      "title": "Mithu v. State of Punjab",
+      "facts": "Section 303 of the IPC mandated an absolute 'Death Penalty' for any person who committed murder\nwhile already serving a life sentence for another crime. This section left the judges with no discretion\nto award a lesser sentence, unlike Section 302 where life imprisonment is an option.",
+      "issues": "1. Does a 'Mandatory Death Penalty' violate the right to life and equality?\n2. Can the law create a different punishment for the same crime based solely on the status of the\naccused as a 'life convict'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that Section 303 was arbitrary. A person could have committed a 'mercy\nkilling' or acted in self-defense, but the law would still force the judge to hang them just because they\nwere a life convict. This violates Articles 14 and 21.\nB. Respondent / State\nThe State argued that a life convict who kills again shows that they are 'beyond reform', and a\nmandatory death sentence is necessary for deterrence in prisons.",
+      "judgment": "Ruling: The Supreme Court struck down Section 303 as unconstitutional.",
+      "reasoning": "The Court held that a 'mandatory' death sentence is the 'antithesis of a fair procedure'. Every accused\nhas a right to be heard on the question of sentence. Taking away the judge's discretion to consider\nmitigating circumstances is 'savage' and 'arbitrary'. The Court also ruled that the classification of 'life\nconvicts' into a separate class for murder was not a rational differentia. Section 303 was declared void,\nand all such murderers are now tried under Section 302.",
+      "legalPrinciples": "1. Mandatory death penalty is unconstitutional.\n2. Right to be heard on sentencing is a fundamental human right.\n3. Arbitrary classifications in criminal law violate Article 14."
+    },
+    {
+      "id": "sheela-barse-v-state-of-maharashtra",
+      "title": "Sheela Barse v. State of Maharashtra",
+      "facts": "A journalist, Sheela Barse, wrote a letter to the Supreme Court after visiting the Bombay City Lock-\nup, describing the horrific conditions of female prisoners. She reported that women were being\nphysically assaulted and abused by male police officers in the lock-up and that they had no separate\nfacilities or protection.",
+      "issues": "1. What human rights protections are necessary for female prisoners in police custody?\n2. Can the Court issue directives for 'Custodial Transparency'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that a woman in police custody is in a 'vulnerable' position. The absence of\nfemale guards and lack of information about their rights led to systematic sexual abuse.\nB. Respondent / State\nThe State admitted the lack of infrastructure but argued that police reforms were a slow\nadministrative process.",
+      "judgment": "Ruling: The Supreme Court issued mandatory directives for the protection of women in custody.",
+      "reasoning": "The Court held that the State has a 'special duty' to ensure the safety of women and children in its\ncustody. It mandated that: (1) Female prisoners must be kept in separate lock-ups. (2) They must be\nguarded by female police officers only. (3) Interrogations of women must be done in the presence of\nfemale officers. (4) Arrested persons must be immediately informed of their right to legal aid. The\nCourt directed that these rules be displayed in every police station in local languages.",
+      "legalPrinciples": "1. Right of women to be guarded by women in custody.\n2. Custodial safety is a facet of the Right to Life.\n3. Transparency in arrest procedures as a shield against abuse."
+    },
+    {
+      "id": "shakti-vahini-v-union-of-india",
+      "title": "Shakti Vahini v. Union of India",
+      "facts": "NGO Shakti Vahini filed a PIL regarding the surge in 'Honor Killings' across North India. Khap\nPanchayats (extra-judicial community councils) were issuing 'fatwas' or decrees against young\ncouples who married outside their caste or religion, often resulting in their brutal murder by family\nmembers. The State authorities were often seen as complicit or inactive.",
+      "issues": "1. Does the right to life include the human right to choose one's own partner without community\ninterference?\n2. Can the State be held liable for failing to prevent 'private' violence against inter-caste couples?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that 'Honor' has no place in a democratic society if it means killing innocent\npeople. The Khap Panchayats were acting as a 'parallel legal system' in violation of the Constitution.\nB. Respondent / State\nState governments argued that these were law and order issues and they were taking criminal action\nafter the crimes happened.",
+      "judgment": "Ruling: The Supreme Court condemned honor killings and issued comprehensive 'Preventive,\nRemedial and Punitive' guidelines.",
+      "reasoning": "The Court held that 'Liberty' includes the right to 'choice'. When two adults consensually marry, no\none-parents, community, or Khaps-has the right to interfere. Choice is an individual's 'human\nright' protected by Article 21. The Court ruled that 'Honor Killings' are cold-blooded murders. It\nordered the police to identify vulnerable areas, provide safe houses for runaway couples, and\nmandated that any Khap Panchayat issuing such a decree be immediately prosecuted. It held the\nState accountable for 'failing to protect' the lives of citizens from private non-state actors.",
+      "legalPrinciples": "1. Right to Choice of marriage is a fundamental human right.\n2. Khap Panchayats and extra-judicial decrees are illegal.\n3. The State has a 'Positive Duty' to prevent honor crimes."
+    },
+    {
+      "id": "laxmi-v-union-of-india",
+      "title": "Laxmi v. Union of India",
+      "facts": "Laxmi, an acid attack survivor, filed a PIL highlighting the ease with which corrosive acid could be\npurchased in India for a few rupees and the total lack of medical and financial support for survivors.\nAcid attacks were used as a weapon to destroy the identity and dignity of women.",
+      "issues": "1. Should the State regulate the sale of hazardous substances like acid to protect human rights?\n2. What is the State's liability regarding the medical treatment and rehabilitation of acid attack\nsurvivors?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe petitioner argued that an acid attack is 'worse than murder' because it leaves the victim in\npermanent physical and mental agony. The State's failure to regulate acid sales was a direct cause of\nthese violations.\nB. Respondent / State\nThe State argued that acid is used in various small-scale industries and households, making a total\nban difficult.",
+      "judgment": "Ruling: The Supreme Court regulated the sale of acid and mandated free medical treatment for\nsurvivors.",
+      "reasoning": "The Court held that the State must prioritize 'public safety' over 'commercial convenience'. It issued\nmandatory rules: (1) Acid cannot be sold to anyone under 18. (2) Buyers must provide ID and state\nthe purpose of use. (3) All stock must be declared to the police. Regarding the victims, the Court\nruled that the State is under a 'Human Rights' obligation to provide free treatment and surgery in all\npublic and private hospitals and ordered a minimum compensation of Rs. 3 lakhs to be paid by the\nState.",
+      "legalPrinciples": "1. State responsibility to regulate hazardous items to prevent human rights violations.\n2. Right to free medical care for victims of heinous crimes.\n3. Recognition of 'dignity' and 'bodily identity' under Article 21."
+    },
+    {
+      "id": "olga-tellis-v-bombay-municipal-corporation",
+      "title": "Olga Tellis v. Bombay Municipal Corporation",
+      "facts": "The BMC decided to forcibly evict thousands of pavement dwellers (squatters) living in slums on the\nsidewalks of Mumbai. The eviction was to be done without providing any alternative housing or\neven a prior notice. The dwellers, led by journalist Olga Tellis, challenged the eviction as a violation of\ntheir right to survive.",
+      "issues": "1. Does the Right to Life (Article 21) include the 'Right to Livelihood'?\n2. Can a person be evicted from public land without 'Due Process'?",
+      "arguments": "A. Petitioner / Human Rights Activist\nThe dwellers argued that they lived on the streets because they worked nearby as daily wagers. If\nthey are evicted, they lose their jobs and thus their means of life. Therefore, the right to work is a part\nof the right to life.\nB. Respondent / State\nThe BMC argued that the pavements are for public transport and that the squatters had no 'legal\nright' to occupy public property.",
+      "judgment": "Ruling: The Supreme Court recognized the Right to Livelihood but allowed the eviction subject to\nprocedural fairness.",
+      "reasoning": "The Court delivered a landmark ruling: ' An equally important facet of the right to life is the right to\nlivelihood because no person can live without the means of living.' If the right to livelihood is not\ntreated as a part of the right to life, the easiest way to deprive a person of their life would be to\ndeprive them of their means of livelihood. However, the Court also noted that pavements are public\nproperty. It ruled that while the State can evict squatters, it must follow 'Natural Justice'. No one can\nbe evicted without a 'notice' and a 'hearing'. The Court also urged the State to provide alternative\nshelter to ensure the dwellers were not reduced to absolute destitution.",
+      "legalPrinciples": "1. Right to Livelihood is a fundamental human right under Article 21.\n2. Natural Justice (Right to be heard) is mandatory even for illegal squatters.\n3. The State must balance public space management with the human right to survival."
+    },
+    {
+      "id": "sunil-batra-v-delhi-administration",
+      "title": "Sunil Batra v. Delhi Administration",
+      "facts": "Sunil Batra, a prisoner under a death sentence, challenged the practice of keeping such prisoners in\n'solitary confinement' from the moment the sentence is passed until execution. He argued that this\npractice, often lasting years during appeals, was inhuman and violated his right to life and dignity.",
+      "issues": "1. Can a prisoner be kept in solitary confinement solely because they are under a death sentence?\n2. Do fundamental rights stop at the prison gates?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that solitary confinement is a separate, additional punishment not authorized\nby the court. Prisoners are humans and are entitled to the protection of Article 21.\nB. Respondent / State Authority\nThe prison authorities argued that Section 30(2) of the Prisons Act required death-row inmates to be\n'confined in a cell apart from all other prisoners' for safety and to prevent suicide.",
+      "judgment": "Ruling: The Supreme Court ruled that solitary confinement of death-row inmates is illegal and can\nonly be imposed in extreme cases.",
+      "reasoning": "The Court held that 'Personal Liberty' under Article 21 is not totally lost even in prison. It held that\nSection 30(2) only meant a separate cell for sleeping, not a total denial of human contact. Solitary\nconfinement is a harsh psychological punishment that can only be imposed as a disciplinary measure\nunder judicial oversight. The Court famously declared that 'Fundamental Rights do not flee the\nperson as he enters the prison'.",
+      "legalPrinciples": "1. Prisoners' rights are an extension of Article 21.\n2. Solitary confinement cannot be used as a routine administrative measure.\n3. The judiciary has the duty to oversee prison conditions through 'Writ Jurisdiction'."
+    },
+    {
+      "id": "kharak-singh-v-state-of-u-p",
+      "title": "Kharak Singh v. State of U.P.",
+      "facts": "Kharak Singh, a man acquitted of dacoity, was put under 'surveillance' by the police. This included\nopening a 'history sheet' for him, secret picketing of his house, and 'domiciliary visits' at night where\npolice would wake him up to check his presence.",
+      "issues": "1. Does police surveillance violate the right to freedom of movement (Art 19) and personal liberty\n(Art 21)?\n2. Is the right to privacy part of the right to life?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that being woken up at night and followed by police violated his human\ndignity and his right to be left alone.\nB. Respondent / State Authority\nThe State argued that surveillance was necessary for maintaining public order and preventing crime,\nas per the U.P . Police Regulations.",
+      "judgment": "Ruling: The Supreme Court struck down the night-time domiciliary visits as unconstitutional.",
+      "reasoning": "The Court held that 'Personal Liberty' under Article 21 is a broad term including everything that goes\nto make up the personal liberties of a man. Night visits were an unauthorized intrusion into a\nperson's home, which is his castle. While the majority at the time did not explicitly recognize a 'Right\nto Privacy', the dissenting opinion of Justice Subba Rao argued that privacy is an essential ingredient\nof personal liberty, a view that was finally upheld in the Puttaswamy judgment decades later.",
+      "legalPrinciples": "1. Personal Liberty includes the right against unauthorized police intrusion into the home.\n2. Executive regulations must be backed by a valid 'Law' to restrict fundamental rights.\n3. Every man's house is his castle; sanctity of the home is a human right."
+    },
+    {
+      "id": "bandhua-mukti-morcha-v-union-of-india",
+      "title": "Bandhua Mukti Morcha v. Union of India",
+      "facts": "An NGO (Bonded Labour Liberation Front) filed a PIL highlighting the plight of thousands of\n'bonded laborers' working in stone quarries in Haryana. The workers were living in sub-human\nconditions, exposed to toxic dust, denied minimum wages, and kept in physical bondage to settle\npetty debts.",
+      "issues": "1. Is the State obligated to identify and rehabilitate bonded laborers under Article 21?\n2. Can the Court act on an informal letter to protect human rights?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that forced labor (Art 23) is a denial of the right to life with dignity. The State\nwas complicit by failing to enforce the Bonded Labour System (Abolition) Act.\nB. Respondent / State Authority\nThe State of Haryana denied the existence of bonded labor and argued that the PIL was an\ninterference with administrative matters and state sovereignty.",
+      "judgment": "Ruling: The Supreme Court ordered the immediate release and rehabilitation of the laborers.",
+      "reasoning": "The Court held that the Right to Life includes the right to live with basic human dignity, free from\nexploitation. When a person is forced to work against their will to repay a debt, it is a form of slavery.\nThe Court ruled that it is the 'constitutional duty' of the State to proactively identify and free bonded\nlaborers. The Court used its power of 'Continuing Mandamus' to monitor the rehabilitation and\nensure the workers were given housing and food.",
+      "legalPrinciples": "1. Right against forced labor and bondage is a non-negotiable human right.\n2. The State has a 'positive obligation' to protect citizens from private exploitation.\n3. PIL is a valid tool to enforce the rights of the 'voiceless' and illiterate poor."
+    },
+    {
+      "id": "people-s-union-for-democratic-rights-v-union-of-india",
+      "title": "People's Union for Democratic Rights v. Union of India",
+      "facts": "During the 1982 Asian Games in Delhi, thousands of migrant workers were employed in massive\nconstruction projects. They were paid less than the 'Minimum Wage', and deductions were made by\nmiddlemen (jamadars). A PIL was filed alleging a violation of Article 23 (prohibition of forced labor).",
+      "issues": "1. Does paying less than minimum wage amount to 'forced labor' under Article 23?\n2. Can a private contract be scrutinized by the Supreme Court under Article 32?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that 'force' is not just physical force; it includes 'economic force'. If a person\nworks for less than a living wage out of hunger, they are forced to work.\nB. Respondent / State Authority\nThe Government argued that the workers joined voluntarily and that the dispute was a matter of\nindustrial law, not fundamental rights.",
+      "judgment": "Ruling: The Supreme Court ruled that paying less than the minimum wage is 'Forced Labour'.",
+      "reasoning": "The Court gave a revolutionary interpretation to Article 23. It held that 'begar' or forced labor\nincludes any situation where a person is compelled to work due to 'force of circumstances' like\npoverty or hunger. If a worker is not paid the statutory minimum wage, it is assumed their labor is\nbeing 'extorted' through their vulnerability. The Court declared that Article 23 is enforceable not just\nagainst the State but also against private contractors.",
+      "legalPrinciples": "1. 'Economic Force' constitutes forced labor under Article 23.\n2. Minimum Wage is a fundamental human right.\n3. Fundamental Rights are enforceable against private individuals in cases of exploitation."
+    },
+    {
+      "id": "francis-coralie-mullin-v-the-administrator-ut-of-delhi",
+      "title": "Francis Coralie Mullin v. The Administrator, UT of Delhi",
+      "facts": "A British national was detained under the COFEPOSA (preventive detention law). She was denied\nthe right to have regular meetings with her family members and her lawyer. The prison rules only\nallowed one meeting a month.",
+      "issues": "1. Does the Right to Life (Art 21) include the right to human contact and family visits?\n2. What is the definition of 'Life' in the Indian Constitution?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that detention only means restriction of movement; it does not mean the end of\nall human relationships. The restrictive rules were cruel and arbitrary.\nB. Respondent / State Authority\nThe State argued that a detenu under a security law has no right to demand the same facilities as an\nordinary citizen.",
+      "judgment": "Ruling: The Supreme Court ruled that the Right to Life includes the right to live with 'Human\nDignity'.",
+      "reasoning": "Justice Bhagwati delivered a poetic and powerful judgment. He held that 'Life' is not mere 'animal\nexistence'. It includes 'the right to live with human dignity and all that goes along with it, namely, the\nbare necessities of life such as adequate nutrition, clothing and shelter... and also the right to carry on\nsuch functions and activities as constitute the bare minimum expression of the human-self.' Denying\na prisoner the right to see their family and lawyer is a violation of this dignity.",
+      "legalPrinciples": "1. Right to Life = Right to Human Dignity.\n2. Prisoners have the right to meet their family and legal counsel.\n3. Any restriction on liberty must be minimal and reasonable."
+    },
+    {
+      "id": "m-c-mehta-v-union-of-india",
+      "title": "M.C. Mehta v. Union of India",
+      "facts": "A PIL highlighted the employment of thousands of children in the hazardous match and firecracker\nfactories of Sivakasi. The working environment was lethal, and children were denied their right to\neducation and a healthy childhood.",
+      "issues": "1. Does the employment of children in hazardous industries violate Article 24?\n2. How should the Court compensate children for the loss of their childhood?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that child labor is a crime against humanity. The State was violating Article 21\nand 24 by allowing children to work with chemicals.\nB. Respondent / State Authority\nThe manufacturers argued that child labor was a 'harsh reality' of poverty and that a sudden ban\nwould starve the families.",
+      "judgment": "Ruling: The Supreme Court banned child labor in hazardous tasks and ordered the creation of a\nrehabilitation fund.",
+      "reasoning": "The Court held that 'poverty is no excuse' for the violation of the fundamental rights of children. It\nordered that for every child employed in a hazardous job, the employer must pay Rs. 20,000 into a\n'Child Labour Rehabilitation Welfare Fund'. It also directed the State to provide an adult member of\nthe child's family with a job. The Court emphasized that education is the only long-term solution to\nend this human rights violation.",
+      "legalPrinciples": "1. Absolute prohibition of child labor in hazardous industries (Art 24).\n2. Compulsory and free education as a human right.\n3. Creation of specific welfare funds for the victims of human rights abuses."
+    },
+    {
+      "id": "bodhisattwa-gautam-v-subhra-chakraborty",
+      "title": "Bodhisattwa Gautam v. Subhra Chakraborty",
+      "facts": "A college lecturer deceived a woman into a false marriage, impregnated her, and then forced her to\nundergo an abortion. He then abandoned her. She filed a criminal complaint and sought\ncompensation for the violation of her dignity and right to life.",
+      "issues": "1. Can the Supreme Court award compensation for 'Rape' or sexual deception under Article 32?\n2. Does sexual violence constitute a violation of Article 21?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that rape is a crime against the basic human rights of a woman. It is an\n'ultimate violation of dignity' that warrants immediate constitutional relief.\nB. Respondent / State Authority\nThe accused argued that the matter was a private criminal case and compensation can only be\nawarded by a criminal court after conviction.",
+      "judgment": "Ruling: The Supreme Court ordered the accused to pay 'interim compensation' even before the trial\nconcluded.",
+      "reasoning": "The Court held that 'Rape' is not just an offense under the IPC; it is a violation of the fundamental\nright to life and dignity under Article 21. It is a 'humiliation of the human soul'. The Court ruled that\nit has the power to award interim maintenance and compensation to rape victims in a writ petition to\nensure they are not reduced to destitution during a long trial. This case recognized women's 'bodily\nintegrity' as a core human right.",
+      "legalPrinciples": "1. Rape is a violation of the fundamental Right to Life.\n2. Power of the Supreme Court to award interim compensation for human rights atrocities.\n3. Bodily integrity and sexual autonomy are non-negotiable facets of dignity."
+    },
+    {
+      "id": "chairman-railway-board-v-chandrim-das",
+      "title": "Chairman, Railway Board v. Chandrim Das",
+      "facts": "A Bangladeshi national was gang-raped by railway employees in a station's guest house in Kolkata.\nChandrim Das, an advocate, filed a PIL in the High Court seeking compensation for the victim. The\nState argued that the victim was a foreigner and therefore not entitled to fundamental rights under\nthe Indian Constitution.",
+      "issues": "1. Are fundamental rights (especially Article 21) available to non-citizens/foreigners in India?\n2. Is the State vicariously liable for human rights violations by its employees against a tourist?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that Article 21 uses the word 'Person', not 'Citizen'. Therefore, every human\nbeing on Indian soil is entitled to the right to life and dignity.\nB. Respondent / State Authority\nThe State argued that its liability only extends to citizens and that the rape was a private act of the\nemployees for which the State cannot be held responsible.",
+      "judgment": "Ruling: The Supreme Court upheld the compensation, ruling that foreigners enjoy Article 21.",
+      "reasoning": "The Court held that the 'Right to Life' is a universal human right. The Indian Constitution protects\nthe life and liberty of any person, regardless of their nationality. Rape is a violation of international\nhuman rights norms (Universal Declaration of Human Rights). The Court ruled that since the crime\nhappened on State property (Railway guest house) due to the negligence of State supervisors, the\nState is vicariously liable to pay compensation to the foreign victim.",
+      "legalPrinciples": "1. Article 21 is applicable to all 'Persons' (Citizens and Foreigners alike).\n2. Sexual violence is an international human right violation.\n3. The State is accountable for the safety of all people within its borders."
+    },
+    {
+      "id": "national-human-rights-commission-v-state-of-arunachal-pradesh",
+      "title": "National Human Rights Commission v. State of Arunachal Pradesh",
+      "facts": "Chakma refugees, who had fled from Bangladesh (formerly East Pakistan), were settled in Arunachal\nPradesh. The local population and powerful student unions threatened to forcibly evict them from\nthe state. The NHRC filed a PIL to protect the lives and properties of the Chakmas.",
+      "issues": "1. Does the State have an obligation to protect 'Refugees' from private violence?\n2. Can refugees be forcibly deported or evicted without due process?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe NHRC argued that once the State settles a group, it has a 'fiduciary duty' to protect their lives.\nThe threat of mass eviction by mobs was a failure of the state to maintain the rule of law.\nB. Respondent / State Authority\nThe State Government argued that the Chakmas were 'outsiders' threatening the local culture and\neconomy and that it could not go against the popular will of its citizens.",
+      "judgment": "Ruling: The Supreme Court ordered the State to provide absolute protection to the refugees.",
+      "reasoning": "The Court held that the 'Right to Life' (Article 21) does not distinguish between a citizen and a\nrefugee. No person can be deprived of their life or liberty except by 'procedure established by law'.\nForced eviction by a mob is not a procedure. The Court ruled that the State has a 'positive duty' to\nprotect everyone within its territory from violence. It ordered the Arunachal government to deploy\nsecurity forces and ensure the Chakmas were not harmed or evicted until their citizenship\napplications were processed by the Centre.",
+      "legalPrinciples": "1. Protection of Article 21 extends to refugees and stateless persons.\n2. The State must protect individuals from 'Private/Mob Violence'.\n3. The principle of 'Non-refoulement' (protection against forced deportation)."
+    },
+    {
+      "id": "gaurav-jain-v-union-of-india",
+      "title": "Gaurav Jain v. Union of India",
+      "facts": "A PIL highlighted the pathetic condition of children of sex workers living in red-light areas. These\nchildren were exposed to sexual abuse, crime, and stigma, and were often denied admission to\nregular schools. The petitioner sought the creation of separate 'homes' and schools for these children.",
+      "issues": "1. Does the human right to dignity include the right of children of marginalized mothers to be\n'integrated' into mainstream society?\n2. Does segregation of children based on their parent's profession violate Article 14?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that these children were 'lost' to society. Segregated schools were necessary for\ntheir special needs and protection.\nB. Respondent / State Authority\nThe State argued that it was trying to provide welfare but could not force regular schools to accept\nthese children if other parents objected.",
+      "judgment": "Ruling: The Supreme Court rejected 'segregation' and ordered 'integration'.",
+      "reasoning": "The Court held that children are not the 'property' of their mothers and should not suffer for their\nmother's profession. Segregating them into separate schools would 'stigmatize' them for life and\nviolate their right to equality. The Court held that human rights are about 'Dignity and Equality'. It\ndirected the government to ensure these children are admitted to regular schools and provided with\nhostels. The Court ruled that the goal of the law must be the complete 'social integration' of\nmarginalized children into the national mainstream.",
+      "legalPrinciples": "1. Segregation of marginalized children violates Article 14 and 21.\n2. Human rights include the right to 'Social Integration'.\n3. The State has a 'Parens Patriae' duty towards vulnerable children."
+    },
+    {
+      "id": "laxmi-kant-pandey-v-union-of-india",
+      "title": "Laxmi Kant Pandey v. Union of India",
+      "facts": "A PIL was filed regarding the lack of regulation in 'inter-country adoptions'. There were reports that\nIndian children were being 'sold' to foreigners, subjected to abuse abroad, or used as domestic slaves\nbecause there was no monitoring system.",
+      "issues": "1. What human rights safeguards are necessary to protect children in international adoptions?\n2. Does the 'Right to a Family' constitute a human right for an abandoned child?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that without strict rules, inter-country adoption was becoming a form of\n'human trafficking'. Children's safety must be guaranteed before they leave the country.\nB. Respondent / State Authority\nAdoption agencies argued that foreign adoptions provided a better life for children who would\notherwise rot in poorly funded Indian orphanages.",
+      "judgment": "Ruling: The Supreme Court laid down comprehensive guidelines for domestic and international\nadoptions.",
+      "reasoning": "The Court held that every child has a right to 'love and affection' and a stable family environment.\nWhile inter-country adoption is a valid way to give a child a home, it must be the 'last resort' after\ndomestic options are exhausted. The Court mandated that only 'recognized' agencies can handle\nadoptions, and that the 'child's best interest' is the supreme consideration. It directed the creation of\n'Central Adoption Resource Authority' (CARA) to monitor every single case to prevent trafficking.",
+      "legalPrinciples": "1. The 'Best Interest of the Child' is the paramount human rights standard.\n2. Right to a Family is a facet of the right to life.\n3. Mandatory State regulation of sensitive human processes to prevent trafficking."
+    },
+    {
+      "id": "bachchan-singh-v-state-of-punjab",
+      "title": "Bachchan Singh v. State of Punjab",
+      "facts": "The constitutional validity of the 'Death Penalty' (Section 302 IPC) was challenged. The petitioner\nargued that hanging a human being is 'cruel and unusual punishment' and violates the fundamental\nright to life under Article 21.",
+      "issues": "1. Is the Death Penalty per se unconstitutional under the Indian Constitution?\n2. What is the human rights threshold for taking a human life by the State?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that human life is sacred. The State cannot claim the 'right to kill'. Life\nimprisonment is a sufficient and more humane deterrent.\nB. Respondent / State Authority\nThe State argued that the death penalty is a 'reasonable restriction' for the most heinous crimes to\nprotect society and maintain public order.",
+      "judgment": "Ruling: The Supreme Court upheld the death penalty but limited it to the 'Rarest of Rare' cases.",
+      "reasoning": "The Court held that the Right to Life is not absolute; it can be taken away by a 'procedure established\nby law'. However, in a civilized society, the death penalty must be the 'exception'. The Court\nestablished the 'Rarest of Rare' doctrine: death should only be awarded when the alternative of life\nimprisonment is unquestionably foreclosed. The Court mandated that judges must look at both the\n'aggravating circumstances' of the crime AND the 'mitigating circumstances' of the criminal (age,\nreformability) before choosing death.",
+      "legalPrinciples": "1. Death Penalty is constitutional but restricted to the 'Rarest of Rare' cases.\n2. Requirement of 'Special Reasons' in writing for a death sentence.\n3. Recognition of the 'Human Dignity' of even the worst criminals."
+    },
+    {
+      "id": "shatrughan-chauhan-v-union-of-india",
+      "title": "Shatrughan Chauhan v. Union of India",
+      "facts": "Several death-row convicts whose mercy petitions had been rejected by the President after 'undue\ndelay' (some lasting over 10 years) filed a petition. They argued that the extreme delay in deciding\ntheir fate caused them 'excruciating mental agony' and that their death sentences should be\ncommuted to life imprisonment.",
+      "issues": "1. Does 'Inordinate Delay' by the Executive in deciding a mercy petition violate Article 21?\n2. Can a death sentence be commuted solely on the ground of delay?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioners argued that keeping a person in the 'shadow of death' for a decade is a form of 'State\nTorture'. It is inhuman and degrading treatment.\nB. Respondent / State Authority\nThe Government argued that the President's power of mercy is 'sovereign' and cannot be questioned\nby courts. Delay is due to the complexity of the cases.",
+      "judgment": "Ruling: The Supreme Court commuted the death sentences to life imprisonment due to the delay.",
+      "reasoning": "The Court held that the 'Right to Life' includes the right to a 'Speedy Disposal' of even a mercy\npetition. While the President has the power to reject mercy, the State has no right to keep a convict in\nlegal limbo for years. Such delay creates an 'additional' punishment not sanctioned by law. The Court\nruled that an 'inordinate, unexplained and systemic delay' is a ground for commutation. It also\nbanned the practice of 'solitary confinement' for death-row inmates and mandated a 14-day gap\nbetween the rejection of mercy and execution.",
+      "legalPrinciples": "1. Undue delay in deciding mercy petitions is a violation of Article 21.\n2. Right against 'State-induced mental torture'.\n3. Judicial review of the 'exercise' of the President's mercy power."
+    },
+    {
+      "id": "selvi-v-state-of-karnataka",
+      "title": "Selvi v. State of Karnataka",
+      "facts": "The police were using scientific techniques like 'Narco-analysis' (truth serum), 'Polygraph' (lie\ndetector), and 'Brain Electrical Activation Profile' (BEAP) on accused persons without their consent.\nThe petitioners challenged these tests as a violation of their right against self-incrimination and their\nright to privacy.",
+      "issues": "1. Do 'invasive' psychiatric tests violate the right against self-incrimination (Art 20(3))?\n2. Does the right to life (Art 21) include 'Mental Privacy'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioners argued that the mind is the 'ultimate sanctuary'. Forcing someone to reveal thoughts\nthrough chemicals or machines is 'mental torture' and violates their right to remain silent.\nB. Respondent / State Authority\nThe State argued that these tests were 'non-invasive' (no physical pain) and were essential for modern\ncriminal investigation to catch terrorists and serial killers.",
+      "judgment": "Ruling: The Supreme Court banned the non-consensual use of Narco, Polygraph, and Brain\nMapping.",
+      "reasoning": "The Court delivered a landmark ruling on 'Mental Autonomy'. It held that Article 20(3) protects an\nindividual from being 'compelled to be a witness against himself'. This protection extends to 'mental'\ntestimonies. Forcing someone to undergo narco-analysis is an 'intrusion into the mental privacy' of a\nperson. The Court ruled that even if there is no physical pain, the 'psychological compulsion' used to\nextract data is unconstitutional. These tests can only be done with the 'informed consent' of the\nperson and the results cannot be used as evidence in court.",
+      "legalPrinciples": "1. Right to Mental Privacy is a fundamental human right.\n2. Protection against 'self-incrimination' includes mental/psychological data.\n3. Prohibition of 'Scientific Torture' in investigations."
+    },
+    {
+      "id": "aruna-ramchandra-shanbaug-v-union-of-india",
+      "title": "Aruna Ramchandra Shanbaug v. Union of India",
+      "facts": "Aruna Shanbaug, a nurse, was brutally raped in 1973 and left in a 'Permanent Vegetative State' (PVS)\nfor 37 years. She was kept alive by the hospital staff at KEM Hospital through a feeding tube. A friend\n(Pinki Virani) filed a petition seeking the right to stop the feeding so Aruna could die in peace.",
+      "issues": "1. Does the Right to Life include the 'Right to Die'?\n2. Is 'Passive Euthanasia' (withdrawing life support) legally valid for a person who cannot give\nconsent?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that Aruna was 'not living'-she was just an 'object' kept alive by machines.\nForcing her to continue this 'vegetative' existence was a violation of her dignity.\nB. Respondent / State Authority\nThe nurses at KEM hospital (the real caregivers) argued that Aruna was their 'family'. She could\nrespond to music and food. They were willing to care for her until her natural death.",
+      "judgment": "Ruling: The Supreme Court legalized 'Passive Euthanasia' in India but refused to allow it for Aruna.",
+      "reasoning": "The Court drew a vital distinction. It held that ' Active Euthanasia' (killing) is illegal. However,\n'Passive Euthanasia' (letting nature take its course) is legally permissible under strict judicial\nsupervision. Since Aruna could not give her own consent, the Court applied the 'Best Interest Test'. It\nruled that the KEM nurses, who had cared for her for decades, were her 'next friend'-not the\npetitioner. Since the nurses wanted her to live, the feeding tube remained. Aruna died naturally four\nyears later.",
+      "legalPrinciples": "1. Passive Euthanasia is legally permissible under Article 21.\n2. 'Right to Die with Dignity' is recognized.\n3. The 'High Court' must approve all cases of withdrawing life support."
+    },
+    {
+      "id": "m-c-mehta-v-state-of-tamil-nadu",
+      "title": "M.C. Mehta v. State of Tamil Nadu",
+      "facts": "This was an earlier iteration of the Sivakasi case. The Court found that children were being\ntransported in rickety buses at 3:00 AM to work in cracker factories. The factories had no ventilation\nand frequent explosions killed children.",
+      "issues": "1. Can the Court impose a 'Positive Duty' on the State to ensure child safety in private sectors?\n2. What are the 'human rights' duties of industries dealing with explosives?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that the State was 'turning a blind eye' to mass child exploitation in exchange\nfor industrial taxes.\nB. Respondent / State Authority\nThe State Government promised reforms but argued that child labor was deep-rooted in the local\neconomy.",
+      "judgment": "Ruling: The Supreme Court issued immediate orders banning child transport at night and\nmandating factory inspections.",
+      "reasoning": "The Court held that the State is the 'ultimate guardian' (Parens Patriae) of children. If private\nindustries exploit children, the State is legally responsible for their failure to monitor. The Court\nordered that no child could be employed in the manufacture of firecrackers (a hazardous process). It\nalso ordered that children must be provided with 'nutritious food' and 'recreational facilities' in the\nnon-hazardous sectors of the factories as an interim measure until they could be integrated into\nschools.",
+      "legalPrinciples": "1. State's vicarious responsibility for private sector human rights abuses.\n2. The 'Best Interest of the Child' overrides the commercial freedom of the industry.\n3. Immediate judicial intervention in 'life-threatening' child labor."
+    },
+    {
+      "id": "jitendra-singh-v-state-of-u-p",
+      "title": "Jitendra Singh v. State of U.P.",
+      "facts": "The Government of Uttar Pradesh attempted to allot 'village common lands' (including community\nponds and grazing grounds) to private industrial houses. They argued that industrialization would\ncreate jobs and that the 'wasteland' was not being used.",
+      "issues": "1. Can the State alienate community resources held in public trust for private profit?\n2. Does the human right to a 'Rural Environment' protect village commons?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe villagers argued that common lands are the 'life-blood' of the rural poor. These lands provide\nfodder for cattle and maintain the local ecosystem. Allotting them to industries violates their right to\nlife.\nB. Respondent / State Authority\nThe State argued that under the 'Doctrine of Eminent Domain', it has the absolute right to acquire\nand allot any land for the 'public purpose' of industrial development.",
+      "judgment": "Ruling: The Supreme Court struck down the allotments, protecting the village commons.",
+      "reasoning": "The Court held that 'Development' cannot be an excuse to rob the poor of their communal survival\nassets. Village common lands (Ponds, Grazing lands) are held by the State in 'Public Trust' for the\nvillagers. These lands are essential for the 'ecological and economic' survival of the rural community.\nThe State cannot transfer these lands to private corporations. The Court ordered the restoration of the\ncommon lands and the removal of all industrial encroachments.",
+      "legalPrinciples": "1. Public Trust Doctrine protects community resources from private commercialization.\n2. Right to Life includes the right to 'Communal Assets'.\n3. 'Development' must be socially and ecologically inclusive."
+    },
+    {
+      "id": "mohd-ahmed-khan-v-shah-bano-begum",
+      "title": "Mohd. Ahmed Khan v. Shah Bano Begum",
+      "facts": "Shah Bano, a 62-year-old Muslim woman, was divorced by her husband via 'Triple Talaq'. She was\nleft without any means of survival. She filed for maintenance under Section 125 of the CrPC (a\nsecular criminal law). The husband argued that under Muslim Personal Law, he only had to pay\nmaintenance for three months (the Iddat period).",
+      "issues": "1. Do secular human rights laws (like CrPC 125) override religious personal laws?\n2. Does the right to life include the right of a divorced woman to be 'protected from destitution'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that Section 125 is a 'humane' law meant to prevent vagrancy. A woman's right\nto survive does not change with her religion.\nB. Respondent / State Authority\nThe husband and religious boards argued that the Court had no jurisdiction to interfere with 'Shariat'\n(divine law), and that Section 125 was inapplicable to Muslims.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of Shah Bano, upholding her right to lifelong maintenance.",
+      "reasoning": "The Court delivered a landmark ruling for the human rights of women. It held that Section 125 CrPC\nis a secular, remedial law designed to fulfill the constitutional goal of social justice. Its purpose is to\nprevent a woman from being thrown onto the streets to die of hunger. This 'right to maintenance' is a\nfacet of the Right to Life (Art 21). The Court ruled that where there is a conflict between a religious\nlaw that leads to destitution and a secular law that provides survival, the secular law must prevail to\nprotect human rights.",
+      "legalPrinciples": "1. Human Rights and Social Justice override discriminatory personal law interpretations.\n2. Right to Maintenance is a fundamental part of the Right to Life.\n3. The law must protect women from 'economic death' after divorce."
+    },
+    {
+      "id": "national-confederation-of-bank-officers-v-union-of-india",
+      "title": "National Confederation of Bank Officers v. Union of India",
+      "facts": "A bank rule stated that if a female employee married, she would be 'automatically' terminated from\nher job. The rule did not apply to male employees. The Confederation challenged this as a gross\nviolation of human rights and equality.",
+      "issues": "1. Is a 'Marriage Bar' in employment a violation of the right against gender discrimination (Art\n15)?\n2. Does the right to work include the 'Right to Family Life'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that marriage is a fundamental human choice. Forcing a woman to choose\nbetween her job and her husband is 'barbaric' and violates Article 14, 15, and 21.\nB. Respondent / State Authority\nThe Bank argued that marriage leads to 'domestic distractions' and 'maternity leaves', which affect\nthe efficiency of a commercial organization.",
+      "judgment": "Ruling: The Supreme Court struck down the rule as 'unconstitutional' and 'sexist'.",
+      "reasoning": "The Court held that the rule was based on the 'Victorian' notion that a woman's primary place is in\nthe home. This is an insult to the 'Dignity of Women'. Discrimination based on a woman's marital\nstatus is a form of gender discrimination prohibited by Article 15. The right to marry and have a\nfamily is a basic human right. Any employment rule that penalizes a woman for exercising this right\nis arbitrary, unreasonable, and void.",
+      "legalPrinciples": "1. 'Marriage Bars' in employment are illegal and unconstitutional.\n2. Gender equality is a core human right in the workplace.\n3. The State/Employers cannot interfere in the private 'reproductive' and 'marital' choices of\nemployees."
+    },
+    {
+      "id": "bandhua-mukti-morcha-v-union-of-india-2",
+      "title": "Bandhua Mukti Morcha v. Union of India",
+      "facts": "In a follow-up to the bonded labor case, the petitioner highlighted that the freed laborers were now\nsuffering from 'Silicosis' and 'Tuberculosis' due to the lack of dust-control measures in the quarries.\nThe workers were literally 'breathing stone' and dying in their 30s.",
+      "issues": "1. Does the Right to Life include the right to 'Safe Working Conditions'?\n2. Is the State liable for the 'Slow Death' of workers in hazardous industries?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe NGO argued that 'Freedom from Bondage' is useless if the worker dies of disease a year later.\nThe 'Right to Health' is a prerequisite for the 'Right to Life'.\nB. Respondent / State Authority\nThe quarry owners argued that dust is an 'inherent' part of mining and they could not afford\nexpensive air filtration systems.",
+      "judgment": "Ruling: The Supreme Court ordered the mandatory provision of protective gear and medical\nfacilities, enforcing the 'Right to Health'.",
+      "reasoning": "The Court held that 'Right to Life' under Article 21 would be a 'dead letter' if it did not include the\nright to health. The State cannot allow its citizens to be 'slowly poisoned' in exchange for mining\nroyalties. The Court directed the Government to: (1) Provide free medical checkups and treatment for\nSilicosis. (2) Force owners to provide water sprinklers and masks. (3) Pay compensation for every\ndeath caused by occupational disease. This case established 'Occupational Health' as a fundamental\nhuman right in India.",
+      "legalPrinciples": "1. Right to Occupational Health is a fundamental human right under Article 21.\n2. The State has a duty to regulate 'Health Standards' in hazardous industries.\n3. Economic profitability cannot be prioritized over the lives of the workers."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-pucl-v-union-of-india-2",
+      "title": "People's Union for Civil Liberties (PUCL) v. Union of India",
+      "facts": "A PIL was filed challenging the validity of Section 33B of the Representation of the People Act, which\nattempted to nullify a previous Supreme Court directive. The previous directive required candidates\ncontesting elections to disclose their criminal antecedents, educational qualifications, and assets. The\ngovernment argued that voters have no right to know such personal details.",
+      "issues": "1. Do voters have a fundamental right to information about political candidates?\n2. Is the 'Right to Vote' a part of the freedom of expression under Article 19(1)(a)?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that democracy requires an informed electorate. Without knowing a\ncandidate's record, the 'Right to Vote' is a hollow exercise, violating the freedom of expression.\nB. Respondent / State Authority\nThe State argued that candidate disclosure is a matter of legislative policy, not a fundamental right,\nand that privacy of the candidate must be protected.",
+      "judgment": "Ruling: The Supreme Court struck down Section 33B and upheld the voters' Right to Know.",
+      "reasoning": "The Court held that the 'Right to Know' is a subset of the freedom of speech and expression (Art 19(1)\n(a)). In a democracy, the little man-the voter-has a right to know the background of those who\nseek to govern him. Disclosure of criminal history, assets, and education is a 'reasonable' requirement\nto ensure the purity of the electoral process. The right to vote is not just a statutory right but a\nfundamental human right of political expression.",
+      "legalPrinciples": "1. Right to Information is a fundamental right under Article 19(1)(a).\n2. Transparency in elections is essential for the survival of human rights in a democracy.\n3. The privacy of public figures is subordinate to the public's right to an informed choice."
+    },
+    {
+      "id": "kishore-singh-v-state-of-rajasthan",
+      "title": "Kishore Singh v. State of Rajasthan",
+      "facts": "A prisoner was subjected to 'solitary confinement' and 'iron fetters' (bar fetters) inside the jail as a\ndisciplinary measure. He challenged these practices as medieval and cruel, violating the standards of\na civilized society.",
+      "issues": "1. Does the use of bar fetters and prolonged solitary confinement violate Article 21?\n2. What is the judicial standard for 'cruel and unusual punishment' in prisons?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that physical restraints and total isolation destroy the human psyche and are\nforms of torture, which the Constitution prohibits even for convicts.\nB. Respondent / State Authority\nThe prison authorities argued that these measures were necessary to maintain discipline among\n'hardened' criminals and were permitted by the Prisons Act.",
+      "judgment": "Ruling: The Supreme Court condemned the use of fetters and restricted solitary confinement.",
+      "reasoning": "The Court, led by Justice Krishna Iyer, held that 'Human Dignity' is the bedrock of the Constitution.\nFetters are an insult to the human person and can only be used in rare cases where there is a clear\ndanger of escape or violence. Solitary confinement is a 'soul-killing' punishment. The Court ruled\nthat prison reforms must transition from a 'retributive' to a 'rehabilitative' model. No prisoner should\nbe treated as a sub-human beast.",
+      "legalPrinciples": "1. Right against cruel, inhuman, or degrading punishment.\n2. Prison discipline must comply with the 'Dignity of the Individual' (Preamble).\n3. Use of physical fetters requires prior judicial approval."
+    },
+    {
+      "id": "gautam-navlakha-v-nia",
+      "title": "Gautam Navlakha v. NIA",
+      "facts": "A prominent civil rights activist was arrested under the UAP A (anti-terror law). During the litigation\nover his bail, the question arose whether 'House Arrest' can be considered a valid form of 'judicial\ncustody' and whether it can be used in cases involving serious offenses.",
+      "issues": "1. Does the power to grant 'custody' include the power to order 'House Arrest'?\n2. Is House Arrest a more humane alternative to traditional prison detention under Article 21?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that given his age and health, House Arrest was a reasonable alternative that\nbalanced national security with his right to life.\nB. Respondent / State Authority\nThe NIA argued that House Arrest is not explicitly mentioned in the CrPC and that it is insufficient\nfor preventing a high-risk individual from communicating with associates.",
+      "judgment": "Ruling: The Supreme Court recognized 'House Arrest' as a legitimate form of judicial custody.",
+      "reasoning": "The Court held that the judiciary has the power under Section 167 of the CrPC to order 'House\nArrest' in appropriate cases. It recognized that traditional prisons are overcrowded and often violate\nhuman rights. For older individuals or those with health issues, House Arrest provides a balance\nbetween 'liberty' and 'custody'. This case introduced a new, less restrictive form of detention into\nIndian human rights jurisprudence.",
+      "legalPrinciples": "1. House Arrest is a valid form of judicial custody.\n2. Courts must consider the age and health of the detainee when deciding the mode of custody.\n3. Evolution of 'detention' to minimize the loss of human dignity."
+    },
+    {
+      "id": "murugan-v-state-of-tamil-nadu",
+      "title": "Murugan v. State of Tamil Nadu",
+      "facts": "A.G. Perarivalan, a convict in the Rajiv Gandhi assassination case, had spent over 31 years in prison.\nHis mercy petition had been pending for years, and the Governor had refused to decide on it. He\nsought release based on the extreme duration of his incarceration and the State Cabinet's\nrecommendation for his pardon.",
+      "issues": "1. Can the Governor sit on a mercy petition indefinitely?\n2. Does Article 21 provide a right to be released if the executive fails to exercise its pardon power\ntimely?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that 31 years was far beyond the normal life sentence. The refusal of the\nGovernor to act on the Cabinet's advice was unconstitutional and violated his right to liberty.\nB. Respondent / State Authority\nThe Union argued that in cases involving national security, the President, not the Governor, had the\nfinal say, and the court should not interfere with sovereign pardon powers.",
+      "judgment": "Ruling: The Supreme Court invoked Article 142 to release the convict.",
+      "reasoning": "The Court held that the Governor is bound by the 'aid and advice' of the State Cabinet. Indefinite\ndelay in deciding a pardon petition is a violation of the rule of law. Since the convict had already\nserved 31 years with good conduct and the executive was causing unconstitutional delays, the Court\nused its extraordinary powers to grant him 'complete justice' by ordering his immediate release.",
+      "legalPrinciples": "1. The right to a timely decision on mercy/pardon petitions.\n2. The Governor is bound by the State Cabinet's advice on Article 161.\n3. 30+ years of imprisonment is an 'inhuman' stretch of time that warrants judicial intervention."
+    },
+    {
+      "id": "mohd-hanif-quareshi-v-state-of-bihar",
+      "title": "Mohd. Hanif Quareshi v. State of Bihar",
+      "facts": "Several state laws imposed a total ban on the slaughter of cattle, including cows, bulls, and bullocks.\nThe petitioners, who were Muslim butchers, challenged the ban, arguing it violated their right to\nfreedom of religion (Art 25) and their right to carry on their hereditary trade and business (Art 19(1)\n(g)).",
+      "issues": "1. Does a total ban on cattle slaughter infringe upon religious freedom if the religion does not\nmandate the slaughter?\n2. Is a total ban a 'reasonable restriction' on the right to trade?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe butchers argued that Bakr-Id required animal sacrifice and that the ban destroyed their only\nsource of livelihood, which was a violation of their human rights.\nB. Respondent / State Authority\nThe State argued that the ban was necessary to fulfill the Directive Principle (Art 48) to protect cows\nand improve animal husbandry, which was vital for the agrarian economy.",
+      "judgment": "Ruling: The Supreme Court upheld a 'partial' ban but struck down a 'total' ban on useful cattle.",
+      "reasoning": "The Court held that since Islam does not 'mandate' cow sacrifice specifically, the ban did not violate\nArt 25. However, regarding the right to trade, the Court ruled that a total ban on all cattle (even those\nthat are old or diseased and not useful for milk or agriculture) was an 'unreasonable' restriction. The\nState can ban the slaughter of useful cows and calves, but it cannot prevent butchers from trade in\ncattle that have no economic utility. This established the 'Economic Utility Test' in human rights.",
+      "legalPrinciples": "1. Rights of trade and business are subject to 'Reasonable Restrictions' (Art 19(6)).\n2. Directive Principles must be harmonized with Fundamental Rights.\n3. Freedom of religion only protects 'essential' religious practices."
+    },
+    {
+      "id": "state-of-gujarat-v-mirzapur-moti-kureshi-kassab-jamat",
+      "title": "State of Gujarat v. Mirzapur Moti Kureshi Kassab Jamat",
+      "facts": "This case revisited the Hanif Quareshi ruling. The Gujarat government passed a new law imposing\na 'total' ban on the slaughter of bulls and bullocks of all ages, even those that were old and non-\nuseful. The butchers again challenged the law as an unreasonable restriction on their right to\nlivelihood.",
+      "issues": "1. Can the State impose a total ban on the slaughter of all progeny of cows?\n2. Does 'Protection of the Environment' (Art 48A) justify a total ban on a specific trade?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioners argued that forcing them to stop their trade in old animals was arbitrary and ignored\nthe 'Economic Utility' test established by the 1958 bench.\nB. Respondent / State Authority\nThe State argued that even old cattle provide manure and bio-gas, making them 'useful' until death.\nThey also relied on the new fundamental duty (Art 51A(g)) to have compassion for living creatures.",
+      "judgment": "Ruling: A 7-Judge Bench upheld the total ban on bull and bullock slaughter.",
+      "reasoning": "The Court overruled the old Hanif Quareshi logic. It held that the 'utility' of an animal does not end\nwhen it stops giving milk or working the fields. Old cattle contribute to the organic ecosystem. The\nCourt ruled that the fundamental rights of a few butchers must yield to the 'collective interest' of\nprotecting the environment and the cattle wealth of the country. This marked a shift from 'economic\nutility' to a more 'ecocentric' and 'sentimental' human rights approach.",
+      "legalPrinciples": "1. A total ban on cattle slaughter is a 'reasonable restriction' in the interest of the general public.\n2. Fundamental Duties (Art 51A) can be used to interpret and restrict Fundamental Rights.\n3. The protection of animals is a valid ground for state regulation of trade."
+    },
+    {
+      "id": "a-s-narayana-deekshitulu-v-state-of-andhra-pradesh",
+      "title": "A.S. Narayana Deekshitulu v. State of Andhra Pradesh",
+      "facts": "The State Government passed a law abolishing the 'hereditary' right of priests (archakas) to manage\ntemples and receive a share of the offerings. The priests challenged the law, arguing it violated their\nright to practice religion (Art 25) and their right to property/management (Art 26).",
+      "issues": "1. Is the appointment of a priest a 'secular' or 'religious' activity?\n2. Does 'Hereditary succession' constitute an essential part of religion?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe priests argued that for centuries, their families had served the deity. The hereditary nature was a\nreligious tradition that the State had no business altering.\nB. Respondent / State Authority\nThe State argued that temple administration is a secular activity and that hereditary rights\nencouraged corruption and mismanagement of public temple funds.",
+      "judgment": "Ruling: The Supreme Court upheld the abolition of hereditary priesthood.",
+      "reasoning": "The Court drew a sharp line between the 'Religious' and the 'Secular'. It held that while the\nperformance of rituals is a religious act, the appointment of the person who performs those\nrituals is a secular administrative act. Priesthood is a 'profession' and not a property right. The Court\nruled that no person can claim a 'human right' to a job based solely on birth in a democratic republic.\nThe State has the power to regulate the 'economic, financial and political' activities associated with\nreligious practices.",
+      "legalPrinciples": "1. Distinction between 'Essential Religious Practices' and 'Secular activities' of a religion.\n2. Right to equality (Art 14) prevents hereditary claims to public/religious offices.\n3. The State can regulate temple administration for the public good."
+    },
+    {
+      "id": "g-thilagavathi-v-state-of-tamil-nadu",
+      "title": "G. Thilagavathi v. State of Tamil Nadu",
+      "facts": "A woman applied for the post of a priest in a state-run temple. She was rejected solely on the ground\nof her gender. She challenged this, arguing that if she was qualified in the ' Agamas' (religious texts),\nher gender should not be a bar.",
+      "issues": "1. Does the exclusion of women from priesthood violate the right to equality (Art 14) and gender\ndiscrimination (Art 15)?\n2. Is the gender of a priest an 'essential religious practice'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that God does not discriminate. If women can be doctors and scientists, they\ncan certainly be priests. Patriarchal traditions cannot override constitutional equality.\nB. Respondent / State Authority\nThe temple traditionalists argued that the ' Agamas' specify that only males can perform certain\nsanctum sanctorum rituals, and this is a matter of religious faith protected under Art 26.",
+      "judgment": "Ruling: The High Court ruled in favor of the woman, allowing female priests.",
+      "reasoning": "Following the Sabarimala logic, the Court held that 'Priesthood' is a secular job in the eyes of the\nlaw. If a woman is trained and qualified in the religious rites, she cannot be excluded based on\n'biological' factors. The Court ruled that any custom that perpetuates gender inequality is a violation\nof 'Constitutional Morality'. Women have a 'human right' to perform religious service just like men.",
+      "legalPrinciples": "1. Gender equality in religious appointments.\n2. Rejection of 'physiological' reasons for excluding women from spiritual roles.\n3. Constitutional Morality trumps patriarchal Agamic interpretations."
+    },
+    {
+      "id": "anuradha-bhasin-v-union-of-india",
+      "title": "Anuradha Bhasin v. Union of India",
+      "facts": "Following the reorganization of Jammu & Kashmir in 2019, the government imposed an indefinite\nshutdown of internet services and restricted the movement of journalists. Anuradha Bhasin, an\neditor, challenged the shutdown, arguing it prevented her from publishing her newspaper and\nviolated the citizens' right to information.",
+      "issues": "1. Is the 'Right to Internet' a fundamental right?\n2. Can the State impose 'indefinite' internet shutdowns in the name of national security?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that in the 21st century, the internet is the primary medium for free speech\n(Art 19(1)(a)) and trade (Art 19(1)(g)). An indefinite blackout is a 'digital emergency' that paralyzes\nhuman rights.\nB. Respondent / State Authority\nThe State argued that the shutdown was a preventive measure to stop the spread of rumors and\nprevent cross-border terrorism, and that national security overrides individual convenience.",
+      "judgment": "Ruling: The Supreme Court ruled that an 'indefinite' shutdown is illegal and ordered a review.",
+      "reasoning": "The Court held that while the 'Right to Internet' is not a separate fundamental right, it is a 'medium'\nthrough which the fundamental rights to speech and trade are exercised. Therefore, any restriction on\nthe internet must meet the 'Test of Proportionality'. An indefinite shutdown is inherently\ndisproportionate. The Court ruled that the State must publish its shutdown orders and that they are\nsubject to judicial review. Security cannot be a 'blank check' to suppress the rights of an entire\npopulation.",
+      "legalPrinciples": "1. Freedom of speech and trade via the internet is protected under Article 19.\n2. Indefinite internet shutdowns are unconstitutional.\n3. Mandatory 'Proportionality Test' and transparency for all restrictive orders."
+    },
+    {
+      "id": "faheema-shirin-v-state-of-kerala",
+      "title": "Faheema Shirin v. State of Kerala",
+      "facts": "A girl student in a government hostel was expelled because she refused to abide by a rule that\nprohibited the use of mobile phones and laptops in the hostel between 6:00 PM and 10:00 PM. The\nuniversity argued the rule was necessary for 'discipline' and 'study'.",
+      "issues": "1. Does the 'Right to Access Internet' fall within the Right to Education and Right to Privacy?\n2. Are restrictive hostel rules a violation of personal autonomy?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe student argued that she needed the internet for her studies and to stay connected with the world.\nThe rule was an arbitrary interference with her privacy and her right to learn.\nB. Respondent / State Authority\nThe University argued that parents expect hostels to act 'in loco parentis' (as parents) to ensure\nstudents focus on their books rather than social media.",
+      "judgment": "Ruling: The High Court struck down the rule, declaring the Right to Internet as a part of the Right to\nEducation.",
+      "reasoning": "The Court held that the 'Right to Access Internet' is now a part of the 'Right to Education' and the\n'Right to Privacy' under Article 21. For a modern student, the internet is an essential tool for\nknowledge. The hostel's rule was an outdated form of 'moral policing' that ignored the autonomy of\nan adult student. The Court ruled that discipline cannot be achieved by taking away the digital\nhuman rights of a citizen.",
+      "legalPrinciples": "1. Right to Internet Access is a fundamental human right.\n2. Autonomy of adult students must be respected in educational institutions.\n3. Discipline cannot override the right to information."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-pucl-v-union-of-india-3",
+      "title": "People's Union for Civil Liberties (PUCL) v. Union of India",
+      "facts": "A report by the CBI revealed widespread and unauthorized 'phone tapping' of politicians and\nactivists by government agencies. There were no clear legal guidelines on when and how a person's\nprivate conversations could be intercepted. The PUCL filed a PIL seeking protection against this\ninvasion of privacy.",
+      "issues": "1. Is the 'Right to hold a Private Telephone Conversation' a part of the right to life and privacy?\n2. What procedural safeguards are required to prevent the abuse of wiretapping powers?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that a phone call is a private space. Unauthorized tapping is a form of\n'electronic eavesdropping' that violates Article 21 and the freedom of speech (Art 19).\nB. Respondent / State Authority\nThe State argued that under the Telegraph Act, it had the 'sovereign power' to intercept messages in\nthe interest of national security and public order.",
+      "judgment": "Ruling: The Supreme Court issued mandatory guidelines to regulate phone tapping.",
+      "reasoning": "The Court held that 'Telephone Tapping' is a serious invasion of an individual's privacy. Unless it is\ndone under a strict 'procedure established by law', it is unconstitutional. The Court ruled that the\nright to privacy is a part of Article 21. It mandated that tapping can only be authorized by high-\nranking officials (Home Secretary), must be for a specific time limit, and the reasons must be\nrecorded in writing. This case protected the 'Digital Privacy' of citizens long before the internet era.",
+      "legalPrinciples": "1. Right to Privacy includes the privacy of communications.\n2. Administrative wiretapping without safeguards violates Article 21.\n3. Mandatory high-level executive oversight for surveillance."
+    },
+    {
+      "id": "foundation-for-media-professionals-v-ut-of-j-k",
+      "title": "Foundation for Media Professionals v. UT of J&K",
+      "facts": "During the long internet shutdown in Kashmir, the government eventually allowed '2G' internet but\ncontinued to ban '4G' high-speed internet. This prevented students from attending online classes and\ndoctors from accessing medical databases during the COVID-19 pandemic. The petitioners sought a\nrestoration of 4G services.",
+      "issues": "1. Does the 'Right to Health' and 'Right to Education' override national security concerns during a\npandemic?\n2. Can the State restrict the 'Speed' of the internet indefinitely?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioners argued that 2G was useless for video calls and heavy data. During a lockdown, this\nwas a denial of the right to work, learn, and survive.\nB. Respondent / State Authority\nThe State argued that 4G was being used by terrorists to upload high-quality recruitment videos and\ncoordinate attacks, and thus 2G was a 'proportional' compromise.",
+      "judgment": "Ruling: The Supreme Court ordered the creation of a 'Special Committee' to review the necessity of\nthe 4G ban.",
+      "reasoning": "The Court acknowledged that the 'human rights' of a whole population (health, education) were\nbeing affected by the low internet speed. It held that the State cannot rely on generalized security\nthreats forever. While not immediately ordering 4G, the Court mandated a 'High-Powered\nCommittee' to look into the situation on a weekly basis. This established that even technological\n'speed' can be a matter of fundamental rights.",
+      "legalPrinciples": "1. Access to high-speed internet can be a facet of the right to life (health/education).\n2. Continuous judicial review of security-based restrictions.\n3. The State must explore 'least restrictive' alternatives."
+    },
+    {
+      "id": "x-v-principal-secretary-health-and-family-welfare-dept-delhi",
+      "title": "X v. Principal Secretary, Health and Family Welfare Dept., Delhi",
+      "facts": "An unmarried woman was denied permission to terminate her 24-week pregnancy by the High Court\nbecause the Medical Termination of Pregnancy (MTP) Rules at that time only allowed specific\ncategories of women (like rape survivors or married women) to seek late-term abortions. She\nchallenged the discriminatory nature of the rules.",
+      "issues": "1. Does the 'Right to Abortion' depend on the marital status of a woman?\n2. Does 'Reproductive Autonomy' fall under the Right to Life (Art 21)?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that an unmarried woman faces the same physical and mental trauma as a\nmarried woman. Excluding her based on marital status was discriminatory (Art 14) and a violation of\nher bodily integrity.\nB. Respondent / State Authority\nThe State relied on the literal text of the MTP rules which were designed to protect the 'traditional'\nfamily structure.",
+      "judgment": "Ruling: The Supreme Court ruled that ALL women, regardless of marital status, have a right to safe\nand legal abortion up to 24 weeks.",
+      "reasoning": "The Court delivered a landmark ruling for 'Reproductive Rights'. It held that the right to choose\nwhether to bear a child is at the core of a woman's fundamental right to 'Personal Liberty' and\n'Privacy'. Discriminating against unmarried women is a violation of 'Constitutional Morality'. The\nCourt also gave a wide interpretation to 'Mental Health', ruling that an unwanted pregnancy is a\nsevere threat to a woman's mental well-being. This case recognized 'Reproductive Justice' as a human\nright.",
+      "legalPrinciples": "1. Right to Reproductive Autonomy is a fundamental right under Article 21.\n2. Marital status cannot be a bar to legal abortion.\n3. Broadened definition of 'Mental Health' in reproductive choices."
+    },
+    {
+      "id": "shreya-singhal-v-union-of-india",
+      "title": "Shreya Singhal v. Union of India",
+      "facts": "Section 66A of the IT Act allowed the police to arrest anyone for posting 'offensive' or 'annoying'\ncontent on the internet. Two girls were arrested in Mumbai for a Facebook post questioning a city\nshutdown. The law was challenged as being 'vague' and 'overbroad', creating a 'chilling effect' on free\nspeech.",
+      "issues": "1. Does the 'Right to Free Speech' on the internet have the same protection as traditional media?\n2. Can the State criminalize 'offensive' speech that does not incite violence?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that 'offensive' and 'annoying' are subjective terms. The law gave the police\nabsolute power to arrest anyone for a simple opinion, violating Art 19(1)(a).\nB. Respondent / State Authority\nThe State argued that the internet is a 'volatile' medium and strict laws are needed to prevent\ncommunal riots and protect the reputation of public figures.",
+      "judgment": "Ruling: The Supreme Court struck down Section 66A as unconstitutional.",
+      "reasoning": "The Court held that the law was 'vague' because it did not define what was 'offensive'. A law that\ntargets speech must be 'narrowly tailored'. Merely 'annoying' someone is not a valid ground to\nrestrict speech under Art 19(2). The Court ruled that 'Discussion and Advocacy', however unpopular,\nare protected. Only 'Incitement' to violence can be banned. This case is the 'Magna Carta' of online\nfree speech in India.",
+      "legalPrinciples": "1. Doctrine of Vagueness and Overbreadth in free speech.\n2. Online speech enjoys the same constitutional protection as offline speech.\n3. Protection against the 'Chilling Effect' of draconian criminal laws."
+    },
+    {
+      "id": "k-a-najeeb-v-union-of-india",
+      "title": "K.A. Najeeb v. Union of India",
+      "facts": "A man accused under the UAP A (anti-terror law) had been in jail for over 5 years as an undertrial.\nUnder the UAP A, bail is almost impossible to get if the police have a prima facie case. He sought bail\non the ground that his 'Right to a Speedy Trial' was being violated.",
+      "issues": "1. Can the 'Right to Speedy Trial' override the statutory restrictions on bail in anti-terror laws?\n2. Does prolonged incarceration without trial violate Article 21?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that even for serious crimes, a person cannot be kept in jail forever without a\nconviction. The delay in the trial was not his fault.\nB. Respondent / State Authority\nThe Union argued that the UAP A specifically prohibits bail if the offense is serious. National security\nmust prevail over the individual's liberty.",
+      "judgment": "Ruling: The Supreme Court granted bail, prioritizing Article 21 over the UAP A restrictions.",
+      "reasoning": "The Court held that while the UAP A has strict bail rules, it cannot override the 'Constitutional' right\nto a speedy trial under Article 21. If a trial is unlikely to finish in a reasonable time, the 'presumption\nof innocence' and the 'right to liberty' demand that the accused be released on bail. The Court ruled\nthat statutory law must yield to fundamental human rights in cases of 'inordinate' delay.",
+      "legalPrinciples": "1. Right to Speedy Trial is superior to statutory bail restrictions.\n2. Inordinate delay in trial is a valid ground for bail even in terror cases.\n3. Balancing 'National Security' with 'Individual Liberty'."
+    },
+    {
+      "id": "mohammed-zubair-v-state-of-nct-of-delhi",
+      "title": "Mohammed Zubair v. State of NCT of Delhi",
+      "facts": "A journalist was arrested for a series of tweets. Multiple FIRs were filed against him in different states\nfor the same set of tweets. The State attempted to ban him from using social media as a condition for\nhis bail.",
+      "issues": "1. Can the State impose a 'gag order' on a journalist as a condition for bail?\n2. Does a multiplicity of FIRs for the same act violate the 'Right against Double Jeopardy' and\nArticle 21?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that his tweets were his 'livelihood' and 'free speech'. Multiple FIRs were a\nform of 'prosecutorial harassment' designed to keep him in jail indefinitely.\nB. Respondent / State Authority\nThe State argued that the tweets caused public disorder and that he should be stopped from\n'repeating' the offense while on bail.",
+      "judgment": "Ruling: The Supreme Court granted bail, quashed the multiplicity of cases, and refused the gag\norder.",
+      "reasoning": "The Court held that a 'Gag Order' on a journalist is a form of 'prior restraint' which is\nunconstitutional. You cannot tell a person to 'stop speaking' as a price for their freedom. The Court\nalso condemned the 'vicious cycle' of multiple FIRs for the same act (Twitter thread), ordering all\ncases to be clubbed together. It ruled that the power of arrest must be exercised sparingly and not as a\ntool of silencing dissent.",
+      "legalPrinciples": "1. Right against 'Prior Restraint' (Gag Orders).\n2. Protection against 'Multiple Prosecutions' for the same act.\n3. Freedom of Press as a core human right."
+    },
+    {
+      "id": "state-of-maharashtra-v-madhukar-narayan-mandikar",
+      "title": "State of Maharashtra v. Madhukar Narayan Mandikar",
+      "facts": "A police officer was accused of attempting to sexually assault a woman. During the departmental\ninquiry, the officer argued that the woman's testimony should be discarded because she was a person\nof 'easy virtue' (unchaste) and had a history of several sexual relationships.",
+      "issues": "1. Does a woman of 'easy virtue' lose her Right to Privacy and Protection under Article 21?\n2. Is the 'Chastity' of a victim relevant in human rights/criminal cases?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe woman argued that her personal life is her own. Whether she has one partner or ten, she has the\nright to refuse any man, and the police have no right to assault her.\nB. Respondent / State Authority\nThe officer argued that her 'character' made her testimony unreliable and that the assault was\n'consensual' or fabricated.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the woman, upholding her dignity.",
+      "reasoning": "The Court delivered a powerful message on 'Bodily Autonomy'. It held that 'Even a woman of easy\nvirtue is entitled to privacy and no one can invade her privacy as and when he likes.' The right to life\nand dignity under Article 21 is available to every human being, regardless of their 'moral' character\nor social standing. The officer's attempt to use 'character assassination' as a defense was rejected as\nbeing contrary to human rights.",
+      "legalPrinciples": "1. Right to Privacy and Dignity is universal and absolute.\n2. A victim's 'sexual history' is irrelevant to her right to refuse assault.\n3. Protection of 'Chastity' is not a requirement for the protection of 'Dignity'."
+    },
+    {
+      "id": "common-cause-v-union-of-india-2",
+      "title": "Common Cause v. Union of India",
+      "facts": "Section 309 of the IPC criminalized the 'attempt to commit suicide'. This meant a person who was\nalready in deep mental agony and failed to kill themselves could be sent to jail by the State. This was\nchallenged as being 'inhuman' and 'irrational'.",
+      "issues": "1. Is Section 309 IPC a violation of the Right to Life (Art 21)?\n2. Does the 'Right to Life' include a 'Right to Die'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that a person who attempts suicide needs 'help', not 'punishment'.\nCriminalizing a cry for help is a form of state-sponsored cruelty.\nB. Respondent / State Authority\nThe State argued that the law acts as a 'deterrent' to prevent people from taking their own lives and\nmaintains the sanctity of life.",
+      "judgment": "Ruling: The Supreme Court effectively de-criminalized suicide.",
+      "reasoning": "The Court held that Section 309 is 'anachronistic'. A person who attempts suicide is suffering from\nsevere mental stress. Sending them to jail only increases that stress. The Court ruled that the Right to\nLife means the right to live with 'Humanity'. While the Court stopped short of saying there is a 'right\nto die', it held that the 'State's compassion' must prevail. (Note: This led to the Mental Healthcare Act\n2017, which presumes that a person attempting suicide is under severe stress and shall not be\nprosecuted).",
+      "legalPrinciples": "1. De-criminalization of the attempt to suicide.\n2. Shift from 'Criminal Justice' to 'Mental Healthcare' for vulnerable citizens.\n3. Human Rights approach to mental health issues."
+    },
+    {
+      "id": "r-rajagopal-v-state-of-tamil-nadu",
+      "title": "R. Rajagopal v. State of Tamil Nadu",
+      "facts": "A condemned prisoner (Auto Shankar) wrote an autobiography in jail describing his links with\nsenior police and IAS officers. He handed the manuscript to a magazine (Nakkeeran) to publish. The\ngovernment officials, fearing exposure, tried to stop the publication, arguing it violated their 'right to\nprivacy'.",
+      "issues": "1. Can the State or public officials claim a 'Right to Privacy' to stop the publication of a story about\ntheir official acts?\n2. What is the balance between 'Privacy' and 'Freedom of the Press'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe magazine argued that the public has a right to know about the corruption of officials. The\nautobiography was a matter of 'public interest'.\nB. Respondent / State Authority\nThe State argued that the book was defamatory and that even officials have a right to prevent their\nnames from being dragged into a scandal.",
+      "judgment": "Ruling: The Supreme Court allowed the publication, upholding the Freedom of the Press.",
+      "reasoning": "The Court held that 'Public Officials' have a very limited right to privacy regarding their 'official' acts.\nIf a story is based on 'public records', they cannot stop it. The Court ruled that the 'Right to be Left\nAlone' is for private citizens. Public figures must endure greater scrutiny. This case established that\n'Prior Restraint' (censorship) by the State is unconstitutional unless there is a grave threat to national\nsecurity.",
+      "legalPrinciples": "1. Freedom of Press vs. Right to Privacy.\n2. No right to privacy for public officials regarding their official conduct.\n3. Prohibition of 'Prior Restraint' by the State."
+    },
+    {
+      "id": "parmanand-katara-v-union-of-india",
+      "title": "Parmanand Katara v. Union of India",
+      "facts": "A person was seriously injured in a road accident. He was taken to a nearby hospital, but the doctors\nrefused to treat him, saying it was a 'Medico-Legal Case' (MLC) and he must go to a specific\ngovernment hospital miles away. The victim died on the way. A PIL was filed demanding that every\ndoctor must treat injured persons immediately.",
+      "issues": "1. Does the 'Right to Life' include a mandatory right to 'Emergency Medical Treatment'?\n2. Do procedural 'Medico-Legal' rules override the life-saving duty of a doctor?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe petitioner argued that every second counts in an emergency. Forcing a dying man to travel for\n'paperwork' is a form of homicide by the State.\nB. Respondent / State Authority\nThe medical community argued that they feared police harassment and endless court visits\nassociated with MLC cases.",
+      "judgment": "Ruling: The Supreme Court ruled that every doctor has a 'total obligation' to save life first and do\npaperwork later.",
+      "reasoning": "The Court held that ' Article 21' is the most sacred part of the Constitution. Preservation of life is of\n'paramount importance'. The Court ruled that no doctor or hospital (private or public) can refuse\nemergency treatment on the ground that it is a police case. The Court assured doctors that they\nwould not be harassed by the police and that the 'professional duty' to save life transcends all other\nlegal procedures. 'Life is once lost, cannot be restored'.",
+      "legalPrinciples": "1. Right to Emergency Medical Treatment is a fundamental human right.\n2. Doctors' duty to save life overrides procedural formalities.\n3. The State must ensure doctors are not penalized for performing their humanitarian duty."
+    },
+    {
+      "id": "m-c-mehta-v-union-of-india-2",
+      "title": "M.C. Mehta v. Union of India",
+      "facts": "A major leak of oleum gas from a unit of Shriram Foods and Fertilisers in Delhi caused the death of\none advocate and several injuries. This happened just after the Bhopal Gas Tragedy. M.C. Mehta filed\na PIL to close the hazardous plant in a populated area.",
+      "issues": "1. What is the scope of liability for hazardous industries?\n2. Should the rule in Rylands v. Fletcher (Strict Liability) apply to modern India?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nHazardous industries must be held responsible for all harm caused to the community, regardless of\nnegligence.\nB. Respondent / State Authority\nThe industry argued they took all reasonable care and the leak was an accident.",
+      "judgment": "Ruling: The SC established the doctrine of Absolute Liability.",
+      "reasoning": "The Court held that the English rule of 'Strict Liability' with its many exceptions was insufficient for\nIndia. An enterprise engaged in a hazardous activity has a non-delegable duty to the community. If\nany harm occurs, the enterprise is 'absolutely liable' to compensate without any defense like ' Act of\nGod' or 'Sabotage'.",
+      "legalPrinciples": "1. Creation of ' Absolute Liability' (distinct from Strict Liability).\n2. Compensation must be proportional to the size of the enterprise.\n3. The right to a safe environment is part of the Right to Life."
+    },
+    {
+      "id": "sher-singh-v-state-of-punjab",
+      "title": "Sher Singh v. State of Punjab",
+      "facts": "A death-row convict challenged the delay in his execution, arguing that prolonged waiting in the\nshadow of death caused inhuman mental torture.",
+      "issues": "1. Does delay in execution entitle a prisoner to commutation?\n2. Is the speed of the justice system a human right?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nProlonged incarceration after a death sentence is a 'double punishment' violating Article 21.\nB. Respondent / State Authority\nThe State argued that the delay was due to the convict's own numerous appeals and petitions.",
+      "judgment": "Ruling: The Court held that delay is a factor, but not an absolute ground for commutation.",
+      "reasoning": "The Court ruled that while speedy justice is a right, a death sentence cannot be automatically\ncommuted just because of delay. Each case must be judged on its own facts, looking at who caused\nthe delay. However, the State must decide on mercy petitions within a reasonable time.",
+      "legalPrinciples": "1. Right to a speedy trial and execution process.\n2. Delay can be a ground for judicial review of a death sentence.\n3. Human rights apply to the process of punishment."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-pucl-v-union-of-india-4",
+      "title": "People's Union for Civil Liberties (PUCL) v. Union of India",
+      "facts": "The Prevention of Terrorism Act (POTA) was challenged as being draconian and giving the police too\nmuch power, potentially leading to widespread human rights abuses.",
+      "issues": "1. Can civil liberties be curtailed to fight terrorism?\n2. Is the statutory definition of 'Terrorism' too vague?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe Act allowed for long detentions without charge and used confessions to police as evidence,\nwhich invited torture.\nB. Respondent / State Authority\nThe State argued that extraordinary situations require extraordinary laws and that the survival of the\nnation is the highest human right.",
+      "judgment": "Ruling: The Supreme Court upheld the validity of POTA with safeguards.",
+      "reasoning": "The Court held that Parliament has the power to enact anti-terror laws. However, the 'Right to a Fair\nTrial' cannot be completely suspended. The Court read 'mens rea' (guilty intent) into the sections of\nthe Act to prevent the arrest of innocent people. This case balanced 'National Security' with\n'Individual Freedom'.",
+      "legalPrinciples": "1. Anti-terror laws must respect the core of Article 21.\n2. Safeguards against custodial abuse are mandatory even in terror cases.\n3. The judiciary will check the 'excessive' use of executive power."
+    },
+    {
+      "id": "t-v-vatheeswaran-v-state-of-tamil-nadu",
+      "title": "T.V. Vatheeswaran v. State of Tamil Nadu",
+      "facts": "A convict had been on death row for 8 years. He sought commutation to life imprisonment, arguing\nthat the delay was a violation of his fundamental rights.",
+      "issues": "1. Does an 8-year delay in execution violate Article 21?\n2. What is the limit of 'reasonable time' for a death sentence?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nEight years in a death cell is an 'excruciating experience' that amounts to inhuman treatment.\nB. Respondent / State Authority\nThe State argued that the law does not prescribe a specific time limit for execution.",
+      "judgment": "Ruling: The Court commuted the sentence to life imprisonment.",
+      "reasoning": "The Court held that a 'just, fair and reasonable' procedure under Art 21 requires that execution must\nhappen within a reasonable time. Keeping someone under the 'threat of the gallows' for years is\ncruel. The Court suggested that a 2-year delay should normally be the limit.",
+      "legalPrinciples": "1. Delay in execution can violate the Right to Life.\n2. Inhuman treatment includes mental agony of long death-row stays.\n3. Procedural fairness applies even after conviction."
+    },
+    {
+      "id": "state-of-maharashtra-v-prabhakar-pandurang-sangzgiri",
+      "title": "State of Maharashtra v. Prabhakar Pandurang Sangzgiri",
+      "facts": "A person was detained under preventive detention. While in jail, he wrote a scientific book. He\nrequested the government to allow him to send the manuscript to his wife to publish it. The\ngovernment refused.",
+      "issues": "1. Does a detenu lose the right to write and publish a book?\n2. Is intellectual expression a part of personal liberty?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nWriting is a mental activity. Detention only restricts physical movement, not the freedom of the mind.\nB. Respondent / State Authority\nThe State argued that a prisoner has no 'rights' other than those granted by the jail manual.",
+      "judgment": "Ruling: The Supreme Court ruled in favor of the detenu.",
+      "reasoning": "The Court held that every person, even a prisoner, has a right to their 'Personal Liberty' except where\nit is legally restricted. There was no law or rule that prohibited a prisoner from writing a book. The\nright to freedom of expression (Art 19) does not vanish just because a person is in custody. This\nestablished the 'Residual Liberty' of prisoners.",
+      "legalPrinciples": "1. Prisoners retain all fundamental rights not taken away by the fact of detention.\n2. Freedom of mind and expression is a human right.\n3. State cannot arbitrarily restrict intellectual activities of inmates."
+    },
+    {
+      "id": "olga-tellis-v-bombay-municipal-corporation-2",
+      "title": "Olga Tellis v. Bombay Municipal Corporation",
+      "facts": "This case dealt with the eviction of pavement dwellers in Bombay. The BMC intended to demolish\ntheir huts without notice.",
+      "issues": "1. Does the 'Right to be Heard' apply to illegal encroachers?\n2. Can the State use its power of eviction without following natural justice?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nEven squatters have a right to explain their situation before they are thrown onto the streets.\nB. Respondent / State Authority\nSquatters have no legal title to the land and are 'trespassers' who can be removed at any time.",
+      "judgment": "Ruling: The Court held that 'Natural Justice' is mandatory for every state action.",
+      "reasoning": "The Court ruled that the 'Procedure' in Article 21 must be fair. Evicting someone without a 'notice' or\na 'hearing' is arbitrary, even if they are technically on public land. The Court established that 'Life' is\ntied to 'Livelihood', and a summary eviction violates the core of human rights.",
+      "legalPrinciples": "1. Natural Justice is an essential part of the Right to Life.\n2. Every individual has a 'Right to be Heard' before being deprived of their shelter/livelihood.\n3. State actions must be compassionate and procedurally sound."
+    },
+    {
+      "id": "sebastian-m-hongray-v-union-of-india",
+      "title": "Sebastian M. Hongray v. Union of India",
+      "facts": "Two persons were taken into custody by the Army in Manipur during an insurgency. They\n'disappeared'. A writ of Habeas Corpus was filed, but the Army claimed they had been released and\ntheir whereabouts were unknown.",
+      "issues": "1. How to hold the State accountable for 'enforced disappearances'?\n2. Can the Court award damages in a Habeas Corpus petition?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe families argued that the men were last seen with the Army. The State is responsible for their\nlives.\nB. Respondent / State Authority\nThe State argued it had no record of the men after they left the camp.",
+      "judgment": "Ruling: The Supreme Court ordered the State to pay 'Exemplary Costs'.",
+      "reasoning": "The Court found the State's story to be a lie. Since the men could not be produced and were likely\ndead, the Court awarded Rs. 1 lakh each to the wives as 'Exemplary Costs'. This was the first time the\nCourt awarded financial compensation for a 'human rights disappearance'.",
+      "legalPrinciples": "1. State is responsible for every person in its custody.\n2. Creation of the 'Public Law Remedy' for human rights violations.\n3. Deterrent compensation for custodial disappearances."
+    },
+    {
+      "id": "khedat-mazdoor-chetna-sangath-v-state-of-m-p",
+      "title": "Khedat Mazdoor Chetna Sangath v. State of M.P.",
+      "facts": "Police brutally beat up tribal activists who were protesting for their land rights. The police also\ntortured them in the lockup and paraded them in chains.",
+      "issues": "1. Does the use of 'Force' by police against peaceful protestors violate Article 21?\n2. Can police use humiliation as a tool of state control?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nTribals were exercising their democratic right to protest. The police violence was an attempt to crush\ntheir spirit and dignity.\nB. Respondent / State Authority\nThe State argued that the protestors were violent and the police used 'minimum force' to restore\norder.",
+      "judgment": "Ruling: The Supreme Court ordered a CBI probe and compensation.",
+      "reasoning": "The Court held that the police cannot treat citizens like enemies. Human dignity is a fundamental\nright. Parading activists in chains was a 'barbaric' act. The Court ruled that the State has no right to\n'torture or humiliate' those who disagree with its policies.",
+      "legalPrinciples": "1. Protection of the 'Right to Dissent' as a human right.\n2. Freedom from torture and humiliation in custody.\n3. State's duty to protect vulnerable tribal populations from its own officers."
+    },
+    {
+      "id": "r-s-pathak-v-union-of-india",
+      "title": "R.S. Pathak v. Union of India",
+      "facts": "The Supreme Court brokered a settlement between the Union of India and Union Carbide\nCorporation for $470 million for the victims of the gas tragedy. The settlement was challenged by\nvictim groups as being too low.",
+      "issues": "1. Can the State settle 'human rights' claims of its citizens without their consent?\n2. What is the 'Parens Patriae' role of the State?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe victims argued that the State had 'sold out' their lives. The settlement amount did not cover the\nlong-term health and environmental damage.\nB. Respondent / State Authority\nThe State argued that a quick settlement was better than a 20-year trial in US/Indian courts to\nprovide immediate relief to the suffering.",
+      "judgment": "Ruling: The Supreme Court upheld the settlement but added new conditions.",
+      "reasoning": "The Court ruled that the State can act as 'Parens Patriae' (parent of the country) for the victims. While\nthe amount was settled, the Court held that the State must bear the 'shortfall' if the money was\ninsufficient and that all criminal cases against the company would remain open. This case showed the\nconflict between 'Immediate Human Relief' and ' Absolute Justice'.",
+      "legalPrinciples": "1. State as the protector of human rights for mass-disaster victims.\n2. Balance between expediency and adequacy in human rights settlements.\n3. Right to compensation for large-scale corporate negligence."
+    },
+    {
+      "id": "m-c-mehta-v-union-of-india-3",
+      "title": "M.C. Mehta v. Union of India",
+      "facts": "Delhi's air quality was deteriorating due to old vehicles and dirty fuel. M.C. Mehta sought directions\nto force the government to introduce clean fuels like CNG.",
+      "issues": "1. Is 'Clean Air' a fundamental human right?\n2. Can the Court mandate technological changes to protect human health?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nRespiratory diseases were killing thousands. The 'Right to Life' was being violated by the State's\nfailure to regulate pollution.\nB. Respondent / State Authority\nThe transport industry argued that a sudden shift to CNG would destroy their livelihoods.",
+      "judgment": "Ruling: The Supreme Court mandated the conversion to CNG.",
+      "reasoning": "The Court held that the 'Right to Life' is superior to the 'Right to Profit'. Clean air is a 'biological'\nrequirement for human existence. The State must prioritize the health of the residents over the\nconvenience of the industry. This judgment was a global landmark in 'Environmental Human Rights'.",
+      "legalPrinciples": "1. Right to breathe clean air is a facet of Article 21.\n2. Precautionary Principle: State must act before harm becomes irreversible.\n3. Public health as a paramount human right."
+    },
+    {
+      "id": "g-b-pant-university-v-state-of-u-p",
+      "title": "G.B. Pant University v. State of U.P.",
+      "facts": "Workers in the university cafeteria were denied the status of 'employees' and were paid below\nminimum wage. They were treated as casual help even after years of service.",
+      "issues": "1. Does 'Unfair Labour Practice' violate the right to life with dignity?\n2. Is the State (University) bound by human rights standards in its employment rules?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nFeeding the students is an essential service. Denying workers their status and a living wage is 'forced\nlabor' under Article 23.\nB. Respondent / State Authority\nThe University argued that the cafeteria was an 'auxiliary' service and they had no budget for\npermanent staff.",
+      "judgment": "Ruling: The Supreme Court ordered the regularization of the workers.",
+      "reasoning": "The Court held that a 'paternalistic' state cannot exploit its own workers. Human dignity requires a\nstable livelihood and fair pay. The 'form' of the contract (calling them casual) cannot hide the\n'substance' of exploitation. This case linked 'Labour Rights' directly to 'Human Rights'.",
+      "legalPrinciples": "1. Right to regular and fair employment is a part of dignity.\n2. State institutions must be 'model employers'.\n3. Prohibition of economic exploitation under Art 23."
+    },
+    {
+      "id": "nandini-satpathy-v-p-l-dani",
+      "title": "Nandini Satpathy v. P.L. Dani",
+      "facts": "A former Chief Minister was interrogated by the police and asked hundreds of questions about her\nassets. She refused to answer, claiming her 'Right to Silence' under Article 20(3).",
+      "issues": "1. Does the right against self-incrimination apply during police interrogation?\n2. What is the 'Mental Privacy' of an accused?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nForcing a person to speak against themselves is a form of 'psychological coercion' and a violation of\nhuman rights.\nB. Respondent / State Authority\nThe police argued that the right only applies in a 'court' and not during the investigation phase.",
+      "judgment": "Ruling: The Supreme Court upheld the right to remain silent during interrogation.",
+      "reasoning": "The Court held that Article 20(3) provides a 'shield' against any form of self-incrimination, whether in\na court or in a police station. The mind is the 'ultimate sanctuary'. Forcing a person to speak through\nthreats or persistent questioning violates their dignity and right to a fair trial. 'The right to be silent is\na human right'.",
+      "legalPrinciples": "1. Right against self-incrimination (Art 20(3)) applies to the investigation stage.\n2. Protection of mental privacy and dignity.\n3. The accused is not a mere 'object' for the police to extract information from."
+    },
+    {
+      "id": "vishal-jeet-v-union-of-india",
+      "title": "Vishal Jeet v. Union of India",
+      "facts": "A PIL was filed highlighting the mass exploitation of children in 'red-light' areas and the prevalence\nof 'child prostitution'.",
+      "issues": "1. Does the State have an obligation to eradicate child prostitution as a human rights priority?\n2. What is the 'Right to Protection' for the girl child?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nChild prostitution is the worst form of slavery. The State was failing its duty under Art 23 and 24 to\nprotect the most vulnerable.\nB. Respondent / State Authority\nThe State argued that it was a complex social problem involving poverty and migration.",
+      "judgment": "Ruling: The Supreme Court issued mandatory directions for the rescue and rehabilitation of\nchildren.",
+      "reasoning": "The Court held that children are the 'supreme asset' of the nation. Forcing a child into sexual slavery\nis a total destruction of their human rights. The Court directed the creation of 'Correctional Homes'\nand ordered the police to conduct raids. It emphasized that these children need 'compassion and\neducation', not punishment.",
+      "legalPrinciples": "1. Absolute right of the child to be protected from sexual exploitation.\n2. State's duty to provide 'alternative life' and rehabilitation.\n3. Human trafficking is a violation of the Preamble and Part III."
+    },
+    {
+      "id": "lata-singh-v-state-of-u-p",
+      "title": "Lata Singh v. State of U.P.",
+      "facts": "A woman entered into an inter-caste marriage. Her brothers filed false criminal cases against the\nhusband and threatened to kill them for 'family honor'.",
+      "issues": "1. Does an adult woman have a human right to choose her husband?\n2. Can the State tolerate 'caste-based violence' against marriages?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nOnce a woman is an adult, she is the master of her own life. Caste traditions cannot override the\nfundamental right to liberty.\nB. Respondent / State Authority\nThe relatives argued they were protecting their 'culture' and 'social values'.",
+      "judgment": "Ruling: The Supreme Court ordered protection for the couple and condemned 'honor' violence.",
+      "reasoning": "The Court held that 'India is a free country'. There is no bar to inter-caste marriage. The threat of\n'honor killing' is an act of 'barbarism'. The Court directed that any person interfering with such a\nmarriage should be severely punished. The 'Right to Choose' is a core human right of every adult\ncitizen.",
+      "legalPrinciples": "1. Right to Marry a person of one's choice is a human right under Art 21.\n2. Rejection of 'Casteist' notions of honor.\n3. State's obligation to protect inter-caste/inter-religious couples."
+    },
+    {
+      "id": "murli-s-deora-v-union-of-india",
+      "title": "Murli S. Deora v. Union of India",
+      "facts": "A PIL sought a ban on smoking in public places to protect non-smokers from the hazards of 'passive\nsmoking'.",
+      "issues": "1. Does 'Passive Smoking' violate the right to life of non-smokers?\n2. Can the Court restrict an individual's 'freedom' to smoke to protect public health?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nNon-smokers are being 'slowly killed' in public buses and offices without their consent. The right to\nhealth is a human right.\nB. Respondent / State Authority\nThe tobacco industry argued that individuals have a 'choice' to smoke and a ban would affect their\nbusiness.",
+      "judgment": "Ruling: The Supreme Court banned smoking in public places.",
+      "reasoning": "The Court held that Article 21 guarantees the right to a 'clean and healthy environment'. No person\nhas the right to force others to inhale toxic fumes. Public health is a paramount concern of the State.\nThis judgment catalyzed the enactment of the COPTA (smoking control) law.",
+      "legalPrinciples": "1. Protection of 'Passive Smokers' as a human rights mandate.\n2. Right to Health in public spaces.\n3. Judicial activism to fill gaps in health laws."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-pucl-v-union-of-india-5",
+      "title": "People's Union for Civil Liberties (PUCL) v. Union of India",
+      "facts": "This was the famous 'Right to Food' case where people were starving while grains rotted in\ngovernment godowns.",
+      "issues": "1. Can the State be held accountable for 'starvation deaths'?\n2. Is the 'Public Distribution System' (PDS) a human rights entitlement?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nAllowing food to rot while people die of hunger is a 'sin' and a violation of the Right to Life.\nB. Respondent / State Authority\nThe State argued that distribution was a matter of logistics and administrative policy.",
+      "judgment": "Ruling: The Supreme Court converted welfare schemes into legal rights.",
+      "reasoning": "The Court held that the 'Right to Food' is an essential part of the 'Right to Life'. It issued a series of\n'orders' that made the 'Mid-Day Meal' and ' Antyodaya' schemes mandatory. The Court ruled that the\nState has a 'Positive Duty' to ensure that no one goes hungry in a food-surplus country.",
+      "legalPrinciples": "1. Right to Food is a fundamental right.\n2. Judicial monitoring of social welfare schemes (Continuing Mandamus).\n3. State's liability for death by starvation."
+    },
+    {
+      "id": "consumer-education-research-centre-v-union-of-india",
+      "title": "Consumer Education & Research Centre v. Union of India",
+      "facts": "Workers in asbestos factories were dying of ' Asbestosis' (lung disease). The companies were not\nproviding health records or insurance to the workers.",
+      "issues": "1. Is the 'Workplace Environment' a human rights issue?\n2. Do workers have a right to medical insurance in hazardous jobs?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe companies were using the workers as 'disposable tools'. The right to health is a part of the right\nto live with dignity.\nB. Respondent / State Authority\nThe industry argued that the disease takes years to manifest and they followed all 'existing' safety\nrules.",
+      "judgment": "Ruling: The Supreme Court ordered mandatory insurance and health records.",
+      "reasoning": "The Court held that 'Health' is a fundamental right of the worker. A person who gives their life for\nthe economy is entitled to the highest safety standards. The Court directed all asbestos industries to\nprovide life-long medical checkups and compensation for diseased workers. It linked 'Occupational\nSafety' with Article 21.",
+      "legalPrinciples": "1. Right to Health is a fundamental human right.\n2. Hazardous industries are strictly liable for the long-term health of workers.\n3. Recognition of 'Occupational Human Rights'."
+    },
+    {
+      "id": "laxman-v-state-of-maharashtra",
+      "title": "Laxman v. State of Maharashtra",
+      "facts": "A woman was convicted of murder. She requested the court to allow her to keep her 'young child'\nwith her in prison, as there was no one to care for the child outside.",
+      "issues": "1. Does a child have a right to 'maternal care' even if the mother is a convict?\n2. What are the human rights of 'Children of Convicts'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe child is innocent. Depriving the child of its mother's care is a violation of the child's right to life\nand development.\nB. Respondent / State Authority\nThe State argued that a prison is not a place for children and it would affect the child's mental health.",
+      "judgment": "Ruling: The Supreme Court allowed the child to stay with the mother with safeguards.",
+      "reasoning": "The Court held that the 'Best Interest of the Child' must prevail. A young child needs its mother. The\nCourt directed the government to provide creches and schools inside jails so that children of convicts\ndo not suffer for their parents' crimes. This humanized the prison system for mothers.",
+      "legalPrinciples": "1. Right of the child to maternal care is a human right.\n2. Prison environment must be 'child-friendly' for mothers in custody.\n3. The innocence of the child is protected under Art 21."
+    },
+    {
+      "id": "m-h-hoskot-v-state-of-maharashtra",
+      "title": "M.H. Hoskot v. State of Maharashtra",
+      "facts": "A convict wanted to appeal his sentence to the Supreme Court but was not provided with a copy of\nthe High Court judgment for years, making his right to appeal useless.",
+      "issues": "1. Does the Right to Life include the 'Right to Appeal'?\n2. Is 'Free Legal Aid' a fundamental human right for convicts?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nA right to appeal without a copy of the judgment or a lawyer is a 'shadow' right. It violates the 'Fair\nProcedure' of Art 21.\nB. Respondent / State Authority\nThe State argued that once a person is convicted by two courts, they have no automatic right to a free\nlawyer for the Supreme Court.",
+      "judgment": "Ruling: The Supreme Court ordered free legal aid and a free copy of judgments for all prisoners.",
+      "reasoning": "The Court held that the 'Right to Fair Trial' does not end with conviction. If a person is too poor to\nafford a lawyer, the State must provide one. A prisoner has a human right to challenge their\ndetention in the highest court. Legal aid is not a 'charity' but a constitutional mandate under Art 21\nand 39A.",
+      "legalPrinciples": "1. Right to Free Legal Aid is a part of Article 21.\n2. Convicts have a right to a free copy of the judgment to exercise their right to appeal.\n3. Access to justice is a universal human right."
+    },
+    {
+      "id": "delhi-federation-of-hawkers-v-delhi-administration",
+      "title": "Delhi Federation of Hawkers v. Delhi Administration",
+      "facts": "Street hawkers and vendors were being forcibly removed from the streets of Delhi by the municipal\nauthorities. They sought a right to continue their business as a part of their 'right to survival'.",
+      "issues": "1. Is 'Street Vending' a fundamental right under Art 19(1)(g) and 21?\n2. How to balance 'Public Space' with the human right to 'Livelihood'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nHawkers provide cheap goods to the poor and sustain their families. They are an essential part of the\nurban economy and have a right to work.\nB. Respondent / State Authority\nThe State argued that hawkers cause traffic jams and unhygienic conditions on the roads.",
+      "judgment": "Ruling: The Supreme Court recognized the right to hawk and ordered the framing of a 'Hawking\nPolicy'.",
+      "reasoning": "The Court held that the right to livelihood is an integral part of the right to life. Street vendors cannot\nbe treated as 'nuisances' to be swept away. The Court directed the government to create 'Hawking\nZones' where they could do business without obstructing traffic. This case protected the 'Informal\nEconomy' as a human rights space.",
+      "legalPrinciples": "1. Right to Livelihood for the informal sector.\n2. Street vending is a protected trade under Art 19.\n3. The State must 'regularize' rather than 'criminalize' the survival strategies of the poor."
+    },
+    {
+      "id": "kalyani-v-state-of-u-p",
+      "title": "Kalyani v. State of U.P.",
+      "facts": "A widow was threatened with eviction from a small piece of land she had occupied for decades. The\nlocal administration wanted to use the land for a beautification project. She had no alternative place\nto live and argued that the state cannot render her homeless without rehabilitation.",
+      "issues": "1. Is the Right to Shelter a part of the Right to Life (Art 21)?\n2. Can the State prioritize 'beautification' over the human right to a roof?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nShelter is the most basic human need. Eviction without relocation is a death sentence for a destitute\nwidow.\nB. Respondent / State Authority\nThe land is public property. Encroachers have no legal right to stay, and urban planning requires the\nclearance of such sites.",
+      "judgment": "Ruling: The SC halted the eviction and ordered the State to provide alternative housing.",
+      "reasoning": "The Court held that 'Right to Life' includes the right to 'Shelter'. A person is not just a digit in a\ncensus; they have a right to live with dignity. Forced eviction of the poor without a rehabilitation\nscheme is an act of state-sponsored cruelty. The Court ruled that 'beautification' of a city cannot\nhappen over the 'graveyards' of the poor.",
+      "legalPrinciples": "1. Right to Shelter is a fundamental human right.\n2. Rehabilitation is a mandatory prerequisite for the eviction of the urban poor.\n3. The Public Trust Doctrine requires the State to use land for the welfare of all, including the\nmarginalized."
+    },
+    {
+      "id": "people-s-union-for-democratic-rights-v-ministry-of-home-affairs",
+      "title": "People's Union for Democratic Rights v. Ministry of Home Affairs",
+      "facts": "This case followed the 1984 anti-Sikh riots in Delhi. The petitioner alleged that the police remained\npassive or even collaborated with the mobs during the mass killings. They sought a judicial inquiry\nand protection of the surviving victims.",
+      "issues": "1. Is the State liable for failing to protect a specific community from 'private violence'?\n2. Does the 'Right to Protection of Law' (Art 14) include protection from state-complicit mobs?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe primary duty of the State is the security of its citizens. Failure to stop a massacre is a gross\nviolation of human rights.\nB. Respondent / State Authority\nThe State argued that the riots were a spontaneous outburst and the police did their best to maintain\nlaw and order in a chaotic situation.",
+      "judgment": "Ruling: The Court issued directions for relief and rehabilitation and emphasized State accountability.",
+      "reasoning": "The Court held that the State's duty to maintain the rule of law is absolute. If the State's police force\nfails to protect lives based on religion or caste, it is a failure of the constitutional guarantee. The right\nto life (Art 21) imposes a 'positive duty' on the State to prevent violence. This case established that\n'inaction' by the State is as much a human rights violation as 'action'.",
+      "legalPrinciples": "1. State's positive obligation to protect life from private actors.\n2. Right to non-discrimination in the provision of security.\n3. Accountability of the State for custodial or systemic failure during riots."
+    },
+    {
+      "id": "indra-sawhney-v-union-of-india",
+      "title": "Indra Sawhney v. Union of India",
+      "facts": "The government's decision to implement the Mandal Commission recommendation of 27%\nreservation for Other Backward Classes (OBCs) in central services was challenged. The question was\nhow to balance 'equality of opportunity' with 'social justice'.",
+      "issues": "1. Can 'Caste' be a factor in determining 'social and educational backwardness'?\n2. Does reservation violate the human right to merit-based equality?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nReservation based on caste is a violation of Art 16(1) and creates a permanent divide in society,\naffecting the rights of the talented.\nB. Respondent / State Authority\nCenturies of oppression have left certain classes unable to compete. 'Formal Equality' is a myth;\n'Substantive Equality' requires affirmative action.",
+      "judgment": "Ruling: The SC upheld the reservation but introduced the 'Creamy Layer' exclusion.",
+      "reasoning": "The Court held that 'Equality' does not mean 'Uniformity'. To bring the marginalized into the\nmainstream, the State can use reservations. However, it must exclude those who have already\nachieved social and economic progress (the Creamy Layer). It also capped reservations at 50% to\nbalance the rights of the general category.",
+      "legalPrinciples": "1. Recognition of 'Substantive Equality' as a human rights goal.\n2. Caste as a valid (but not sole) indicator of backwardness.\n3. Balancing individual rights (merit) with group rights (social justice)."
+    },
+    {
+      "id": "g-thilagavathi-v-state-of-tamil-nadu-2",
+      "title": "G. Thilagavathi v. State of Tamil Nadu",
+      "facts": "This recent case pushed for the appointment of women in non-Agamic temples. The State had\nlaunched a scheme to train all castes as priests, and women sought to be included in this vocational\ntraining and appointment process.",
+      "issues": "1. Is the exclusion of women from priesthood based on 'custom' valid under Art 25?\n2. Does gender-neutral priesthood further the goal of a 'secular' democracy?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nSpiritual service is a matter of learning and faith, not biology. Menstruation or gender cannot be a bar\nto serving God.\nB. Respondent / State Authority\nTraditionalists argued that ' Agamas' and long-standing customs specify gender roles, and courts\nshould not interfere with religious sentiments.",
+      "judgment": "Ruling: The High Court upheld the right of women to be appointed as priests.",
+      "reasoning": "The Court held that in a 'Constitutional Democracy', the individual's right to equality overrides\ninstitutional traditions that discriminate. Priesthood is a service that should be open to all qualified\npersons regardless of gender. This case represents the 'humanization' of religious institutions\nthrough the prism of Art 15.",
+      "legalPrinciples": "1. Gender is not a valid criterion for spiritual or religious appointments.\n2. Agamic customs must yield to Part III of the Constitution.\n3. The human right to 'Vocation' includes religious service."
+    },
+    {
+      "id": "satender-kumar-antil-v-cbi",
+      "title": "Satender Kumar Antil v. CBI",
+      "facts": "The petitioner challenged the mechanical way in which 'Bail' is denied in India, leading to jails being\nfilled with over 75% undertrials. He sought guidelines to make 'Bail the Rule and Jail the Exception'.",
+      "issues": "1. Is the 'Presumption of Innocence' a human right under Article 21?\n2. Does the mechanical arrest of individuals violate the right to liberty?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nArrest should not be a tool of harassment. If a person is cooperating with the investigation, there is no\nreason to deprive them of their liberty before conviction.\nB. Respondent / State Authority\nThe investigative agencies argued that arrest is necessary for effective interrogation and to prevent\ntampering with evidence in serious crimes.",
+      "judgment": "Ruling: The Supreme Court issued comprehensive guidelines on bail and arrest.",
+      "reasoning": "The Court held that 'Liberty' is the most precious human right. The State cannot use the power of\narrest 'routinely' or 'mechanically'. The Court emphasized that 'Bail is the rule, and jail is the\nexception'. It directed the government to consider a 'Bail Act' similar to other democracies to ensure\nthat the poor are not languishing in jail merely because they cannot afford a bond.",
+      "legalPrinciples": "1. Presumption of Innocence is a core human right.\n2. Arrest should be the 'last resort' of the police.\n3. The judiciary has a duty to protect citizens from 'unnecessary' incarceration."
+    },
+    {
+      "id": "animal-welfare-board-of-india-v-a-nagaraja",
+      "title": "Animal Welfare Board of India v. A. Nagaraja",
+      "facts": "The practice of 'Jallikattu' (bull-taming) in Tamil Nadu was challenged by animal rights groups. They\nargued that bulls were subjected to extreme cruelty (tails bitten, alcohol fed) for human\nentertainment.",
+      "issues": "1. Do 'Animals' have a right to life and dignity under Article 21?\n2. Can 'Cultural Rights' justify the infliction of pain on living creatures?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nEvery living being has an inherent right to live free from torture. Culture is not an excuse for\nbarbarism.\nB. Respondent / State Authority\nThe State and traditionalists argued that Jallikattu is a 2000-year-old tradition and is protected under\nArt 29(1) as 'culture'.",
+      "judgment": "Ruling: The Supreme Court banned Jallikattu (Note: This was later challenged and a 2023 bench\nupheld the state's amendment allowing it with safeguards).",
+      "reasoning": "In the 2014 judgment, the Court held that the Right to Life includes the 'right to live in a healthy\nenvironment', which includes the protection of all life forms. It held that 'Dignity' is not just for\nhumans. Bulls have a right to live free from unnecessary pain. This case expanded 'Human Rights'\nlogic into 'Life Rights' for all sentient beings.",
+      "legalPrinciples": "1. Recognition of the 'Five Freedoms' for animals.\n2. Human 'entertainment' is not a valid ground for animal cruelty.\n3. Expansion of the 'Compassion' duty (Art 51A) into a legal right for animals."
+    },
+    {
+      "id": "m-c-mehta-v-union-of-india-4",
+      "title": "M.C. Mehta v. Union of India",
+      "facts": "Tanneries in Kanpur were discharging toxic waste into the Ganga. The Court had to decide if it could\nshut down industries that were economically vital but environmentally lethal.",
+      "issues": "1. Is the human right to 'Clean Water' superior to the right to 'Trade'?\n2. What is the 'Public Trust' duty of the industry?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe water used by millions for drinking and rituals was poisoned. The 'Right to Life' was at stake.\nB. Respondent / State Authority\nThe tanneries argued that closure would cause mass unemployment and ruin the local economy.",
+      "judgment": "Ruling: The SC ordered the closure of polluting tanneries.",
+      "reasoning": "The Court held that 'Life, health and ecology have greater importance than the problems of the\nindustry'. A company that cannot treat its effluent has 'no right to exist'. The State is a trustee of the\nriver, and it must ensure that the 'human rights' of the downstream population to safe water are not\ntraded for industrial taxes.",
+      "legalPrinciples": "1. Right to Clean Water is a fundamental human right.\n2. Economic loss is no defense for the violation of Art 21.\n3. Integration of Environmental safety into the core of Human Rights."
+    },
+    {
+      "id": "subhash-chandra-v-union-of-india",
+      "title": "Subhash Chandra v. Union of India",
+      "facts": "The case dealt with the human rights of persons with 'Mental Illness' in government asylums. It was\nreported that they were kept in chains, denied proper food, and treated with no regard for their\ndignity.",
+      "issues": "1. Do persons with mental illness retain their fundamental rights?\n2. Is the State liable for 'institutionalized' neglect?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nMental illness is a disability, not a crime. Keeping patients in chains is a violation of Art 21.\nB. Respondent / State Authority\nThe State argued that asylums were underfunded and physical restraint was necessary for 'unruly'\npatients.",
+      "judgment": "Ruling: The SC issued guidelines for the humane treatment of mental health patients.",
+      "reasoning": "The Court held that 'Mental Health' is a part of the Right to Life. A person does not lose their\n'Personhood' just because their mind is ill. The Court banned the use of chains and directed the\ngovernment to modernize mental health facilities. It ruled that the State has a 'Fiduciary Duty' to act\nas a guardian for those who cannot care for themselves.",
+      "legalPrinciples": "1. Right to Dignity for persons with mental disabilities.\n2. Prohibition of 'inhuman restraints' in medical institutions.\n3. State's positive duty to provide 'rehabilitative' healthcare."
+    },
+    {
+      "id": "x-v-union-of-india",
+      "title": "X v. Union of India",
+      "facts": "A 13-year-old rape survivor sought permission to terminate her 32-week pregnancy. At the time, the\nlaw only allowed abortion up to 20 weeks. She argued that forced motherhood would be a\ncontinuous trauma and a violation of her life.",
+      "issues": "1. Can the 'Right to Life' of a survivor override the statutory 20-week limit?\n2. What is the scope of 'Reproductive Autonomy' for minors?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe survivor is a child. Forcing her to bear a child from rape is a form of 'State-inflicted torture'.\nB. Respondent / State Authority\nThe medical board expressed concerns about the safety of a late-term abortion for the mother.",
+      "judgment": "Ruling: The Supreme Court allowed the abortion.",
+      "reasoning": "The Court held that the 'physical and mental health' of the mother is the supreme consideration. A\nlaw cannot be interpreted in a way that causes 'permanent psychological scarring' to a victim of\nsexual violence. The Court prioritized the 'Human Rights' of the girl child over the 'technical' limit of\nthe MTP Act. This case solidified 'Mental Health' as a valid ground for late-term reproductive\nchoices.",
+      "legalPrinciples": "1. Right to Bodily Integrity is absolute.\n2. Mental Health is a core component of the 'Right to Life'.\n3. The judiciary will use 'Equity' to bypass restrictive statutes in human rights crises."
+    },
+    {
+      "id": "state-of-west-bengal-v-committee-for-protection-of-democratic-rights",
+      "title": "State of West Bengal v. Committee for Protection of Democratic Rights",
+      "facts": "A political murder occurred in West Bengal. The High Court ordered a CBI investigation, bypassing\nthe State police. The State challenged this, arguing that the High Court cannot order a CBI probe\nwithout the State's consent, as 'Law and Order' is a State subject.",
+      "issues": "1. Does the human right to a 'Fair Investigation' override federalism limits?\n2. Can the High Court use Art 226 to ensure investigative independence?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nWhen the State police are suspected of bias or complicity, only an independent agency can protect the\nhuman rights of the victims' families.\nB. Respondent / State Authority\nThe State argued that the CBI can only enter a state with the 'consent' of the state government (Delhi\nSpecial Police Establishment Act).",
+      "judgment": "Ruling: The Supreme Court upheld the High Court's power to order a CBI probe.",
+      "reasoning": "The Court held that 'Fundamental Rights' are the supreme law. If a person's life is taken and the State\nmachinery is failing to investigate fairly, the 'Right to Justice' (Art 21) is violated. The High Courts and\nthe Supreme Court have the inherent power to ensure that a 'Just, Fair and Transparent' investigation\ntakes place. No technicality of federalism can be used to shield the State from accountability.",
+      "legalPrinciples": "1. Right to a Fair Investigation is a fundamental human right.\n2. The judiciary can bypass State consent to ensure investigative integrity.\n3. The protection of life (Art 21) is a non-delegable duty of all courts."
+    },
+    {
+      "id": "pucl-v-union-of-india",
+      "title": "PUCL v. Union of India",
+      "facts": "A PIL was filed highlighting the suspicious 'encounter' deaths in Maharashtra. It was alleged that the\npolice were carrying out extra-judicial executions and claiming they were 'cross-fire' incidents.",
+      "issues": "1. Can the State use 'lethal force' outside the judicial process?\n2. What safeguards are required to prevent 'fake encounters'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nExtra-judicial killings are a 'state-sponsored crime'. Every person, even a terrorist, has a right to be\n'tried' in a court of law before being punished.\nB. Respondent / State Authority\nThe police argued that in the heat of a chase, they must shoot in self-defense to protect the public\nfrom dangerous criminals.",
+      "judgment": "Ruling: The Supreme Court issued 16 mandatory guidelines for investigating encounter deaths.",
+      "reasoning": "The Court held that 'Killings in encounters' must be treated as potential murders. It mandated: (1)\nMandatory FIR, (2) Magisterial Inquiry, (3) Independent investigation by another police station/CID,\nand (4) Compensation to the family if proven fake. The Court ruled that 'The Right to Life is available\neven to the most dreaded criminal'. Self-defense must be proven in a court of law, not decided by a\npoliceman's gun.",
+      "legalPrinciples": "1. Prohibition of extra-judicial executions.\n2. Mandatory transparency and accountability in custodial/encounter deaths.\n3. Right to a judicial trial as a prerequisite for the deprivation of life."
+    },
+    {
+      "id": "people-s-union-for-civil-liberties-v-union-of-india",
+      "title": "People's Union for Civil Liberties v. Union of India",
+      "facts": "The government proposed a DNA profiling database. Critics argued that storing the DNA of millions\nof citizens, including those not convicted of any crime, would lead to 'genetic surveillance' and\ndiscrimination.",
+      "issues": "1. Is 'Genetic Information' a part of the Right to Privacy?\n2. Does a massive DNA database satisfy the test of 'Proportionality'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nDNA is the 'blueprint' of a person. Allowing the State to keep it forever is a total invasion of the\n'genetic sanctum' of the individual.\nB. Respondent / State Authority\nThe State argued that DNA is essential for solving cold cases and identifying missing persons/\nunidentified bodies.",
+      "judgment": "Ruling: The SC laid down strict limits on DNA collection.",
+      "reasoning": "Following the Puttaswamy logic, the Court held that 'Bodily Integrity' includes the right to control\none's genetic data. DNA can only be collected if there is a 'clear link' to a crime and a 'valid law'\nexists. The State cannot collect data 'just in case'. The right to privacy prevents the 'wholesale'\nsurveillance of a population. This case represents the frontier of 'Bio-Human Rights'.",
+      "legalPrinciples": "1. Genetic Privacy is a fundamental right under Article 21.\n2. Data minimization: State can only collect what is strictly necessary for a specific aim.\n3. Protection against 'Genetic Profiling'."
+    },
+    {
+      "id": "m-c-mehta-v-union-of-india-5",
+      "title": "M.C. Mehta v. Union of India",
+      "facts": "This case dealt with the protection of the Taj Mahal and the human rights of the people of Agra to a\nheritage-rich environment. It looked at the impact of small foundries and refineries on the health of\nthe local population and the monument.",
+      "issues": "1. Does 'Heritage' form a part of the Right to Life?\n2. Can the Court relocate hundreds of small businesses for environmental protection?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nAgra was a 'gas chamber'. Acid rain was destroying both the Taj and the lungs of the people. Heritage\nis a part of the 'collective life' of a nation.\nB. Respondent / State Authority\nThe business owners argued that they were being sacrificed for a 'stone building'. Livelihood is also a\nhuman right.",
+      "judgment": "Ruling: The SC ordered the relocation of polluting units and the creation of a 'Green Trapezium'.",
+      "reasoning": "The Court held that 'Sustainable Development' requires the protection of both 'Culture' and 'Health'.\nHeritage is the legacy we leave for future generations. The 'Right to Heritage' is an extension of the\nright to a clean environment. The Court ruled that while livelihood is important, it cannot be\nsustained through the destruction of a world heritage site and public health.",
+      "legalPrinciples": "1. Right to Heritage is a part of the 'Right to Environment' (Art 21).\n2. Use of 'Green Belts' to protect human rights from industrial spillover.\n3. Inter-generational Equity: Duties to future citizens."
+    },
+    {
+      "id": "gaurav-kumar-v-union-of-india",
+      "title": "Gaurav Kumar v. Union of India",
+      "facts": "Various Bar Councils in India were charging exorbitant fees (running into tens of thousands) from\nlaw graduates for 'Enrollment' as an advocate. The petitioner challenged this as a barrier to the 'Right\nto Practice a Profession'.",
+      "issues": "1. Does an excessive entry fee for a profession violate the human right to livelihood?\n2. Can the State delegate power to 'tax' the poor through professional bodies?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nLaw is a service, not a business. Charging high fees prevents the poor from becoming lawyers, thus\nmaking the Bar an 'elitist' space, violating Art 14 and 19(1)(g).\nB. Respondent / State Authority\nThe Bar Councils argued that they needed the funds for welfare schemes and to manage the licensing\nprocess.",
+      "judgment": "Ruling: The Supreme Court struck down the excessive fees and capped them at a nominal amount.",
+      "reasoning": "The Court held that the 'Right to Practice' a profession is a fundamental human right linked to the\nright to livelihood (Art 21). Enrollment fees must be 'nominal' and 'regulatory', not 'prohibitive'.\nCharging large sums from students who have already spent on education is arbitrary. The Court\nruled that access to the 'legal profession' must be inclusive to ensure ' Access to Justice' for all.",
+      "legalPrinciples": "1. Right to Livelihood includes the right to enter a profession without financial barriers.\n2. Professional regulation must be 'inclusive' and not 'exclusionary'.\n3. Fees must be proportionate to the actual cost of regulation."
+    },
+    {
+      "id": "common-cause-v-union-of-india-3",
+      "title": "Common Cause v. Union of India",
+      "facts": "A PIL highlighted the 'illegal and rampant' mining in Odisha, where companies were extracting\nminerals beyond their lease areas, leaving behind a scarred and poisoned landscape. The petitioner\nsought the complete 'restitution' of the environment.",
+      "issues": "1. Can the State be forced to use 'Mining Royalties' for the human rights of the local population?\n2. What is the extent of 'Ecological Restitution'?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe mining wealth of the state belongs to the people. While companies made billions, the local tribals\nwere left with toxic water and no forest. This is a 'Distributive Injustice'.\nB. Respondent / State Authority\nThe mining companies argued they had paid all royalties and taxes and environmental restoration\nwas the job of the government.",
+      "judgment": "Ruling: The SC ordered 100% penalties for illegal mining and the creation of a 'Restoration Fund'.",
+      "reasoning": "The Court held that natural resources are 'National Assets'. Any company that mines illegally is\nstealing from the public. The 'Polluter Pays Principle' dictates that 100% of the value of the illegally\nextracted mineral must be paid as a penalty. This money must be spent only on the healthcare and\nenvironment of the mining-affected communities. This case introduced the concept of 'Environmental\nCompensation' as a human rights remedy.",
+      "legalPrinciples": "1. Natural Resources are held in 'Public Trust' for the community.\n2. Illegal mining is a violation of the collective Right to Life.\n3. Mandatory investment of industrial profits into local human rights development."
+    },
+    {
+      "id": "sunil-batra-v-delhi-administration-2",
+      "title": "Sunil Batra v. Delhi Administration",
+      "facts": "In this iteration of the Batra cases, the Court examined why prisoners were unaware of their legal\nrights and unable to contact lawyers for years.",
+      "issues": "1. Is the 'Right to Legal Aid' a fundamental human right for the incarcerated?\n2. Can the Court mandate the 'opening' of jails to public oversight?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nA prisoner in a cell is 'forgotten' by the world. Without a lawyer, they are at the mercy of the warden.\nLiberty is lost without information.\nB. Respondent / State Authority\nThe State argued that jail discipline requires secrecy and that allowing outsiders would lead to\nsecurity risks.",
+      "judgment": "Ruling: The SC ordered that every prisoner must have access to a lawyer and legal aid.",
+      "reasoning": "The Court held that 'Justice' must reach the prison cell. Article 39A (Free Legal Aid) is not just a\ndirective but a 'Constitutional Mandate' under Art 21. If a person cannot afford a lawyer, the State\nmust provide one to ensure the 'procedure' of their detention is fair. The Court also ordered that\nsocial workers and academics should be allowed to visit jails to 'watch' the human rights of the\ninmates.",
+      "legalPrinciples": "1. Right to Legal Aid is a fundamental human right.\n2. Prisons must be 'transparent' to prevent human rights abuses.\n3. Access to courts is a non-negotiable right of every human being, regardless of their crime."
+    },
+    {
+      "id": "rajesh-sharma-v-state-of-u-p",
+      "title": "Rajesh Sharma v. State of U.P.",
+      "facts": "The Court examined the widespread 'misuse' of Section 498A of the IPC (anti-dowry law), where the\nentire family of the husband was often arrested without investigation based on a single complaint.\nThe Court had to balance the protection of women from dowry harassment with the right to liberty\nof the accused.",
+      "issues": "1. Can the State carry out 'automatic arrests' in family disputes?\n2. How to protect the 'Human Rights' of the innocent accused in matrimonial cases?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nInnocent parents and siblings were being jailed for months before trial. The 'arrest-first, investigate-\nlater' policy was a violation of Art 21.\nB. Respondent / State Authority\nThe State and women's groups argued that dowry deaths are a national epidemic and strict laws are\nneeded to protect vulnerable wives from 'domestic torture'.",
+      "judgment": "Ruling: The SC issued guidelines to prevent 'unnecessary' arrests in 498A cases.",
+      "reasoning": "The Court held that 'Liberty is too precious to be sacrificed on a mere allegation'. While dowry is a\nsocial evil, the law cannot be used as a 'weapon' of revenge. The Court directed the creation of 'Family\nWelfare Committees' to look into complaints before an arrest is made. It held that the human rights of\nthe accused to 'Personal Liberty' must be balanced with the protection of the victim.",
+      "legalPrinciples": "1. Balancing the rights of the victim with the 'Presumption of Innocence'.\n2. Mandatory 'Preliminary Inquiry' before arrest in matrimonial disputes.\n3. Human rights approach to criminal investigation to prevent harassment."
+    },
+    {
+      "id": "ammanni-ammal-v-ramaswami-naidu",
+      "title": "Ammanni Ammal v. Ramaswami Naidu",
+      "facts": "This ancient case dealt with the 'Right to Maintenance' of a widow who had been excluded from her\nhusband's family home. It explored the 'Moral' versus 'Legal' duty of the State and family to protect\nvulnerable women.",
+      "issues": "1. Does a widow have an inherent right to 'Shelter and Food' from the ancestral estate?\n2. Can 'Social Custom' override the human right to survival?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe widow argued that her life was tied to the family. Casting her out was an act of 'economic\nmurder'.\nB. Respondent / State Authority\nThe heirs argued that under the strict interpretation of ancient texts, she only had a right to a small\nstipend, not a right to reside.",
+      "judgment": "Ruling: The Court upheld the widow's right to maintenance and residence.",
+      "reasoning": "Even in the colonial era, the Court recognized that the 'Human Right to survive' is paramount. It\nruled that the 'moral' duty of a family to support its women is a 'legal' duty that the courts will\nenforce. This was an early step toward the 'Human Rights' recognition of the elderly and widows in\nIndia.",
+      "legalPrinciples": "1. Right to Maintenance is a fundamental survival right.\n2. The 'Welfare' of the vulnerable is a primary legal objective.\n3. Recognition of 'Economic Rights' of women in domestic structures."
+    },
+    {
+      "id": "state-of-west-bengal-v-anwar-ali-sarkar",
+      "title": "State of West Bengal v. Anwar Ali Sarkar",
+      "facts": "The West Bengal Special Courts Act allowed the government to choose 'any' criminal case and send it\nto a 'Special Court' where the procedure was faster and had fewer safeguards for the accused. The\ngovernment argued this was necessary for 'speedy trials'.",
+      "issues": "1. Does 'Equality before the Law' (Art 14) allow the government to pick and choose who gets a\n'special' trial?\n2. What is the 'Test of Rational Differentia' in human rights?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nThe accused argued that the law was 'arbitrary'. Why should one murderer get a normal trial and\nanother a 'Special' one? This violates the right to equal treatment.\nB. Respondent / State Authority\nThe State argued that it needs flexibility to handle 'notorious' crimes that require fast disposal.",
+      "judgment": "Ruling: The SC struck down the Act as unconstitutional.",
+      "reasoning": "The Court held that 'Procedure' must be uniform. Art 14 forbids 'class legislation'. The State cannot\nhave 'unfettered discretion' to decide which human being gets which type of justice. Any\nclassification must have a 'Rational Nexus' with a 'Legitimate Object'. Since the law was vague and\nallowed for favoritism, it was a violation of the fundamental human right to equality.",
+      "legalPrinciples": "1. Equality before the Law is a non-negotiable human right.\n2. Rule against ' Arbitrary State Discretion'.\n3. Procedural uniformity is a prerequisite for 'Just' outcomes."
+    },
+    {
+      "id": "hussainara-khatoon-iv-v-home-secretary-state-of-bihar",
+      "title": "Hussainara Khatoon (IV) v. Home Secretary, State of Bihar",
+      "facts": "In the final hearing of the Bihar undertrials case, the Court looked at the 'Root Cause' of mass\nincarceration: the lack of free legal aid for the poor.",
+      "issues": "1. Is 'Free Legal Aid' an implicit part of Article 21?\n2. Can the State claim 'Poverty' as an excuse for not providing lawyers?",
+      "arguments": "A. Petitioner / Human Rights Advocate\nIf a person is too poor to hire a lawyer, the 'trial' is a sham. The Right to Life includes the 'Right to be\nDefended'.\nB. Respondent / State Authority\nThe State argued it was a 'Directive Principle' and not a 'Right' that citizens could demand in court.",
+      "judgment": "Ruling: The SC declared Free Legal Aid a Fundamental Right.",
+      "reasoning": "The Court held that 'Just, Fair and Reasonable' procedure is impossible without a lawyer. A poor man\nin a court of law is like a 'blind man' in a desert. To fulfill the promise of Article 21, the State must\nprovide free legal services to those who cannot afford them. This judgment converted a 'wish' into a\n'right' and led to the creation of the Legal Services Authorities (NALSA).",
+      "legalPrinciples": "1. Right to Free Legal Aid is a fundamental human right.\n2. Poverty cannot be a barrier to Justice.\n3. The judiciary has the duty to ensure 'Level Playing Fields' for the marginalized."
+    }
+  ]
+}

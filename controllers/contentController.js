@@ -1,7 +1,11 @@
 const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
-const { isValidFilePath, isValidArticleKey } = require("../middleware/inputValidator");
+const {
+  isValidArticleKey,
+  isValidCaseStudyKey,
+  isValidFilePath,
+} = require("../middleware/inputValidator");
 
 // Content is served from backend/content/ (bundled with the backend deployment).
 // This directory mirrors the frontend's assets structure so the same manifest
@@ -13,12 +17,16 @@ const mcqBundleFile = path.join(contentDir, "js", "mcq-bundle.js");
 const bookManifestFile = path.join(contentDir, "js", "book-manifest.js");
 const articleManifestFile = path.join(contentDir, "data", "articles", "manifest.js");
 const articleBundlesDir = path.join(contentDir, "data", "articles");
+const caseStudiesDir = path.join(contentDir, "data", "case-studies");
+const caseStudyManifestFile = path.join(caseStudiesDir, "manifest.json");
 
 const cache = {
   mcqBundle: null,
   bookManifest: null,
   articleManifest: null,
   articleBundles: new Map(),
+  caseStudyManifest: null,
+  caseStudyCategories: new Map(),
 };
 
 function setPrivateResponseHeaders(res) {
@@ -164,6 +172,57 @@ function getArticleByKey(articleKey) {
   return bundle[articleKey] || null;
 }
 
+function readJsonFile(filePath, fallbackValue) {
+  const raw = fs.readFileSync(filePath, "utf8");
+  const parsed = JSON.parse(raw);
+  return parsed && typeof parsed === "object" ? parsed : fallbackValue;
+}
+
+function getCaseStudyManifest() {
+  if (!cache.caseStudyManifest) {
+    const manifest = readJsonFile(caseStudyManifestFile, { categories: [] });
+    cache.caseStudyManifest = {
+      categories: Array.isArray(manifest.categories) ? manifest.categories : [],
+    };
+  }
+
+  return cache.caseStudyManifest;
+}
+
+function getCaseStudyCategory(categoryId) {
+  if (!cache.caseStudyCategories.has(categoryId)) {
+    const resolvedPath = resolveSafeFile(caseStudiesDir, `${categoryId}.json`);
+
+    if (!resolvedPath) {
+      return null;
+    }
+
+    const payload = readJsonFile(resolvedPath, null);
+    const isValidPayload =
+      payload &&
+      typeof payload === "object" &&
+      payload.id === categoryId &&
+      typeof payload.title === "string" &&
+      Array.isArray(payload.cases);
+
+    cache.caseStudyCategories.set(categoryId, isValidPayload ? payload : null);
+  }
+
+  return cache.caseStudyCategories.get(categoryId) || null;
+}
+
+function getCaseStudyItem(categoryId, caseStudyId) {
+  const category = getCaseStudyCategory(categoryId);
+
+  if (!category || !Array.isArray(category.cases)) {
+    return null;
+  }
+
+  return (
+    category.cases.find((item) => item && item.id === caseStudyId) || null
+  );
+}
+
 function sendMissingFile(res, message) {
   return res.status(404).json({
     success: false,
@@ -304,12 +363,121 @@ function getArticleHandler(req, res) {
   }
 }
 
+function getCaseStudyCategoriesHandler(req, res) {
+  try {
+    setPrivateResponseHeaders(res);
+    const manifest = getCaseStudyManifest();
+    return res.status(200).json({
+      success: true,
+      categories: manifest.categories,
+    });
+  } catch (error) {
+    console.error("Case study manifest load error:", error);
+    return res.status(500).json({
+      success: false,
+      message: "Case study categories could not be loaded.",
+    });
+  }
+}
+
+function getCaseStudyCategoryHandler(req, res) {
+  try {
+    const categoryId = String(req.params.categoryId || "").trim();
+
+    if (!categoryId || !isValidCaseStudyKey(categoryId)) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid case study category.",
+      });
+    }
+
+    const category = getCaseStudyCategory(categoryId);
+
+    if (!category) {
+      return sendMissingFile(res, "Requested case study category was not found.");
+    }
+
+    setPrivateResponseHeaders(res);
+    return res.status(200).json({
+      success: true,
+      category: {
+        id: category.id,
+        title: category.title,
+        totalCases: category.totalCases,
+      },
+      cases: Array.isArray(category.cases)
+        ? category.cases.map((item) => ({
+            id: item.id,
+            title: item.title,
+          }))
+        : [],
+    });
+  } catch (error) {
+    console.error("Case study category load error:", error);
+    return res.status(500).json({
+      success: false,
+      message: "Case study titles could not be loaded.",
+    });
+  }
+}
+
+function getCaseStudyItemHandler(req, res) {
+  try {
+    const categoryId = String(req.params.categoryId || "").trim();
+    const caseStudyId = String(req.params.caseStudyId || "").trim();
+
+    if (!categoryId || !isValidCaseStudyKey(categoryId)) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid case study category.",
+      });
+    }
+
+    if (!caseStudyId || !isValidCaseStudyKey(caseStudyId)) {
+      return res.status(400).json({
+        success: false,
+        message: "Invalid case study id.",
+      });
+    }
+
+    const caseStudy = getCaseStudyItem(categoryId, caseStudyId);
+
+    if (!caseStudy) {
+      return sendMissingFile(res, "Requested case study was not found.");
+    }
+
+    setPrivateResponseHeaders(res);
+    return res.status(200).json({
+      success: true,
+      caseStudy: {
+        id: caseStudy.id,
+        title: caseStudy.title,
+        facts: caseStudy.facts,
+        issues: caseStudy.issues,
+        arguments: caseStudy.arguments,
+        judgment: caseStudy.judgment,
+        reasoning: caseStudy.reasoning,
+        legalPrinciples: caseStudy.legalPrinciples,
+      },
+    });
+  } catch (error) {
+    console.error("Case study item load error:", error);
+    return res.status(500).json({
+      success: false,
+      message: "Case study could not be loaded.",
+    });
+  }
+}
+
 module.exports = {
   getArticleHandler,
   getArticlesManifestHandler,
   getBookCoverHandler,
   getBookFileHandler,
   getBooksManifestHandler,
+  getCaseStudyCategoriesHandler,
+  getCaseStudyCategoryHandler,
+  getCaseStudyItemHandler,
   getMcqBundle,
   getMcqBundleHandler,
 };

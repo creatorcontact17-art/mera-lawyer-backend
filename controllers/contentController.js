@@ -224,6 +224,10 @@ function getBookFileHandler(req, res) {
 
   setPrivateResponseHeaders(res);
   res.type(path.extname(absolutePath));
+  // Force inline display to prevent browsers (especially Safari on Mac)
+  // from auto-downloading the PDF instead of displaying it
+  res.set("Content-Disposition", "inline");
+  res.set("X-Content-Type-Options", "nosniff");
   res.sendFile(absolutePath);
 }
 
